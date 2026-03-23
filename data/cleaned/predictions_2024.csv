@@ -1,0 +1,1001 @@
+District,Crime_Type,Actual_2023,Predicted_2024,Change_cases,Change_pct
+Agra,Assault,964,541,-423,-43.9
+Agra,Burglary,305,501,196,64.3
+Agra,Crimes Against Children,248,157,-91,-36.7
+Agra,Crimes Against SCs,149,181,32,21.5
+Agra,Crimes Against STs,0,4,4,0.0
+Agra,Crimes Against Women,1891,1779,-112,-5.9
+Agra,Cyber Crimes,213,239,26,12.2
+Agra,Cybercrime,587,587,0,0.0
+Agra,Dowry Deaths,190,334,144,75.8
+Agra,Fraud,733,578,-155,-21.1
+Agra,IPC Crimes,11725,11275,-450,-3.8
+Agra,Juvenile IPC,0,5,5,0.0
+Agra,Juvenile SLL,0,5,5,0.0
+Agra,Kidnapping,256,574,318,124.2
+Agra,Missing Persons,0,627,627,0.0
+Agra,Murder,169,612,443,262.1
+Agra,Rape,868,633,-235,-27.1
+Agra,Robbery,517,601,84,16.2
+Agra,SLL Crimes,2454,3237,783,31.9
+Agra,Theft,1128,863,-265,-23.5
+Aligarh,Assault,453,553,100,22.1
+Aligarh,Burglary,979,597,-382,-39.0
+Aligarh,Crimes Against Children,385,533,148,38.4
+Aligarh,Crimes Against SCs,266,260,-6,-2.3
+Aligarh,Crimes Against STs,0,1,1,0.0
+Aligarh,Crimes Against Women,1707,2183,476,27.9
+Aligarh,Cyber Crimes,183,236,53,29.0
+Aligarh,Cybercrime,124,569,445,358.9
+Aligarh,Dowry Deaths,251,577,326,129.9
+Aligarh,Fraud,57,624,567,994.7
+Aligarh,IPC Crimes,13777,11555,-2222,-16.1
+Aligarh,Juvenile IPC,0,1,1,0.0
+Aligarh,Juvenile SLL,0,1,1,0.0
+Aligarh,Kidnapping,568,597,29,5.1
+Aligarh,Missing Persons,0,655,655,0.0
+Aligarh,Murder,177,581,404,228.2
+Aligarh,Rape,144,619,475,329.9
+Aligarh,Robbery,1185,554,-631,-53.2
+Aligarh,SLL Crimes,8671,8388,-283,-3.3
+Aligarh,Theft,856,623,-233,-27.2
+Ambedkar Nagar,Crimes Against Children,161,189,28,17.4
+Ambedkar Nagar,Crimes Against SCs,269,261,-8,-3.0
+Ambedkar Nagar,Crimes Against STs,0,1,1,0.0
+Ambedkar Nagar,Crimes Against Women,619,613,-6,-1.0
+Ambedkar Nagar,Cyber Crimes,101,89,-12,-11.9
+Ambedkar Nagar,IPC Crimes,4058,4157,99,2.4
+Ambedkar Nagar,Juvenile IPC,0,1,1,0.0
+Ambedkar Nagar,Juvenile SLL,0,1,1,0.0
+Ambedkar Nagar,Missing Persons,249,911,662,265.9
+Ambedkar Nagar,SLL Crimes,6637,5846,-791,-11.9
+Amethi,Crimes Against Children,47,87,40,85.1
+Amethi,Crimes Against SCs,214,233,19,8.9
+Amethi,Crimes Against STs,0,1,1,0.0
+Amethi,Crimes Against Women,377,435,58,15.4
+Amethi,Cyber Crimes,15,42,27,180.0
+Amethi,IPC Crimes,2744,3109,365,13.3
+Amethi,Juvenile IPC,0,1,1,0.0
+Amethi,Juvenile SLL,0,1,1,0.0
+Amethi,Missing Persons,90,379,289,321.1
+Amethi,SLL Crimes,1772,1778,6,0.3
+Amroha,Crimes Against Children,77,84,7,9.1
+Amroha,Crimes Against SCs,93,102,9,9.7
+Amroha,Crimes Against STs,0,1,1,0.0
+Amroha,Crimes Against Women,474,534,60,12.7
+Amroha,Cyber Crimes,46,51,5,10.9
+Amroha,IPC Crimes,3954,3841,-113,-2.9
+Amroha,Juvenile IPC,20,33,13,65.0
+Amroha,Juvenile SLL,5,3,-2,-40.0
+Amroha,Missing Persons,107,117,10,9.3
+Amroha,SLL Crimes,6202,6544,342,5.5
+Auraiya,Crimes Against Children,145,146,1,0.7
+Auraiya,Crimes Against SCs,229,227,-2,-0.9
+Auraiya,Crimes Against STs,0,1,1,0.0
+Auraiya,Crimes Against Women,674,619,-55,-8.2
+Auraiya,Cyber Crimes,75,70,-5,-6.7
+Auraiya,IPC Crimes,3690,4089,399,10.8
+Auraiya,Juvenile IPC,0,5,5,0.0
+Auraiya,Juvenile SLL,0,1,1,0.0
+Auraiya,Missing Persons,145,350,205,141.4
+Auraiya,SLL Crimes,3799,2994,-805,-21.2
+Ayodhya,Assault,982,612,-370,-37.7
+Ayodhya,Burglary,488,579,91,18.6
+Ayodhya,Crimes Against Children,271,335,64,23.6
+Ayodhya,Crimes Against SCs,236,239,3,1.3
+Ayodhya,Crimes Against STs,0,1,1,0.0
+Ayodhya,Crimes Against Women,786,627,-159,-20.2
+Ayodhya,Cyber Crimes,80,69,-11,-13.8
+Ayodhya,Cybercrime,471,602,131,27.8
+Ayodhya,Dowry Deaths,893,622,-271,-30.3
+Ayodhya,Fraud,183,614,431,235.5
+Ayodhya,IPC Crimes,5499,5661,162,2.9
+Ayodhya,Juvenile IPC,0,1,1,0.0
+Ayodhya,Juvenile SLL,0,1,1,0.0
+Ayodhya,Kidnapping,67,608,541,807.5
+Ayodhya,Missing Persons,84,596,512,609.5
+Ayodhya,Murder,578,611,33,5.7
+Ayodhya,Rape,428,588,160,37.4
+Ayodhya,Robbery,121,633,512,423.1
+Ayodhya,SLL Crimes,4034,4186,152,3.8
+Ayodhya,Theft,383,572,189,49.3
+Azamgarh,Crimes Against Children,563,507,-56,-9.9
+Azamgarh,Crimes Against SCs,321,283,-38,-11.8
+Azamgarh,Crimes Against STs,4,4,0,0.0
+Azamgarh,Crimes Against Women,1746,1469,-277,-15.9
+Azamgarh,Cyber Crimes,203,146,-57,-28.1
+Azamgarh,IPC Crimes,9332,8311,-1021,-10.9
+Azamgarh,Juvenile IPC,0,1,1,0.0
+Azamgarh,Juvenile SLL,0,1,1,0.0
+Azamgarh,Missing Persons,495,594,99,20.0
+Azamgarh,SLL Crimes,8321,4433,-3888,-46.7
+Badaun,Crimes Against Children,202,224,22,10.9
+Badaun,Crimes Against SCs,172,171,-1,-0.6
+Badaun,Crimes Against STs,0,1,1,0.0
+Badaun,Crimes Against Women,1183,954,-229,-19.4
+Badaun,Cyber Crimes,66,55,-11,-16.7
+Badaun,IPC Crimes,5639,5819,180,3.2
+Badaun,Juvenile IPC,20,18,-2,-10.0
+Badaun,Juvenile SLL,14,14,0,0.0
+Badaun,Missing Persons,193,941,748,387.6
+Badaun,SLL Crimes,4337,4847,510,11.8
+Baghpat,Crimes Against Children,221,227,6,2.7
+Baghpat,Crimes Against SCs,45,64,19,42.2
+Baghpat,Crimes Against STs,0,1,1,0.0
+Baghpat,Crimes Against Women,534,671,137,25.7
+Baghpat,Cyber Crimes,335,335,0,0.0
+Baghpat,IPC Crimes,3281,3497,216,6.6
+Baghpat,Juvenile IPC,0,1,1,0.0
+Baghpat,Juvenile SLL,0,1,1,0.0
+Baghpat,Missing Persons,120,896,776,646.7
+Baghpat,SLL Crimes,4409,3476,-933,-21.2
+Bahraich,Crimes Against Children,474,450,-24,-5.1
+Bahraich,Crimes Against SCs,348,400,52,14.9
+Bahraich,Crimes Against STs,0,1,1,0.0
+Bahraich,Crimes Against Women,2074,1913,-161,-7.8
+Bahraich,Cyber Crimes,125,113,-12,-9.6
+Bahraich,IPC Crimes,8485,8358,-127,-1.5
+Bahraich,Juvenile IPC,1,2,1,100.0
+Bahraich,Juvenile SLL,15,13,-2,-13.3
+Bahraich,Missing Persons,182,857,675,370.9
+Bahraich,SLL Crimes,4264,4400,136,3.2
+Ballia,Assault,1192,671,-521,-43.7
+Ballia,Burglary,580,547,-33,-5.7
+Ballia,Crimes Against Children,218,194,-24,-11.0
+Ballia,Crimes Against SCs,160,167,7,4.4
+Ballia,Crimes Against STs,0,1,1,0.0
+Ballia,Crimes Against Women,677,626,-51,-7.5
+Ballia,Cyber Crimes,82,70,-12,-14.6
+Ballia,Cybercrime,753,599,-154,-20.5
+Ballia,Dowry Deaths,288,624,336,116.7
+Ballia,Fraud,146,575,429,293.8
+Ballia,IPC Crimes,5256,5373,117,2.2
+Ballia,Juvenile IPC,0,1,1,0.0
+Ballia,Juvenile SLL,0,1,1,0.0
+Ballia,Kidnapping,621,585,-36,-5.8
+Ballia,Missing Persons,341,551,210,61.6
+Ballia,Murder,1171,794,-377,-32.2
+Ballia,Rape,1016,536,-480,-47.2
+Ballia,Robbery,1062,554,-508,-47.8
+Ballia,SLL Crimes,2879,3098,219,7.6
+Ballia,Theft,913,634,-279,-30.6
+Balrampur,Crimes Against Children,182,219,37,20.3
+Balrampur,Crimes Against SCs,128,132,4,3.1
+Balrampur,Crimes Against STs,2,1,-1,-50.0
+Balrampur,Crimes Against Women,571,591,20,3.5
+Balrampur,Cyber Crimes,68,60,-8,-11.8
+Balrampur,IPC Crimes,3396,2744,-652,-19.2
+Balrampur,Juvenile IPC,10,9,-1,-10.0
+Balrampur,Juvenile SLL,7,8,1,14.3
+Balrampur,Missing Persons,214,732,518,242.1
+Balrampur,SLL Crimes,1737,1743,6,0.3
+Banda,Crimes Against Children,358,375,17,4.7
+Banda,Crimes Against SCs,199,200,1,0.5
+Banda,Crimes Against STs,0,1,1,0.0
+Banda,Crimes Against Women,763,631,-132,-17.3
+Banda,Cyber Crimes,88,69,-19,-21.6
+Banda,IPC Crimes,4516,4831,315,7.0
+Banda,Juvenile IPC,6,6,0,0.0
+Banda,Juvenile SLL,13,9,-4,-30.8
+Banda,Missing Persons,124,589,465,375.0
+Banda,SLL Crimes,2682,2444,-238,-8.9
+Barabanki,Crimes Against Children,440,482,42,9.5
+Barabanki,Crimes Against SCs,396,474,78,19.7
+Barabanki,Crimes Against STs,0,1,1,0.0
+Barabanki,Crimes Against Women,1179,1116,-63,-5.3
+Barabanki,Cyber Crimes,127,100,-27,-21.3
+Barabanki,IPC Crimes,7537,6864,-673,-8.9
+Barabanki,Juvenile IPC,104,125,21,20.2
+Barabanki,Juvenile SLL,19,26,7,36.8
+Barabanki,Missing Persons,204,851,647,317.2
+Barabanki,SLL Crimes,8921,5931,-2990,-33.5
+Bareilly,Assault,749,620,-129,-17.2
+Bareilly,Burglary,307,324,17,5.5
+Bareilly,Crimes Against Children,245,239,-6,-2.4
+Bareilly,Crimes Against SCs,355,271,-84,-23.7
+Bareilly,Crimes Against STs,0,1,1,0.0
+Bareilly,Crimes Against Women,1965,2173,208,10.6
+Bareilly,Cyber Crimes,290,307,17,5.9
+Bareilly,Cybercrime,364,586,222,61.0
+Bareilly,Dowry Deaths,891,589,-302,-33.9
+Bareilly,Fraud,504,582,78,15.5
+Bareilly,IPC Crimes,9728,9099,-629,-6.5
+Bareilly,Juvenile IPC,0,1,1,0.0
+Bareilly,Juvenile SLL,0,1,1,0.0
+Bareilly,Kidnapping,207,612,405,195.7
+Bareilly,Missing Persons,220,930,710,322.7
+Bareilly,Murder,819,582,-237,-28.9
+Bareilly,Rape,282,551,269,95.4
+Bareilly,Robbery,424,597,173,40.8
+Bareilly,SLL Crimes,10379,9024,-1355,-13.1
+Bareilly,Theft,71,651,580,816.9
+Basti,Assault,858,616,-242,-28.2
+Basti,Burglary,1034,648,-386,-37.3
+Basti,Crimes Against Children,258,242,-16,-6.2
+Basti,Crimes Against SCs,158,188,30,19.0
+Basti,Crimes Against STs,0,1,1,0.0
+Basti,Crimes Against Women,580,598,18,3.1
+Basti,Cyber Crimes,50,68,18,36.0
+Basti,Cybercrime,917,827,-90,-9.8
+Basti,Dowry Deaths,122,652,530,434.4
+Basti,Fraud,152,575,423,278.3
+Basti,IPC Crimes,3549,5429,1880,53.0
+Basti,Juvenile IPC,0,2,2,0.0
+Basti,Juvenile SLL,0,2,2,0.0
+Basti,Kidnapping,883,628,-255,-28.9
+Basti,Missing Persons,340,756,416,122.4
+Basti,Murder,548,568,20,3.6
+Basti,Rape,338,720,382,113.0
+Basti,Robbery,378,588,210,55.6
+Basti,SLL Crimes,4024,4128,104,2.6
+Basti,Theft,266,578,312,117.3
+Bhadohi,Crimes Against Children,132,143,11,8.3
+Bhadohi,Crimes Against SCs,81,82,1,1.2
+Bhadohi,Crimes Against STs,0,1,1,0.0
+Bhadohi,Crimes Against Women,241,256,15,6.2
+Bhadohi,Cyber Crimes,38,52,14,36.8
+Bhadohi,IPC Crimes,1319,1515,196,14.9
+Bhadohi,Juvenile IPC,0,1,1,0.0
+Bhadohi,Juvenile SLL,0,1,1,0.0
+Bhadohi,Missing Persons,0,104,104,0.0
+Bhadohi,SLL Crimes,2584,3278,694,26.9
+Bijnor,Crimes Against Children,157,140,-17,-10.8
+Bijnor,Crimes Against SCs,165,140,-25,-15.2
+Bijnor,Crimes Against STs,0,1,1,0.0
+Bijnor,Crimes Against Women,1261,1229,-32,-2.5
+Bijnor,Cyber Crimes,392,353,-39,-9.9
+Bijnor,IPC Crimes,6505,6505,0,0.0
+Bijnor,Juvenile IPC,0,1,1,0.0
+Bijnor,Juvenile SLL,0,1,1,0.0
+Bijnor,Missing Persons,265,620,355,134.0
+Bijnor,SLL Crimes,7771,6939,-832,-10.7
+Bulandshahar,Crimes Against Children,213,347,134,62.9
+Bulandshahar,Crimes Against SCs,151,163,12,7.9
+Bulandshahar,Crimes Against STs,0,1,1,0.0
+Bulandshahar,Crimes Against Women,969,1244,275,28.4
+Bulandshahar,Cyber Crimes,226,494,268,118.6
+Bulandshahar,IPC Crimes,7059,8342,1283,18.2
+Bulandshahar,Juvenile IPC,56,54,-2,-3.6
+Bulandshahar,Juvenile SLL,39,48,9,23.1
+Bulandshahar,Missing Persons,175,901,726,414.9
+Bulandshahar,SLL Crimes,5205,6138,933,17.9
+Chandoli,Crimes Against Children,95,100,5,5.3
+Chandoli,Crimes Against SCs,75,101,26,34.7
+Chandoli,Crimes Against STs,0,1,1,0.0
+Chandoli,Crimes Against Women,341,389,48,14.1
+Chandoli,Cyber Crimes,45,56,11,24.4
+Chandoli,IPC Crimes,2242,2503,261,11.6
+Chandoli,Juvenile IPC,0,5,5,0.0
+Chandoli,Juvenile SLL,0,4,4,0.0
+Chandoli,Missing Persons,177,367,190,107.3
+Chandoli,SLL Crimes,3154,3106,-48,-1.5
+Chitrakoot,Crimes Against Children,89,95,6,6.7
+Chitrakoot,Crimes Against SCs,106,108,2,1.9
+Chitrakoot,Crimes Against STs,0,1,1,0.0
+Chitrakoot,Crimes Against Women,314,272,-42,-13.4
+Chitrakoot,Cyber Crimes,66,60,-6,-9.1
+Chitrakoot,IPC Crimes,1621,1609,-12,-0.7
+Chitrakoot,Juvenile IPC,0,1,1,0.0
+Chitrakoot,Juvenile SLL,0,1,1,0.0
+Chitrakoot,Missing Persons,204,304,100,49.0
+Chitrakoot,SLL Crimes,2338,2200,-138,-5.9
+Deoria,Crimes Against Children,62,62,0,0.0
+Deoria,Crimes Against SCs,181,188,7,3.9
+Deoria,Crimes Against STs,0,1,1,0.0
+Deoria,Crimes Against Women,108,83,-25,-23.1
+Deoria,Cyber Crimes,69,68,-1,-1.4
+Deoria,IPC Crimes,5671,5073,-598,-10.5
+Deoria,Juvenile IPC,0,1,1,0.0
+Deoria,Juvenile SLL,0,1,1,0.0
+Deoria,Missing Persons,7,138,131,1871.4
+Deoria,SLL Crimes,3285,3618,333,10.1
+Etah,Crimes Against Children,77,90,13,16.9
+Etah,Crimes Against SCs,145,149,4,2.8
+Etah,Crimes Against STs,0,1,1,0.0
+Etah,Crimes Against Women,361,453,92,25.5
+Etah,Cyber Crimes,77,79,2,2.6
+Etah,IPC Crimes,4760,6694,1934,40.6
+Etah,Juvenile IPC,0,1,1,0.0
+Etah,Juvenile SLL,0,1,1,0.0
+Etah,Missing Persons,77,432,355,461.0
+Etah,SLL Crimes,988,4186,3198,323.7
+Etawah,Assault,630,574,-56,-8.9
+Etawah,Burglary,1022,628,-394,-38.6
+Etawah,Crimes Against Children,173,160,-13,-7.5
+Etawah,Crimes Against SCs,113,110,-3,-2.7
+Etawah,Crimes Against STs,0,1,1,0.0
+Etawah,Crimes Against Women,439,506,67,15.3
+Etawah,Cyber Crimes,39,55,16,41.0
+Etawah,Cybercrime,503,568,65,12.9
+Etawah,Dowry Deaths,422,598,176,41.7
+Etawah,Fraud,372,622,250,67.2
+Etawah,IPC Crimes,2871,3119,248,8.6
+Etawah,Juvenile IPC,29,159,130,448.3
+Etawah,Juvenile SLL,0,5,5,0.0
+Etawah,Kidnapping,251,609,358,142.6
+Etawah,Missing Persons,112,873,761,679.5
+Etawah,Murder,195,645,450,230.8
+Etawah,Rape,125,634,509,407.2
+Etawah,Robbery,1000,561,-439,-43.9
+Etawah,SLL Crimes,4597,5441,844,18.4
+Etawah,Theft,424,587,163,38.4
+Fatehgarh,Crimes Against Children,223,310,87,39.0
+Fatehgarh,Crimes Against SCs,39,123,84,215.4
+Fatehgarh,Crimes Against STs,0,1,1,0.0
+Fatehgarh,Crimes Against Women,582,563,-19,-3.3
+Fatehgarh,Cyber Crimes,108,75,-33,-30.6
+Fatehgarh,IPC Crimes,3309,3286,-23,-0.7
+Fatehgarh,Juvenile IPC,0,11,11,0.0
+Fatehgarh,Juvenile SLL,0,8,8,0.0
+Fatehgarh,Missing Persons,0,140,140,0.0
+Fatehgarh,SLL Crimes,4435,5500,1065,24.0
+Fatehpur,Crimes Against Children,574,496,-78,-13.6
+Fatehpur,Crimes Against SCs,37,103,66,178.4
+Fatehpur,Crimes Against STs,0,1,1,0.0
+Fatehpur,Crimes Against Women,717,623,-94,-13.1
+Fatehpur,Cyber Crimes,69,70,1,1.4
+Fatehpur,IPC Crimes,4439,4410,-29,-0.7
+Fatehpur,Juvenile IPC,117,68,-49,-41.9
+Fatehpur,Juvenile SLL,40,44,4,10.0
+Fatehpur,Missing Persons,286,597,311,108.7
+Fatehpur,SLL Crimes,3702,3744,42,1.1
+Firozabad,Assault,57,554,497,871.9
+Firozabad,Burglary,690,613,-77,-11.2
+Firozabad,Crimes Against Children,348,505,157,45.1
+Firozabad,Crimes Against SCs,209,227,18,8.6
+Firozabad,Crimes Against STs,0,1,1,0.0
+Firozabad,Crimes Against Women,2177,1974,-203,-9.3
+Firozabad,Cyber Crimes,78,75,-3,-3.8
+Firozabad,Cybercrime,718,576,-142,-19.8
+Firozabad,Dowry Deaths,571,591,20,3.5
+Firozabad,Fraud,67,547,480,716.4
+Firozabad,IPC Crimes,9485,7796,-1689,-17.8
+Firozabad,Juvenile IPC,0,27,27,0.0
+Firozabad,Juvenile SLL,0,1,1,0.0
+Firozabad,Kidnapping,36,582,546,1516.7
+Firozabad,Missing Persons,88,121,33,37.5
+Firozabad,Murder,357,625,268,75.1
+Firozabad,Rape,174,565,391,224.7
+Firozabad,Robbery,1133,737,-396,-35.0
+Firozabad,SLL Crimes,6658,4791,-1867,-28.0
+Firozabad,Theft,1017,552,-465,-45.7
+Gautambudh Nagar,Crimes Against Children,175,155,-20,-11.4
+Gautambudh Nagar,Crimes Against SCs,50,61,11,22.0
+Gautambudh Nagar,Crimes Against STs,0,1,1,0.0
+Gautambudh Nagar,Crimes Against Women,764,736,-28,-3.7
+Gautambudh Nagar,Cyber Crimes,582,671,89,15.3
+Gautambudh Nagar,IPC Crimes,8332,9140,808,9.7
+Gautambudh Nagar,Juvenile IPC,54,45,-9,-16.7
+Gautambudh Nagar,Juvenile SLL,18,15,-3,-16.7
+Gautambudh Nagar,Missing Persons,969,789,-180,-18.6
+Gautambudh Nagar,SLL Crimes,11810,6846,-4964,-42.0
+Ghaziabad,Assault,857,690,-167,-19.5
+Ghaziabad,Burglary,875,523,-352,-40.2
+Ghaziabad,Crimes Against Children,383,406,23,6.0
+Ghaziabad,Crimes Against SCs,134,124,-10,-7.5
+Ghaziabad,Crimes Against STs,0,1,1,0.0
+Ghaziabad,Crimes Against Women,1686,1459,-227,-13.5
+Ghaziabad,Cyber Crimes,1097,745,-352,-32.1
+Ghaziabad,Cybercrime,766,649,-117,-15.3
+Ghaziabad,Dowry Deaths,885,564,-321,-36.3
+Ghaziabad,Fraud,492,639,147,29.9
+Ghaziabad,IPC Crimes,14589,15466,877,6.0
+Ghaziabad,Juvenile IPC,0,1,1,0.0
+Ghaziabad,Juvenile SLL,0,1,1,0.0
+Ghaziabad,Kidnapping,325,570,245,75.4
+Ghaziabad,Missing Persons,647,588,-59,-9.1
+Ghaziabad,Murder,585,607,22,3.8
+Ghaziabad,Rape,815,759,-56,-6.9
+Ghaziabad,Robbery,1047,564,-483,-46.1
+Ghaziabad,SLL Crimes,3245,5478,2233,68.8
+Ghaziabad,Theft,574,622,48,8.4
+Ghazipur,Crimes Against Children,575,499,-76,-13.2
+Ghazipur,Crimes Against SCs,188,226,38,20.2
+Ghazipur,Crimes Against STs,0,1,1,0.0
+Ghazipur,Crimes Against Women,723,620,-103,-14.2
+Ghazipur,Cyber Crimes,91,91,0,0.0
+Ghazipur,IPC Crimes,4329,5058,729,16.8
+Ghazipur,Juvenile IPC,86,122,36,41.9
+Ghazipur,Juvenile SLL,16,21,5,31.2
+Ghazipur,Missing Persons,179,716,537,300.0
+Ghazipur,SLL Crimes,5747,4470,-1277,-22.2
+Gonda,Crimes Against Children,282,261,-21,-7.4
+Gonda,Crimes Against SCs,295,267,-28,-9.5
+Gonda,Crimes Against STs,0,1,1,0.0
+Gonda,Crimes Against Women,1016,592,-424,-41.7
+Gonda,Cyber Crimes,62,67,5,8.1
+Gonda,IPC Crimes,6602,6781,179,2.7
+Gonda,Juvenile IPC,47,17,-30,-63.8
+Gonda,Juvenile SLL,8,50,42,525.0
+Gonda,Missing Persons,327,953,626,191.4
+Gonda,SLL Crimes,4062,6339,2277,56.1
+Gorakhpur,Assault,1103,613,-490,-44.4
+Gorakhpur,Burglary,315,521,206,65.4
+Gorakhpur,Crimes Against Children,514,557,43,8.4
+Gorakhpur,Crimes Against SCs,465,482,17,3.7
+Gorakhpur,Crimes Against STs,0,1,1,0.0
+Gorakhpur,Crimes Against Women,2597,2373,-224,-8.6
+Gorakhpur,Cyber Crimes,230,279,49,21.3
+Gorakhpur,Cybercrime,998,537,-461,-46.2
+Gorakhpur,Dowry Deaths,28,631,603,2153.6
+Gorakhpur,Fraud,618,602,-16,-2.6
+Gorakhpur,IPC Crimes,15877,12748,-3129,-19.7
+Gorakhpur,Juvenile IPC,0,1,1,0.0
+Gorakhpur,Juvenile SLL,0,1,1,0.0
+Gorakhpur,Kidnapping,836,596,-240,-28.7
+Gorakhpur,Missing Persons,0,539,539,0.0
+Gorakhpur,Murder,282,635,353,125.2
+Gorakhpur,Rape,974,587,-387,-39.7
+Gorakhpur,Robbery,1011,546,-465,-46.0
+Gorakhpur,SLL Crimes,4851,5020,169,3.5
+Gorakhpur,Theft,335,608,273,81.5
+Hamirpur,Crimes Against Children,146,157,11,7.5
+Hamirpur,Crimes Against SCs,165,163,-2,-1.2
+Hamirpur,Crimes Against STs,0,1,1,0.0
+Hamirpur,Crimes Against Women,489,526,37,7.6
+Hamirpur,Cyber Crimes,29,42,13,44.8
+Hamirpur,IPC Crimes,3406,3193,-213,-6.3
+Hamirpur,Juvenile IPC,0,4,4,0.0
+Hamirpur,Juvenile SLL,0,1,1,0.0
+Hamirpur,Missing Persons,266,869,603,226.7
+Hamirpur,SLL Crimes,3927,5172,1245,31.7
+Hapur,Crimes Against Children,164,156,-8,-4.9
+Hapur,Crimes Against SCs,82,98,16,19.5
+Hapur,Crimes Against STs,0,1,1,0.0
+Hapur,Crimes Against Women,674,658,-16,-2.4
+Hapur,Cyber Crimes,89,72,-17,-19.1
+Hapur,IPC Crimes,2890,3047,157,5.4
+Hapur,Juvenile IPC,3,5,2,66.7
+Hapur,Juvenile SLL,0,4,4,0.0
+Hapur,Missing Persons,0,645,645,0.0
+Hapur,SLL Crimes,4214,6504,2290,54.3
+Hardoi,Crimes Against Children,162,221,59,36.4
+Hardoi,Crimes Against SCs,373,303,-70,-18.8
+Hardoi,Crimes Against STs,0,1,1,0.0
+Hardoi,Crimes Against Women,1009,627,-382,-37.9
+Hardoi,Cyber Crimes,0,34,34,0.0
+Hardoi,IPC Crimes,8381,8231,-150,-1.8
+Hardoi,Juvenile IPC,0,1,1,0.0
+Hardoi,Juvenile SLL,0,1,1,0.0
+Hardoi,Missing Persons,0,489,489,0.0
+Hardoi,SLL Crimes,9089,7245,-1844,-20.3
+Hathras,Crimes Against Children,328,349,21,6.4
+Hathras,Crimes Against SCs,131,123,-8,-6.1
+Hathras,Crimes Against STs,0,1,1,0.0
+Hathras,Crimes Against Women,649,630,-19,-2.9
+Hathras,Cyber Crimes,36,47,11,30.6
+Hathras,IPC Crimes,3324,3455,131,3.9
+Hathras,Juvenile IPC,14,9,-5,-35.7
+Hathras,Juvenile SLL,0,1,1,0.0
+Hathras,Missing Persons,102,460,358,351.0
+Hathras,SLL Crimes,6816,6560,-256,-3.8
+Jalaun,Crimes Against Children,263,240,-23,-8.7
+Jalaun,Crimes Against SCs,141,123,-18,-12.8
+Jalaun,Crimes Against STs,0,1,1,0.0
+Jalaun,Crimes Against Women,520,528,8,1.5
+Jalaun,Cyber Crimes,69,57,-12,-17.4
+Jalaun,IPC Crimes,3279,2964,-315,-9.6
+Jalaun,Juvenile IPC,16,13,-3,-18.8
+Jalaun,Juvenile SLL,3,2,-1,-33.3
+Jalaun,Missing Persons,95,304,209,220.0
+Jalaun,SLL Crimes,1590,3058,1468,92.3
+Jaunpur,Crimes Against Children,354,424,70,19.8
+Jaunpur,Crimes Against SCs,270,261,-9,-3.3
+Jaunpur,Crimes Against STs,0,1,1,0.0
+Jaunpur,Crimes Against Women,716,629,-87,-12.2
+Jaunpur,Cyber Crimes,107,88,-19,-17.8
+Jaunpur,IPC Crimes,6381,6769,388,6.1
+Jaunpur,Juvenile IPC,12,9,-3,-25.0
+Jaunpur,Juvenile SLL,3,2,-1,-33.3
+Jaunpur,Missing Persons,154,590,436,283.1
+Jaunpur,SLL Crimes,4379,5444,1065,24.3
+Jhansi,Assault,82,603,521,635.4
+Jhansi,Burglary,528,588,60,11.4
+Jhansi,Crimes Against Children,162,165,3,1.9
+Jhansi,Crimes Against SCs,223,229,6,2.7
+Jhansi,Crimes Against STs,0,1,1,0.0
+Jhansi,Crimes Against Women,582,618,36,6.2
+Jhansi,Cyber Crimes,115,86,-29,-25.2
+Jhansi,Cybercrime,404,564,160,39.6
+Jhansi,Dowry Deaths,959,747,-212,-22.1
+Jhansi,Fraud,751,590,-161,-21.4
+Jhansi,IPC Crimes,3800,4105,305,8.0
+Jhansi,Juvenile IPC,0,1,1,0.0
+Jhansi,Juvenile SLL,0,1,1,0.0
+Jhansi,Kidnapping,133,618,485,364.7
+Jhansi,Missing Persons,546,542,-4,-0.7
+Jhansi,Murder,1028,766,-262,-25.5
+Jhansi,Rape,708,572,-136,-19.2
+Jhansi,Robbery,68,627,559,822.1
+Jhansi,SLL Crimes,7258,6557,-701,-9.7
+Jhansi,Theft,1042,585,-457,-43.9
+Kannauj,Crimes Against Children,320,270,-50,-15.6
+Kannauj,Crimes Against SCs,170,176,6,3.5
+Kannauj,Crimes Against STs,0,1,1,0.0
+Kannauj,Crimes Against Women,1040,873,-167,-16.1
+Kannauj,Cyber Crimes,59,54,-5,-8.5
+Kannauj,IPC Crimes,3902,5033,1131,29.0
+Kannauj,Juvenile IPC,22,26,4,18.2
+Kannauj,Juvenile SLL,8,50,42,525.0
+Kannauj,Missing Persons,250,931,681,272.4
+Kannauj,SLL Crimes,4444,3365,-1079,-24.3
+Kanpur Commissionarate,Crimes Against Children,426,476,50,11.7
+Kanpur Commissionarate,Crimes Against SCs,263,348,85,32.3
+Kanpur Commissionarate,Crimes Against STs,0,1,1,0.0
+Kanpur Commissionarate,Crimes Against Women,2071,2250,179,8.6
+Kanpur Commissionarate,Cyber Crimes,481,591,110,22.9
+Kanpur Commissionarate,IPC Crimes,10652,12165,1513,14.2
+Kanpur Commissionarate,Juvenile IPC,31,35,4,12.9
+Kanpur Commissionarate,Juvenile SLL,6,6,0,0.0
+Kanpur Commissionarate,Missing Persons,651,615,-36,-5.5
+Kanpur Commissionarate,SLL Crimes,2692,2996,304,11.3
+Kanpur Dehat,Crimes Against Children,76,96,20,26.3
+Kanpur Dehat,Crimes Against SCs,188,224,36,19.1
+Kanpur Dehat,Crimes Against STs,0,1,1,0.0
+Kanpur Dehat,Crimes Against Women,540,604,64,11.9
+Kanpur Dehat,Cyber Crimes,65,73,8,12.3
+Kanpur Dehat,IPC Crimes,3281,3406,125,3.8
+Kanpur Dehat,Juvenile IPC,0,4,4,0.0
+Kanpur Dehat,Juvenile SLL,0,1,1,0.0
+Kanpur Dehat,Missing Persons,51,96,45,88.2
+Kanpur Dehat,SLL Crimes,3046,3222,176,5.8
+Kanpur Nagar,Assault,1044,697,-347,-33.2
+Kanpur Nagar,Burglary,974,627,-347,-35.6
+Kanpur Nagar,Cybercrime,525,537,12,2.3
+Kanpur Nagar,Dowry Deaths,391,593,202,51.7
+Kanpur Nagar,Fraud,941,792,-149,-15.8
+Kanpur Nagar,Kidnapping,417,613,196,47.0
+Kanpur Nagar,Murder,1130,749,-381,-33.7
+Kanpur Nagar,Rape,428,601,173,40.4
+Kanpur Nagar,Robbery,126,605,479,380.2
+Kanpur Nagar,Theft,717,586,-131,-18.3
+Kasganj,Crimes Against Children,335,314,-21,-6.3
+Kasganj,Crimes Against SCs,114,110,-4,-3.5
+Kasganj,Crimes Against STs,0,1,1,0.0
+Kasganj,Crimes Against Women,822,662,-160,-19.5
+Kasganj,Cyber Crimes,70,55,-15,-21.4
+Kasganj,IPC Crimes,3142,4220,1078,34.3
+Kasganj,Juvenile IPC,0,1,1,0.0
+Kasganj,Juvenile SLL,0,1,1,0.0
+Kasganj,Missing Persons,0,81,81,0.0
+Kasganj,SLL Crimes,2911,3969,1058,36.3
+Kaushambi,Crimes Against Children,287,251,-36,-12.5
+Kaushambi,Crimes Against SCs,203,200,-3,-1.5
+Kaushambi,Crimes Against STs,0,1,1,0.0
+Kaushambi,Crimes Against Women,564,538,-26,-4.6
+Kaushambi,Cyber Crimes,54,53,-1,-1.9
+Kaushambi,IPC Crimes,3381,3371,-10,-0.3
+Kaushambi,Juvenile IPC,0,1,1,0.0
+Kaushambi,Juvenile SLL,0,1,1,0.0
+Kaushambi,Missing Persons,287,898,611,212.9
+Kaushambi,SLL Crimes,2631,2826,195,7.4
+Khiri,Crimes Against Children,332,293,-39,-11.7
+Khiri,Crimes Against SCs,370,450,80,21.6
+Khiri,Crimes Against STs,0,1,1,0.0
+Khiri,Crimes Against Women,561,617,56,10.0
+Khiri,Cyber Crimes,37,51,14,37.8
+Khiri,IPC Crimes,6417,6178,-239,-3.7
+Khiri,Juvenile IPC,0,1,1,0.0
+Khiri,Juvenile SLL,0,1,1,0.0
+Khiri,Missing Persons,125,282,157,125.6
+Khiri,SLL Crimes,9430,7864,-1566,-16.6
+Kushi Nagar,Crimes Against Children,422,413,-9,-2.1
+Kushi Nagar,Crimes Against SCs,287,257,-30,-10.5
+Kushi Nagar,Crimes Against STs,0,1,1,0.0
+Kushi Nagar,Crimes Against Women,999,632,-367,-36.7
+Kushi Nagar,Cyber Crimes,130,114,-16,-12.3
+Kushi Nagar,IPC Crimes,7458,6602,-856,-11.5
+Kushi Nagar,Juvenile IPC,108,129,21,19.4
+Kushi Nagar,Juvenile SLL,0,1,1,0.0
+Kushi Nagar,Missing Persons,55,90,35,63.6
+Kushi Nagar,SLL Crimes,3311,3245,-66,-2.0
+Lalitpur,Crimes Against Children,49,60,11,22.4
+Lalitpur,Crimes Against SCs,113,120,7,6.2
+Lalitpur,Crimes Against STs,0,1,1,0.0
+Lalitpur,Crimes Against Women,185,227,42,22.7
+Lalitpur,Cyber Crimes,38,49,11,28.9
+Lalitpur,IPC Crimes,2109,2003,-106,-5.0
+Lalitpur,Juvenile IPC,0,1,1,0.0
+Lalitpur,Juvenile SLL,0,1,1,0.0
+Lalitpur,Missing Persons,132,625,493,373.5
+Lalitpur,SLL Crimes,7125,6393,-732,-10.3
+Lucknow,Assault,478,589,111,23.2
+Lucknow,Burglary,501,582,81,16.2
+Lucknow,Cybercrime,825,594,-231,-28.0
+Lucknow,Dowry Deaths,60,658,598,996.7
+Lucknow,Fraud,617,587,-30,-4.9
+Lucknow,Kidnapping,908,585,-323,-35.6
+Lucknow,Murder,1100,817,-283,-25.7
+Lucknow,Rape,129,607,478,370.5
+Lucknow,Robbery,420,598,178,42.4
+Lucknow,Theft,569,582,13,2.3
+Lucknow Commissionarate,Crimes Against Children,844,578,-266,-31.5
+Lucknow Commissionarate,Crimes Against SCs,514,509,-5,-1.0
+Lucknow Commissionarate,Crimes Against STs,0,1,1,0.0
+Lucknow Commissionarate,Crimes Against Women,2869,2651,-218,-7.6
+Lucknow Commissionarate,Cyber Crimes,1453,1242,-211,-14.5
+Lucknow Commissionarate,IPC Crimes,16009,14214,-1795,-11.2
+Lucknow Commissionarate,Juvenile IPC,0,9,9,0.0
+Lucknow Commissionarate,Juvenile SLL,0,4,4,0.0
+Lucknow Commissionarate,Missing Persons,0,640,640,0.0
+Lucknow Commissionarate,SLL Crimes,2722,3104,382,14.0
+Maharajganj,Crimes Against Children,125,137,12,9.6
+Maharajganj,Crimes Against SCs,190,168,-22,-11.6
+Maharajganj,Crimes Against STs,0,1,1,0.0
+Maharajganj,Crimes Against Women,539,533,-6,-1.1
+Maharajganj,Cyber Crimes,66,58,-8,-12.1
+Maharajganj,IPC Crimes,5022,4690,-332,-6.6
+Maharajganj,Juvenile IPC,13,9,-4,-30.8
+Maharajganj,Juvenile SLL,0,4,4,0.0
+Maharajganj,Missing Persons,0,90,90,0.0
+Maharajganj,SLL Crimes,2695,2872,177,6.6
+Mahoba,Crimes Against Children,139,139,0,0.0
+Mahoba,Crimes Against SCs,80,107,27,33.8
+Mahoba,Crimes Against STs,0,1,1,0.0
+Mahoba,Crimes Against Women,255,256,1,0.4
+Mahoba,Cyber Crimes,13,15,2,15.4
+Mahoba,IPC Crimes,1102,1209,107,9.7
+Mahoba,Juvenile IPC,0,5,5,0.0
+Mahoba,Juvenile SLL,0,1,1,0.0
+Mahoba,Missing Persons,45,67,22,48.9
+Mahoba,SLL Crimes,3321,3239,-82,-2.5
+Mainpuri,Crimes Against Children,113,204,91,80.5
+Mainpuri,Crimes Against SCs,184,196,12,6.5
+Mainpuri,Crimes Against STs,0,1,1,0.0
+Mainpuri,Crimes Against Women,536,650,114,21.3
+Mainpuri,Cyber Crimes,29,33,4,13.8
+Mainpuri,IPC Crimes,5126,5260,134,2.6
+Mainpuri,Juvenile IPC,0,1,1,0.0
+Mainpuri,Juvenile SLL,0,1,1,0.0
+Mainpuri,Missing Persons,35,78,43,122.9
+Mainpuri,SLL Crimes,5574,5938,364,6.5
+Mathura,Assault,1005,607,-398,-39.6
+Mathura,Burglary,598,620,22,3.7
+Mathura,Crimes Against Children,260,245,-15,-5.8
+Mathura,Crimes Against SCs,200,242,42,21.0
+Mathura,Crimes Against STs,0,1,1,0.0
+Mathura,Crimes Against Women,1187,1334,147,12.4
+Mathura,Cyber Crimes,143,214,71,49.7
+Mathura,Cybercrime,877,629,-248,-28.3
+Mathura,Dowry Deaths,1136,613,-523,-46.0
+Mathura,Fraud,187,617,430,229.9
+Mathura,IPC Crimes,8536,9240,704,8.2
+Mathura,Juvenile IPC,0,1,1,0.0
+Mathura,Juvenile SLL,0,1,1,0.0
+Mathura,Kidnapping,1098,563,-535,-48.7
+Mathura,Missing Persons,150,95,-55,-36.7
+Mathura,Murder,29,587,558,1924.1
+Mathura,Rape,903,643,-260,-28.8
+Mathura,Robbery,839,716,-123,-14.7
+Mathura,SLL Crimes,2919,2904,-15,-0.5
+Mathura,Theft,530,646,116,21.9
+Mau,Crimes Against Children,163,155,-8,-4.9
+Mau,Crimes Against SCs,91,112,21,23.1
+Mau,Crimes Against STs,0,1,1,0.0
+Mau,Crimes Against Women,468,580,112,23.9
+Mau,Cyber Crimes,60,88,28,46.7
+Mau,IPC Crimes,2974,2900,-74,-2.5
+Mau,Juvenile IPC,0,1,1,0.0
+Mau,Juvenile SLL,0,1,1,0.0
+Mau,Missing Persons,86,360,274,318.6
+Mau,SLL Crimes,4028,2692,-1336,-33.2
+Meerut,Assault,641,588,-53,-8.3
+Meerut,Burglary,888,659,-229,-25.8
+Meerut,Crimes Against Children,476,517,41,8.6
+Meerut,Crimes Against SCs,197,209,12,6.1
+Meerut,Crimes Against STs,0,1,1,0.0
+Meerut,Crimes Against Women,1424,1069,-355,-24.9
+Meerut,Cyber Crimes,250,301,51,20.4
+Meerut,Cybercrime,1139,660,-479,-42.1
+Meerut,Dowry Deaths,527,584,57,10.8
+Meerut,Fraud,680,609,-71,-10.4
+Meerut,IPC Crimes,9158,10117,959,10.5
+Meerut,Juvenile IPC,0,1,1,0.0
+Meerut,Juvenile SLL,0,1,1,0.0
+Meerut,Kidnapping,890,622,-268,-30.1
+Meerut,Missing Persons,342,575,233,68.1
+Meerut,Murder,465,601,136,29.2
+Meerut,Rape,724,617,-107,-14.8
+Meerut,Robbery,974,736,-238,-24.4
+Meerut,SLL Crimes,10724,10841,117,1.1
+Meerut,Theft,909,589,-320,-35.2
+Mirzapur,Assault,236,543,307,130.1
+Mirzapur,Burglary,238,548,310,130.3
+Mirzapur,Crimes Against Children,137,137,0,0.0
+Mirzapur,Crimes Against SCs,129,124,-5,-3.9
+Mirzapur,Crimes Against STs,0,1,1,0.0
+Mirzapur,Crimes Against Women,368,419,51,13.9
+Mirzapur,Cyber Crimes,62,56,-6,-9.7
+Mirzapur,Cybercrime,1130,622,-508,-45.0
+Mirzapur,Dowry Deaths,439,574,135,30.8
+Mirzapur,Fraud,1141,585,-556,-48.7
+Mirzapur,IPC Crimes,2942,2506,-436,-14.8
+Mirzapur,Juvenile IPC,0,9,9,0.0
+Mirzapur,Juvenile SLL,0,4,4,0.0
+Mirzapur,Kidnapping,970,582,-388,-40.0
+Mirzapur,Missing Persons,0,629,629,0.0
+Mirzapur,Murder,447,583,136,30.4
+Mirzapur,Rape,1180,565,-615,-52.1
+Mirzapur,Robbery,1015,565,-450,-44.3
+Mirzapur,SLL Crimes,3592,2796,-796,-22.2
+Mirzapur,Theft,742,599,-143,-19.3
+Moradabad,Assault,308,525,217,70.5
+Moradabad,Burglary,428,536,108,25.2
+Moradabad,Crimes Against Children,265,278,13,4.9
+Moradabad,Crimes Against SCs,111,114,3,2.7
+Moradabad,Crimes Against STs,0,1,1,0.0
+Moradabad,Crimes Against Women,1099,989,-110,-10.0
+Moradabad,Cyber Crimes,67,75,8,11.9
+Moradabad,Cybercrime,420,568,148,35.2
+Moradabad,Dowry Deaths,497,613,116,23.3
+Moradabad,Fraud,612,593,-19,-3.1
+Moradabad,IPC Crimes,4013,4901,888,22.1
+Moradabad,Juvenile IPC,19,21,2,10.5
+Moradabad,Juvenile SLL,12,10,-2,-16.7
+Moradabad,Kidnapping,729,585,-144,-19.8
+Moradabad,Missing Persons,0,774,774,0.0
+Moradabad,Murder,782,589,-193,-24.7
+Moradabad,Rape,1133,913,-220,-19.4
+Moradabad,Robbery,373,604,231,61.9
+Moradabad,SLL Crimes,4188,4514,326,7.8
+Moradabad,Theft,88,547,459,521.6
+Muzaffarnagar,Assault,657,634,-23,-3.5
+Muzaffarnagar,Burglary,646,597,-49,-7.6
+Muzaffarnagar,Crimes Against Children,128,164,36,28.1
+Muzaffarnagar,Crimes Against SCs,112,111,-1,-0.9
+Muzaffarnagar,Crimes Against STs,0,1,1,0.0
+Muzaffarnagar,Crimes Against Women,571,585,14,2.5
+Muzaffarnagar,Cyber Crimes,157,122,-35,-22.3
+Muzaffarnagar,Cybercrime,766,623,-143,-18.7
+Muzaffarnagar,Dowry Deaths,377,601,224,59.4
+Muzaffarnagar,Fraud,1084,611,-473,-43.6
+Muzaffarnagar,IPC Crimes,5174,5209,35,0.7
+Muzaffarnagar,Juvenile IPC,116,63,-53,-45.7
+Muzaffarnagar,Juvenile SLL,4,6,2,50.0
+Muzaffarnagar,Kidnapping,905,592,-313,-34.6
+Muzaffarnagar,Missing Persons,217,279,62,28.6
+Muzaffarnagar,Murder,440,597,157,35.7
+Muzaffarnagar,Rape,92,623,531,577.2
+Muzaffarnagar,Robbery,143,629,486,339.9
+Muzaffarnagar,SLL Crimes,2570,3296,726,28.2
+Muzaffarnagar,Theft,856,669,-187,-21.8
+Noida,Assault,950,624,-326,-34.3
+Noida,Burglary,1142,601,-541,-47.4
+Noida,Cybercrime,397,577,180,45.3
+Noida,Dowry Deaths,230,612,382,166.1
+Noida,Fraud,1099,624,-475,-43.2
+Noida,Kidnapping,1011,627,-384,-38.0
+Noida,Murder,1083,638,-445,-41.1
+Noida,Rape,1092,607,-485,-44.4
+Noida,Robbery,538,580,42,7.8
+Noida,Theft,792,662,-130,-16.4
+Pilibhit,Crimes Against Children,406,462,56,13.8
+Pilibhit,Crimes Against SCs,150,151,1,0.7
+Pilibhit,Crimes Against STs,0,1,1,0.0
+Pilibhit,Crimes Against Women,1233,982,-251,-20.4
+Pilibhit,Cyber Crimes,39,57,18,46.2
+Pilibhit,IPC Crimes,3819,4387,568,14.9
+Pilibhit,Juvenile IPC,0,1,1,0.0
+Pilibhit,Juvenile SLL,0,1,1,0.0
+Pilibhit,Missing Persons,280,715,435,155.4
+Pilibhit,SLL Crimes,4313,5340,1027,23.8
+Pratapgarh,Crimes Against Children,241,488,247,102.5
+Pratapgarh,Crimes Against SCs,398,492,94,23.6
+Pratapgarh,Crimes Against STs,0,1,1,0.0
+Pratapgarh,Crimes Against Women,956,907,-49,-5.1
+Pratapgarh,Cyber Crimes,73,76,3,4.1
+Pratapgarh,IPC Crimes,7894,7795,-99,-1.3
+Pratapgarh,Juvenile IPC,0,1,1,0.0
+Pratapgarh,Juvenile SLL,0,1,1,0.0
+Pratapgarh,Missing Persons,0,118,118,0.0
+Pratapgarh,SLL Crimes,3011,2896,-115,-3.8
+Prayagraj,Assault,628,593,-35,-5.6
+Prayagraj,Burglary,688,587,-101,-14.7
+Prayagraj,Crimes Against Children,290,355,65,22.4
+Prayagraj,Crimes Against SCs,383,506,123,32.1
+Prayagraj,Crimes Against STs,0,1,1,0.0
+Prayagraj,Crimes Against Women,1598,1489,-109,-6.8
+Prayagraj,Cyber Crimes,399,625,226,56.6
+Prayagraj,Cybercrime,903,606,-297,-32.9
+Prayagraj,Dowry Deaths,169,596,427,252.7
+Prayagraj,Fraud,262,581,319,121.8
+Prayagraj,IPC Crimes,11699,12965,1266,10.8
+Prayagraj,Juvenile IPC,68,86,18,26.5
+Prayagraj,Juvenile SLL,12,9,-3,-25.0
+Prayagraj,Kidnapping,527,606,79,15.0
+Prayagraj,Missing Persons,430,603,173,40.2
+Prayagraj,Murder,217,625,408,188.0
+Prayagraj,Rape,991,594,-397,-40.1
+Prayagraj,Robbery,380,586,206,54.2
+Prayagraj,SLL Crimes,10669,10861,192,1.8
+Prayagraj,Theft,49,803,754,1538.8
+Raebareli,Assault,430,591,161,37.4
+Raebareli,Burglary,1087,619,-468,-43.1
+Raebareli,Cybercrime,1072,625,-447,-41.7
+Raebareli,Dowry Deaths,307,574,267,87.0
+Raebareli,Fraud,533,611,78,14.6
+Raebareli,Kidnapping,1039,608,-431,-41.5
+Raebareli,Murder,93,623,530,569.9
+Raebareli,Rape,210,674,464,221.0
+Raebareli,Robbery,613,594,-19,-3.1
+Raebareli,Theft,595,609,14,2.4
+Raibareilly,Crimes Against Children,439,501,62,14.1
+Raibareilly,Crimes Against SCs,357,408,51,14.3
+Raibareilly,Crimes Against STs,0,1,1,0.0
+Raibareilly,Crimes Against Women,726,634,-92,-12.7
+Raibareilly,Cyber Crimes,74,82,8,10.8
+Raibareilly,IPC Crimes,6381,6502,121,1.9
+Raibareilly,Juvenile IPC,0,1,1,0.0
+Raibareilly,Juvenile SLL,0,1,1,0.0
+Raibareilly,Missing Persons,153,725,572,373.9
+Raibareilly,SLL Crimes,5695,6088,393,6.9
+Rampur,Crimes Against Children,92,118,26,28.3
+Rampur,Crimes Against SCs,71,90,19,26.8
+Rampur,Crimes Against STs,0,1,1,0.0
+Rampur,Crimes Against Women,436,587,151,34.6
+Rampur,Cyber Crimes,39,52,13,33.3
+Rampur,IPC Crimes,2369,2960,591,24.9
+Rampur,Juvenile IPC,13,9,-4,-30.8
+Rampur,Juvenile SLL,0,44,44,0.0
+Rampur,Missing Persons,0,114,114,0.0
+Rampur,SLL Crimes,10615,8156,-2459,-23.2
+Saharanpur,Assault,321,665,344,107.2
+Saharanpur,Burglary,1134,611,-523,-46.1
+Saharanpur,Crimes Against Children,160,204,44,27.5
+Saharanpur,Crimes Against SCs,182,203,21,11.5
+Saharanpur,Crimes Against STs,0,1,1,0.0
+Saharanpur,Crimes Against Women,728,645,-83,-11.4
+Saharanpur,Cyber Crimes,80,75,-5,-6.2
+Saharanpur,Cybercrime,469,594,125,26.7
+Saharanpur,Dowry Deaths,978,592,-386,-39.5
+Saharanpur,Fraud,638,604,-34,-5.3
+Saharanpur,IPC Crimes,4796,5829,1033,21.5
+Saharanpur,Juvenile IPC,16,13,-3,-18.8
+Saharanpur,Juvenile SLL,25,16,-9,-36.0
+Saharanpur,Kidnapping,625,606,-19,-3.0
+Saharanpur,Missing Persons,398,467,69,17.3
+Saharanpur,Murder,140,643,503,359.3
+Saharanpur,Rape,214,617,403,188.3
+Saharanpur,Robbery,449,585,136,30.3
+Saharanpur,SLL Crimes,2525,4707,2182,86.4
+Saharanpur,Theft,936,616,-320,-34.2
+Sambhal,Crimes Against Children,184,206,22,12.0
+Sambhal,Crimes Against SCs,136,131,-5,-3.7
+Sambhal,Crimes Against STs,0,1,1,0.0
+Sambhal,Crimes Against Women,803,644,-159,-19.8
+Sambhal,Cyber Crimes,103,71,-32,-31.1
+Sambhal,IPC Crimes,4551,4417,-134,-2.9
+Sambhal,Juvenile IPC,0,1,1,0.0
+Sambhal,Juvenile SLL,0,1,1,0.0
+Sambhal,Missing Persons,90,212,122,135.6
+Sambhal,SLL Crimes,8818,6260,-2558,-29.0
+Sant Kabirnagar,Crimes Against Children,256,246,-10,-3.9
+Sant Kabirnagar,Crimes Against SCs,178,202,24,13.5
+Sant Kabirnagar,Crimes Against STs,0,1,1,0.0
+Sant Kabirnagar,Crimes Against Women,479,527,48,10.0
+Sant Kabirnagar,Cyber Crimes,43,53,10,23.3
+Sant Kabirnagar,IPC Crimes,3447,3888,441,12.8
+Sant Kabirnagar,Juvenile IPC,0,1,1,0.0
+Sant Kabirnagar,Juvenile SLL,0,1,1,0.0
+Sant Kabirnagar,Missing Persons,0,517,517,0.0
+Sant Kabirnagar,SLL Crimes,3012,2830,-182,-6.0
+Shahjahanpur,Assault,241,559,318,132.0
+Shahjahanpur,Burglary,300,613,313,104.3
+Shahjahanpur,Crimes Against Children,124,171,47,37.9
+Shahjahanpur,Crimes Against SCs,248,255,7,2.8
+Shahjahanpur,Crimes Against STs,0,1,1,0.0
+Shahjahanpur,Crimes Against Women,708,640,-68,-9.6
+Shahjahanpur,Cyber Crimes,50,54,4,8.0
+Shahjahanpur,Cybercrime,861,611,-250,-29.0
+Shahjahanpur,Dowry Deaths,625,617,-8,-1.3
+Shahjahanpur,Fraud,1138,605,-533,-46.8
+Shahjahanpur,IPC Crimes,4471,5094,623,13.9
+Shahjahanpur,Juvenile IPC,0,1,1,0.0
+Shahjahanpur,Juvenile SLL,0,1,1,0.0
+Shahjahanpur,Kidnapping,917,614,-303,-33.0
+Shahjahanpur,Missing Persons,0,648,648,0.0
+Shahjahanpur,Murder,170,641,471,277.1
+Shahjahanpur,Rape,1044,739,-305,-29.2
+Shahjahanpur,Robbery,437,610,173,39.6
+Shahjahanpur,SLL Crimes,12359,11652,-707,-5.7
+Shahjahanpur,Theft,842,661,-181,-21.5
+Shamli,Crimes Against Children,104,113,9,8.7
+Shamli,Crimes Against SCs,36,59,23,63.9
+Shamli,Crimes Against STs,0,1,1,0.0
+Shamli,Crimes Against Women,469,558,89,19.0
+Shamli,Cyber Crimes,46,71,25,54.3
+Shamli,IPC Crimes,2334,2285,-49,-2.1
+Shamli,Juvenile IPC,30,20,-10,-33.3
+Shamli,Juvenile SLL,5,7,2,40.0
+Shamli,Missing Persons,123,599,476,387.0
+Shamli,SLL Crimes,1189,1580,391,32.9
+Shrawasti,Crimes Against Children,35,135,100,285.7
+Shrawasti,Crimes Against SCs,157,143,-14,-8.9
+Shrawasti,Crimes Against STs,0,1,1,0.0
+Shrawasti,Crimes Against Women,398,513,115,28.9
+Shrawasti,Cyber Crimes,21,28,7,33.3
+Shrawasti,IPC Crimes,1988,2071,83,4.2
+Shrawasti,Juvenile IPC,10,7,-3,-30.0
+Shrawasti,Juvenile SLL,0,1,1,0.0
+Shrawasti,Missing Persons,180,396,216,120.0
+Shrawasti,SLL Crimes,1457,1620,163,11.2
+Sidharthnagar,Crimes Against Children,312,274,-38,-12.2
+Sidharthnagar,Crimes Against SCs,180,177,-3,-1.7
+Sidharthnagar,Crimes Against STs,0,1,1,0.0
+Sidharthnagar,Crimes Against Women,584,574,-10,-1.7
+Sidharthnagar,Cyber Crimes,74,64,-10,-13.5
+Sidharthnagar,IPC Crimes,3089,3016,-73,-2.4
+Sidharthnagar,Juvenile IPC,24,13,-11,-45.8
+Sidharthnagar,Juvenile SLL,0,1,1,0.0
+Sidharthnagar,Missing Persons,306,630,324,105.9
+Sidharthnagar,SLL Crimes,2760,2700,-60,-2.2
+Sitapur,Assault,725,629,-96,-13.2
+Sitapur,Burglary,127,644,517,407.1
+Sitapur,Crimes Against Children,130,221,91,70.0
+Sitapur,Crimes Against SCs,511,513,2,0.4
+Sitapur,Crimes Against STs,0,1,1,0.0
+Sitapur,Crimes Against Women,895,800,-95,-10.6
+Sitapur,Cyber Crimes,80,63,-17,-21.2
+Sitapur,Cybercrime,984,661,-323,-32.8
+Sitapur,Dowry Deaths,738,621,-117,-15.9
+Sitapur,Fraud,848,605,-243,-28.7
+Sitapur,IPC Crimes,7681,6383,-1298,-16.9
+Sitapur,Juvenile IPC,0,1,1,0.0
+Sitapur,Juvenile SLL,0,1,1,0.0
+Sitapur,Kidnapping,184,629,445,241.8
+Sitapur,Missing Persons,498,587,89,17.9
+Sitapur,Murder,42,655,613,1459.5
+Sitapur,Rape,1141,623,-518,-45.4
+Sitapur,Robbery,372,456,84,22.6
+Sitapur,SLL Crimes,9754,8428,-1326,-13.6
+Sitapur,Theft,389,484,95,24.4
+Sonbhadra,Crimes Against Children,108,123,15,13.9
+Sonbhadra,Crimes Against SCs,173,254,81,46.8
+Sonbhadra,Crimes Against STs,0,1,1,0.0
+Sonbhadra,Crimes Against Women,441,518,77,17.5
+Sonbhadra,Cyber Crimes,58,57,-1,-1.7
+Sonbhadra,IPC Crimes,2080,2272,192,9.2
+Sonbhadra,Juvenile IPC,0,1,1,0.0
+Sonbhadra,Juvenile SLL,0,1,1,0.0
+Sonbhadra,Missing Persons,267,693,426,159.6
+Sonbhadra,SLL Crimes,3649,4175,526,14.4
+Sultanpur,Crimes Against Children,317,418,101,31.9
+Sultanpur,Crimes Against SCs,346,406,60,17.3
+Sultanpur,Crimes Against STs,0,1,1,0.0
+Sultanpur,Crimes Against Women,803,783,-20,-2.5
+Sultanpur,Cyber Crimes,62,84,22,35.5
+Sultanpur,IPC Crimes,6310,6660,350,5.5
+Sultanpur,Juvenile IPC,9,8,-1,-11.1
+Sultanpur,Juvenile SLL,8,7,-1,-12.5
+Sultanpur,Missing Persons,133,319,186,139.8
+Sultanpur,SLL Crimes,4484,4475,-9,-0.2
+Unnao,Crimes Against Children,314,275,-39,-12.4
+Unnao,Crimes Against SCs,381,476,95,24.9
+Unnao,Crimes Against STs,0,2,2,0.0
+Unnao,Crimes Against Women,1059,846,-213,-20.1
+Unnao,Cyber Crimes,68,79,11,16.2
+Unnao,IPC Crimes,5463,6127,664,12.2
+Unnao,Juvenile IPC,44,59,15,34.1
+Unnao,Juvenile SLL,2,23,21,1050.0
+Unnao,Missing Persons,190,367,177,93.2
+Unnao,SLL Crimes,2893,4736,1843,63.7
+Varanasi,Assault,693,612,-81,-11.7
+Varanasi,Burglary,443,526,83,18.7
+Varanasi,Cybercrime,497,542,45,9.1
+Varanasi,Dowry Deaths,245,600,355,144.9
+Varanasi,Fraud,348,584,236,67.8
+Varanasi,Kidnapping,792,586,-206,-26.0
+Varanasi,Murder,45,960,915,2033.3
+Varanasi,Rape,282,459,177,62.8
+Varanasi,Robbery,319,595,276,86.5
+Varanasi,Theft,1183,604,-579,-48.9
+Varanasi Commissionarate,Crimes Against Children,275,264,-11,-4.0
+Varanasi Commissionarate,Crimes Against SCs,159,204,45,28.3
+Varanasi Commissionarate,Crimes Against STs,0,2,2,0.0
+Varanasi Commissionarate,Crimes Against Women,1167,932,-235,-20.1
+Varanasi Commissionarate,Cyber Crimes,388,536,148,38.1
+Varanasi Commissionarate,IPC Crimes,8015,8964,949,11.8
+Varanasi Commissionarate,Juvenile IPC,159,187,28,17.6
+Varanasi Commissionarate,Juvenile SLL,16,12,-4,-25.0
+Varanasi Commissionarate,Missing Persons,474,585,111,23.4
+Varanasi Commissionarate,SLL Crimes,1115,2083,968,86.8

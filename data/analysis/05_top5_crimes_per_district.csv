@@ -1,0 +1,431 @@
+District,Rank,Crime_Type,Total_Cases,Pct_of_District_Total
+Agra,1,IPC Crimes,72764,41.0
+Agra,2,SLL Crimes,28760,16.2
+Agra,3,Crimes Against Women,11120,6.3
+Agra,4,Theft,6761,3.8
+Agra,5,Robbery,6428,3.6
+Aligarh,1,IPC Crimes,62410,33.1
+Aligarh,2,SLL Crimes,47261,25.1
+Aligarh,3,Crimes Against Women,11739,6.2
+Aligarh,4,Robbery,6963,3.7
+Aligarh,5,Dowry Deaths,6604,3.5
+Allahabad,1,IPC Crimes,9737,60.1
+Allahabad,2,SLL Crimes,4738,29.2
+Allahabad,3,Crimes Against Women,1165,7.2
+Allahabad,4,Crimes Against SCs,292,1.8
+Allahabad,5,Crimes Against Children,270,1.7
+Ambedkar Nagar,1,IPC Crimes,19111,45.1
+Ambedkar Nagar,2,SLL Crimes,17193,40.5
+Ambedkar Nagar,3,Crimes Against Women,3175,7.5
+Ambedkar Nagar,4,Crimes Against SCs,1063,2.5
+Ambedkar Nagar,5,Crimes Against Children,974,2.3
+Amethi,1,IPC Crimes,22241,58.9
+Amethi,2,SLL Crimes,9659,25.6
+Amethi,3,Crimes Against Women,2775,7.3
+Amethi,4,Crimes Against SCs,1882,5.0
+Amethi,5,Crimes Against Children,671,1.8
+Amroha,1,SLL Crimes,19238,47.6
+Amroha,2,IPC Crimes,17073,42.2
+Amroha,3,Crimes Against Women,2904,7.2
+Amroha,4,Crimes Against Children,441,1.1
+Amroha,5,Crimes Against SCs,434,1.1
+Auraiya,1,IPC Crimes,20011,45.0
+Auraiya,2,SLL Crimes,17352,39.0
+Auraiya,3,Crimes Against Women,4060,9.1
+Auraiya,4,Crimes Against SCs,1291,2.9
+Auraiya,5,Crimes Against Children,1095,2.5
+Ayodhya,1,IPC Crimes,31210,25.7
+Ayodhya,2,SLL Crimes,21686,17.8
+Ayodhya,3,Murder,7036,5.8
+Ayodhya,4,Fraud,6583,5.4
+Ayodhya,5,Assault,6222,5.1
+Azamgarh,1,IPC Crimes,38657,54.8
+Azamgarh,2,SLL Crimes,19558,27.7
+Azamgarh,3,Crimes Against Women,6747,9.6
+Azamgarh,4,Crimes Against Children,1931,2.7
+Azamgarh,5,Crimes Against SCs,1702,2.4
+Badaun,1,SLL Crimes,31832,44.5
+Badaun,2,IPC Crimes,30499,42.6
+Badaun,3,Crimes Against Women,6023,8.4
+Badaun,4,Crimes Against Children,1377,1.9
+Badaun,5,Crimes Against SCs,904,1.3
+Baghpat,1,IPC Crimes,20973,47.9
+Baghpat,2,SLL Crimes,16654,38.0
+Baghpat,3,Crimes Against Women,3132,7.1
+Baghpat,4,Crimes Against Children,1392,3.2
+Baghpat,5,Cyber Crimes,819,1.9
+Bahraich,1,IPC Crimes,42706,53.8
+Bahraich,2,SLL Crimes,22699,28.6
+Bahraich,3,Crimes Against Women,9233,11.6
+Bahraich,4,Crimes Against SCs,2083,2.6
+Bahraich,5,Crimes Against Children,1724,2.2
+Ballia,1,IPC Crimes,20618,19.7
+Ballia,2,SLL Crimes,16409,15.7
+Ballia,3,Murder,7254,6.9
+Ballia,4,Theft,7184,6.9
+Ballia,5,Robbery,6481,6.2
+Balrampur,1,IPC Crimes,12219,42.6
+Balrampur,2,SLL Crimes,11057,38.5
+Balrampur,3,Crimes Against Women,2609,9.1
+Balrampur,4,Crimes Against Children,1108,3.9
+Balrampur,5,Crimes Against SCs,812,2.8
+Banda,1,IPC Crimes,18717,49.2
+Banda,2,SLL Crimes,12107,31.8
+Banda,3,Crimes Against Women,3673,9.7
+Banda,4,Crimes Against Children,1675,4.4
+Banda,5,Crimes Against SCs,1159,3.0
+Barabanki,1,IPC Crimes,41295,48.0
+Barabanki,2,SLL Crimes,31911,37.1
+Barabanki,3,Crimes Against Women,6422,7.5
+Barabanki,4,Crimes Against Children,2566,3.0
+Barabanki,5,Crimes Against SCs,2225,2.6
+Bareilly,1,IPC Crimes,59311,30.9
+Bareilly,2,SLL Crimes,58600,30.5
+Bareilly,3,Crimes Against Women,13583,7.1
+Bareilly,4,Dowry Deaths,7255,3.8
+Bareilly,5,Rape,6586,3.4
+Basti,1,SLL Crimes,20841,20.1
+Basti,2,IPC Crimes,18685,18.1
+Basti,3,Burglary,7857,7.6
+Basti,4,Fraud,6876,6.6
+Basti,5,Dowry Deaths,6868,6.6
+Bhadohi,1,IPC Crimes,9568,44.4
+Bhadohi,2,SLL Crimes,8743,40.6
+Bhadohi,3,Crimes Against Women,1678,7.8
+Bhadohi,4,Crimes Against Children,695,3.2
+Bhadohi,5,Crimes Against SCs,533,2.5
+Bijnor,1,SLL Crimes,44738,52.2
+Bijnor,2,IPC Crimes,30151,35.2
+Bijnor,3,Crimes Against Women,7437,8.7
+Bijnor,4,Crimes Against Children,1074,1.3
+Bijnor,5,Cyber Crimes,790,0.9
+Bulandshahar,1,IPC Crimes,50362,45.9
+Bulandshahar,2,SLL Crimes,45038,41.1
+Bulandshahar,3,Crimes Against Women,8579,7.8
+Bulandshahar,4,Crimes Against Children,2134,1.9
+Bulandshahar,5,Cyber Crimes,1489,1.4
+Chandoli,1,IPC Crimes,13942,44.4
+Chandoli,2,SLL Crimes,13043,41.6
+Chandoli,3,Crimes Against Women,2173,6.9
+Chandoli,4,Crimes Against SCs,874,2.8
+Chandoli,5,Crimes Against Children,712,2.3
+Chitrakoot,1,SLL Crimes,9216,43.1
+Chitrakoot,2,IPC Crimes,8706,40.7
+Chitrakoot,3,Crimes Against Women,1763,8.2
+Chitrakoot,4,Crimes Against SCs,708,3.3
+Chitrakoot,5,Crimes Against Children,552,2.6
+Deoria,1,IPC Crimes,22666,49.1
+Deoria,2,SLL Crimes,19713,42.7
+Deoria,3,Crimes Against Women,1460,3.2
+Deoria,4,Crimes Against Children,976,2.1
+Deoria,5,Crimes Against SCs,944,2.0
+Etah,1,IPC Crimes,28085,53.1
+Etah,2,SLL Crimes,19486,36.8
+Etah,3,Crimes Against Women,3148,5.9
+Etah,4,Crimes Against SCs,882,1.7
+Etah,5,Crimes Against Children,749,1.4
+Etawah,1,SLL Crimes,22279,19.7
+Etawah,2,IPC Crimes,21296,18.9
+Etawah,3,Assault,8025,7.1
+Etawah,4,Burglary,7152,6.3
+Etawah,5,Theft,6909,6.1
+Faizabad,1,IPC Crimes,2746,51.8
+Faizabad,2,SLL Crimes,1805,34.1
+Faizabad,3,Crimes Against Women,440,8.3
+Faizabad,4,Crimes Against SCs,173,3.3
+Faizabad,5,Crimes Against Children,133,2.5
+Fatehgarh,1,SLL Crimes,54773,67.7
+Fatehgarh,2,IPC Crimes,19527,24.2
+Fatehgarh,3,Crimes Against Women,3807,4.7
+Fatehgarh,4,Crimes Against Children,1573,1.9
+Fatehgarh,5,Crimes Against SCs,601,0.7
+Fatehpur,1,IPC Crimes,24452,44.7
+Fatehpur,2,SLL Crimes,21208,38.7
+Fatehpur,3,Crimes Against Women,4041,7.4
+Fatehpur,4,Crimes Against Children,2505,4.6
+Fatehpur,5,Crimes Against SCs,960,1.8
+Firozabad,1,IPC Crimes,43381,30.5
+Firozabad,2,SLL Crimes,25850,18.2
+Firozabad,3,Crimes Against Women,8751,6.1
+Firozabad,4,Cybercrime,7568,5.3
+Firozabad,5,Theft,7184,5.0
+G. R. P.,1,IPC Crimes,8293,74.9
+G. R. P.,2,SLL Crimes,2625,23.7
+G. R. P.,3,Crimes Against Women,109,1.0
+G. R. P.,4,Crimes Against Children,36,0.3
+G. R. P.,5,Crimes Against SCs,9,0.1
+Gautambudh Nagar,1,IPC Crimes,71315,51.9
+Gautambudh Nagar,2,SLL Crimes,48640,35.4
+Gautambudh Nagar,3,Cyber Crimes,6754,4.9
+Gautambudh Nagar,4,Crimes Against Women,6048,4.4
+Gautambudh Nagar,5,Missing Persons,2801,2.0
+Ghaziabad,1,IPC Crimes,97706,43.5
+Ghaziabad,2,SLL Crimes,44339,19.7
+Ghaziabad,3,Crimes Against Women,9291,4.1
+Ghaziabad,4,Burglary,7789,3.5
+Ghaziabad,5,Rape,7097,3.2
+Ghazipur,1,IPC Crimes,29777,53.5
+Ghazipur,2,SLL Crimes,15198,27.3
+Ghazipur,3,Crimes Against Women,4873,8.7
+Ghazipur,4,Crimes Against Children,2621,4.7
+Ghazipur,5,Crimes Against SCs,1431,2.6
+Gonda,1,IPC Crimes,26034,42.8
+Gonda,2,SLL Crimes,25761,42.3
+Gonda,3,Crimes Against Women,4844,8.0
+Gonda,4,Crimes Against SCs,1802,3.0
+Gonda,5,Crimes Against Children,1436,2.4
+Gorakhpur,1,IPC Crimes,67316,36.7
+Gorakhpur,2,SLL Crimes,37956,20.7
+Gorakhpur,3,Crimes Against Women,11196,6.1
+Gorakhpur,4,Fraud,7331,4.0
+Gorakhpur,5,Rape,7087,3.9
+Hamirpur,1,SLL Crimes,19048,48.6
+Hamirpur,2,IPC Crimes,14615,37.3
+Hamirpur,3,Crimes Against Women,2632,6.7
+Hamirpur,4,Crimes Against Children,1135,2.9
+Hamirpur,5,Crimes Against SCs,951,2.4
+Hapur,1,SLL Crimes,22622,46.8
+Hapur,2,IPC Crimes,19849,41.1
+Hapur,3,Crimes Against Women,3715,7.7
+Hapur,4,Crimes Against Children,997,2.1
+Hapur,5,Crimes Against SCs,419,0.9
+Hardoi,1,IPC Crimes,43526,46.7
+Hardoi,2,SLL Crimes,39368,42.3
+Hardoi,3,Crimes Against Women,6267,6.7
+Hardoi,4,Crimes Against Children,1812,1.9
+Hardoi,5,Crimes Against SCs,1537,1.7
+Hathras,1,SLL Crimes,21622,45.8
+Hathras,2,IPC Crimes,18806,39.8
+Hathras,3,Crimes Against Women,3980,8.4
+Hathras,4,Crimes Against Children,1715,3.6
+Hathras,5,Crimes Against SCs,618,1.3
+Jalaun,1,SLL Crimes,22261,50.4
+Jalaun,2,IPC Crimes,16404,37.1
+Jalaun,3,Crimes Against Women,2953,6.7
+Jalaun,4,Crimes Against Children,1206,2.7
+Jalaun,5,Crimes Against SCs,749,1.7
+Jaunpur,1,IPC Crimes,38807,55.8
+Jaunpur,2,SLL Crimes,20383,29.3
+Jaunpur,3,Crimes Against Women,4766,6.9
+Jaunpur,4,Crimes Against Children,2406,3.5
+Jaunpur,5,Crimes Against SCs,1835,2.6
+Jhansi,1,SLL Crimes,35053,27.5
+Jhansi,2,IPC Crimes,24760,19.4
+Jhansi,3,Murder,9170,7.2
+Jhansi,4,Burglary,7072,5.5
+Jhansi,5,Fraud,6238,4.9
+Kannauj,1,IPC Crimes,20249,45.0
+Kannauj,2,SLL Crimes,16646,37.0
+Kannauj,3,Crimes Against Women,5014,11.2
+Kannauj,4,Crimes Against Children,1288,2.9
+Kannauj,5,Crimes Against SCs,906,2.0
+Kanpur Commissionarate,1,IPC Crimes,29610,60.3
+Kanpur Commissionarate,2,SLL Crimes,9170,18.7
+Kanpur Commissionarate,3,Crimes Against Women,5119,10.4
+Kanpur Commissionarate,4,Missing Persons,1771,3.6
+Kanpur Commissionarate,5,Cyber Crimes,1471,3.0
+Kanpur Dehat,1,SLL Crimes,26255,43.6
+Kanpur Dehat,2,IPC Crimes,26139,43.4
+Kanpur Dehat,3,Crimes Against Women,4863,8.1
+Kanpur Dehat,4,Crimes Against SCs,1269,2.1
+Kanpur Dehat,5,Crimes Against Children,1176,2.0
+Kanpur Nagar,1,IPC Crimes,35319,25.6
+Kanpur Nagar,2,SLL Crimes,27627,20.0
+Kanpur Nagar,3,Assault,8587,6.2
+Kanpur Nagar,4,Burglary,8244,6.0
+Kanpur Nagar,5,Dowry Deaths,7540,5.5
+Kanpur Outer,1,IPC Crimes,2719,60.2
+Kanpur Outer,2,SLL Crimes,813,18.0
+Kanpur Outer,3,Crimes Against Women,549,12.1
+Kanpur Outer,4,Crimes Against Children,169,3.7
+Kanpur Outer,5,Crimes Against SCs,167,3.7
+Kasganj,1,SLL Crimes,20163,44.9
+Kasganj,2,IPC Crimes,17611,39.2
+Kasganj,3,Crimes Against Women,4381,9.8
+Kasganj,4,Crimes Against Children,1782,4.0
+Kasganj,5,Crimes Against SCs,634,1.4
+Kaushambi,1,IPC Crimes,20219,44.6
+Kaushambi,2,SLL Crimes,18725,41.3
+Kaushambi,3,Crimes Against Women,2909,6.4
+Kaushambi,4,Crimes Against Children,1668,3.7
+Kaushambi,5,Crimes Against SCs,1025,2.3
+Khiri,1,IPC Crimes,44733,45.2
+Khiri,2,SLL Crimes,42890,43.4
+Khiri,3,Crimes Against Women,6203,6.3
+Khiri,4,Crimes Against SCs,2404,2.4
+Khiri,5,Crimes Against Children,2050,2.1
+Kushi Nagar,1,IPC Crimes,29902,48.1
+Kushi Nagar,2,SLL Crimes,23209,37.3
+Kushi Nagar,3,Crimes Against Women,4567,7.3
+Kushi Nagar,4,Crimes Against Children,1940,3.1
+Kushi Nagar,5,Crimes Against SCs,1441,2.3
+Lalitpur,1,SLL Crimes,25179,63.7
+Lalitpur,2,IPC Crimes,11257,28.5
+Lalitpur,3,Crimes Against Women,1413,3.6
+Lalitpur,4,Crimes Against SCs,727,1.8
+Lalitpur,5,Crimes Against Children,456,1.2
+Lucknow,1,IPC Crimes,59175,39.8
+Lucknow,2,SLL Crimes,16397,11.0
+Lucknow,3,Crimes Against Women,7891,5.3
+Lucknow,4,Theft,7541,5.1
+Lucknow,5,Murder,7350,4.9
+Lucknow Commissionarate,1,IPC Crimes,59814,63.8
+Lucknow Commissionarate,2,SLL Crimes,14449,15.4
+Lucknow Commissionarate,3,Crimes Against Women,9852,10.5
+Lucknow Commissionarate,4,Cyber Crimes,5119,5.5
+Lucknow Commissionarate,5,Crimes Against Children,2479,2.6
+Lucknow Grameen,1,IPC Crimes,2111,46.5
+Lucknow Grameen,2,SLL Crimes,1743,38.4
+Lucknow Grameen,3,Crimes Against Women,384,8.5
+Lucknow Grameen,4,Crimes Against SCs,146,3.2
+Lucknow Grameen,5,Crimes Against Children,73,1.6
+Maharajganj,1,SLL Crimes,20947,50.3
+Maharajganj,2,IPC Crimes,15333,36.8
+Maharajganj,3,Crimes Against Women,2740,6.6
+Maharajganj,4,Crimes Against Children,1316,3.2
+Maharajganj,5,Crimes Against SCs,828,2.0
+Mahoba,1,SLL Crimes,14061,54.4
+Mahoba,2,IPC Crimes,7998,30.9
+Mahoba,3,Crimes Against Women,1831,7.1
+Mahoba,4,Crimes Against Children,985,3.8
+Mahoba,5,Crimes Against SCs,749,2.9
+Mainpuri,1,SLL Crimes,30646,49.5
+Mainpuri,2,IPC Crimes,24361,39.4
+Mainpuri,3,Crimes Against Women,3919,6.3
+Mainpuri,4,Crimes Against Children,1586,2.6
+Mainpuri,5,Crimes Against SCs,904,1.5
+Mathura,1,IPC Crimes,52511,34.1
+Mathura,2,SLL Crimes,28427,18.5
+Mathura,3,Crimes Against Women,8196,5.3
+Mathura,4,Murder,7940,5.2
+Mathura,5,Rape,7249,4.7
+Mau,1,IPC Crimes,23790,55.2
+Mau,2,SLL Crimes,13206,30.6
+Mau,3,Crimes Against Women,3488,8.1
+Mau,4,Crimes Against Children,1132,2.6
+Mau,5,Crimes Against SCs,754,1.7
+Meerut,1,IPC Crimes,70232,34.5
+Meerut,2,SLL Crimes,53420,26.2
+Meerut,3,Crimes Against Women,8672,4.3
+Meerut,4,Fraud,8038,3.9
+Meerut,5,Burglary,7945,3.9
+Mirzapur,1,IPC Crimes,14380,16.5
+Mirzapur,2,SLL Crimes,13147,15.1
+Mirzapur,3,Rape,7124,8.2
+Mirzapur,4,Cybercrime,6248,7.2
+Mirzapur,5,Murder,6042,6.9
+Moradabad,1,IPC Crimes,38711,27.7
+Moradabad,2,SLL Crimes,30071,21.5
+Moradabad,3,Crimes Against Women,8312,6.0
+Moradabad,4,Dowry Deaths,7760,5.6
+Moradabad,5,Rape,7226,5.2
+Muzaffarnagar,1,IPC Crimes,33722,25.7
+Muzaffarnagar,2,SLL Crimes,30273,23.1
+Muzaffarnagar,3,Murder,6993,5.3
+Muzaffarnagar,4,Burglary,6728,5.1
+Muzaffarnagar,5,Assault,6713,5.1
+Noida,1,Robbery,7408,12.2
+Noida,2,Fraud,7176,11.8
+Noida,3,Theft,6865,11.3
+Noida,4,Kidnapping,6571,10.8
+Noida,5,Assault,5996,9.8
+Pilibhit,1,SLL Crimes,24359,42.0
+Pilibhit,2,IPC Crimes,23458,40.5
+Pilibhit,3,Crimes Against Women,6426,11.1
+Pilibhit,4,Crimes Against Children,1858,3.2
+Pilibhit,5,Crimes Against SCs,996,1.7
+Pratapgarh,1,IPC Crimes,46954,61.5
+Pratapgarh,2,SLL Crimes,17342,22.7
+Pratapgarh,3,Crimes Against Women,6247,8.2
+Pratapgarh,4,Crimes Against SCs,2884,3.8
+Pratapgarh,5,Crimes Against Children,2254,3.0
+Prayagraj,1,IPC Crimes,87041,39.8
+Prayagraj,2,SLL Crimes,48996,22.4
+Prayagraj,3,Crimes Against Women,10961,5.0
+Prayagraj,4,Cybercrime,7823,3.6
+Prayagraj,5,Kidnapping,7279,3.3
+Raebareli,1,Burglary,7794,12.4
+Raebareli,2,Cybercrime,7225,11.5
+Raebareli,3,Theft,7001,11.1
+Raebareli,4,Dowry Deaths,6959,11.1
+Raebareli,5,Kidnapping,6412,10.2
+Raibareilly,1,IPC Crimes,38829,51.7
+Raibareilly,2,SLL Crimes,27037,36.0
+Raibareilly,3,Crimes Against Women,4453,5.9
+Raibareilly,4,Crimes Against Children,1957,2.6
+Raibareilly,5,Crimes Against SCs,1886,2.5
+Rampur,1,SLL Crimes,47550,65.1
+Rampur,2,IPC Crimes,18334,25.1
+Rampur,3,Crimes Against Women,5464,7.5
+Rampur,4,Crimes Against Children,832,1.1
+Rampur,5,Crimes Against SCs,445,0.6
+Saharanpur,1,SLL Crimes,37069,27.6
+Saharanpur,2,IPC Crimes,29028,21.6
+Saharanpur,3,Kidnapping,6909,5.2
+Saharanpur,4,Robbery,6559,4.9
+Saharanpur,5,Dowry Deaths,6295,4.7
+Sambhal,1,SLL Crimes,29267,49.4
+Sambhal,2,IPC Crimes,22990,38.8
+Sambhal,3,Crimes Against Women,4534,7.7
+Sambhal,4,Crimes Against Children,1410,2.4
+Sambhal,5,Crimes Against SCs,500,0.8
+Sant Kabirnagar,1,SLL Crimes,16300,47.6
+Sant Kabirnagar,2,IPC Crimes,12665,37.0
+Sant Kabirnagar,3,Crimes Against Women,2470,7.2
+Sant Kabirnagar,4,Crimes Against Children,1397,4.1
+Sant Kabirnagar,5,Crimes Against SCs,944,2.8
+Shahjahanpur,1,SLL Crimes,60867,36.4
+Shahjahanpur,2,IPC Crimes,33817,20.2
+Shahjahanpur,3,Fraud,7911,4.7
+Shahjahanpur,4,Theft,7374,4.4
+Shahjahanpur,5,Dowry Deaths,7180,4.3
+Shamli,1,SLL Crimes,16268,46.6
+Shamli,2,IPC Crimes,14090,40.4
+Shamli,3,Crimes Against Women,2975,8.5
+Shamli,4,Crimes Against Children,676,1.9
+Shamli,5,Missing Persons,311,0.9
+Shrawasti,1,IPC Crimes,9115,45.6
+Shrawasti,2,SLL Crimes,6956,34.8
+Shrawasti,3,Crimes Against Women,2211,11.1
+Shrawasti,4,Crimes Against SCs,785,3.9
+Shrawasti,5,Crimes Against Children,550,2.7
+Sidharthnagar,1,SLL Crimes,16046,48.1
+Sidharthnagar,2,IPC Crimes,11484,34.4
+Sidharthnagar,3,Crimes Against Women,2787,8.4
+Sidharthnagar,4,Crimes Against Children,1348,4.0
+Sidharthnagar,5,Crimes Against SCs,729,2.2
+Sitapur,1,IPC Crimes,44218,26.8
+Sitapur,2,SLL Crimes,43401,26.3
+Sitapur,3,Crimes Against Women,8143,4.9
+Sitapur,4,Assault,7617,4.6
+Sitapur,5,Dowry Deaths,7550,4.6
+Sonbhadra,1,SLL Crimes,16180,47.6
+Sonbhadra,2,IPC Crimes,12737,37.5
+Sonbhadra,3,Crimes Against Women,2315,6.8
+Sonbhadra,4,Crimes Against SCs,955,2.8
+Sonbhadra,5,Crimes Against Children,858,2.5
+Sultanpur,1,IPC Crimes,40435,59.5
+Sultanpur,2,SLL Crimes,17304,25.5
+Sultanpur,3,Crimes Against Women,5358,7.9
+Sultanpur,4,Crimes Against SCs,2133,3.1
+Sultanpur,5,Crimes Against Children,1903,2.8
+Unnao,1,IPC Crimes,32741,46.3
+Unnao,2,SLL Crimes,25680,36.3
+Unnao,3,Crimes Against Women,6587,9.3
+Unnao,4,Crimes Against Children,2475,3.5
+Unnao,5,Crimes Against SCs,2131,3.0
+Varanasi,1,IPC Crimes,36371,31.4
+Varanasi,2,SLL Crimes,12030,10.4
+Varanasi,3,Robbery,7343,6.3
+Varanasi,4,Theft,7113,6.1
+Varanasi,5,Dowry Deaths,6011,5.2
+Varanasi Commissionarate,1,IPC Crimes,21787,68.5
+Varanasi Commissionarate,2,SLL Crimes,3264,10.3
+Varanasi Commissionarate,3,Crimes Against Women,2911,9.1
+Varanasi Commissionarate,4,Missing Persons,1249,3.9
+Varanasi Commissionarate,5,Cyber Crimes,1131,3.6
+Vasanasi Dehat,1,IPC Crimes,3531,73.3
+Vasanasi Dehat,2,SLL Crimes,557,11.6
+Vasanasi Dehat,3,Crimes Against Women,385,8.0
+Vasanasi Dehat,4,Crimes Against Children,141,2.9
+Vasanasi Dehat,5,Crimes Against SCs,90,1.9

@@ -1,0 +1,634 @@
+Year,District,Total,Intensity_Score
+2014,Agra,5471,31.4
+2014,Aligarh,6801,76.3
+2014,Ayodhya,6042,50.7
+2014,Ballia,7294,92.9
+2014,Bareilly,6229,57.0
+2014,Basti,7021,83.7
+2014,Etawah,6478,65.4
+2014,Firozabad,6458,64.7
+2014,Ghaziabad,6543,67.6
+2014,Gorakhpur,5808,42.8
+2014,Jhansi,5905,46.0
+2014,Kanpur Nagar,5760,41.1
+2014,Lucknow,5009,15.8
+2014,Mathura,5200,22.3
+2014,Meerut,4873,11.2
+2014,Mirzapur,6321,60.1
+2014,Moradabad,6851,77.9
+2014,Muzaffarnagar,4780,8.1
+2014,Noida,4540,0.0
+2014,Prayagraj,4760,7.4
+2014,Raebareli,5945,47.4
+2014,Saharanpur,5622,36.5
+2014,Shahjahanpur,7208,90.0
+2014,Sitapur,6755,74.7
+2014,Varanasi,7505,100.0
+2015,Agra,6295,56.2
+2015,Aligarh,6737,67.7
+2015,Ayodhya,7479,87.1
+2015,Ballia,6346,57.5
+2015,Bareilly,5609,38.2
+2015,Basti,4146,0.0
+2015,Etawah,5956,47.3
+2015,Firozabad,5822,43.8
+2015,Ghaziabad,7304,82.6
+2015,Gorakhpur,4936,20.7
+2015,Jhansi,7402,85.1
+2015,Kanpur Nagar,7453,86.5
+2015,Lucknow,7585,89.9
+2015,Mathura,5910,46.1
+2015,Meerut,6778,68.8
+2015,Mirzapur,4671,13.7
+2015,Moradabad,5105,25.1
+2015,Muzaffarnagar,7494,87.5
+2015,Noida,4975,21.7
+2015,Prayagraj,7560,89.3
+2015,Raebareli,5245,28.7
+2015,Saharanpur,7971,100.0
+2015,Shahjahanpur,5622,38.6
+2015,Sitapur,4334,4.9
+2015,Varanasi,5732,41.5
+2016,Agra,24633,72.9
+2016,Aligarh,17843,51.1
+2016,Allahabad,16211,45.8
+2016,Ambedkar Nagar,3013,3.4
+2016,Amethi,3411,4.7
+2016,Amroha,5391,11.0
+2016,Auraiya,4556,8.3
+2016,Ayodhya,6517,14.6
+2016,Azamgarh,6683,15.2
+2016,Badaun,8786,21.9
+2016,Baghpat,4680,8.7
+2016,Bahraich,7175,16.8
+2016,Ballia,9526,24.3
+2016,Balrampur,1961,0.0
+2016,Banda,3229,4.1
+2016,Barabanki,5544,11.5
+2016,Bareilly,20648,60.1
+2016,Basti,8207,20.1
+2016,Bhadohi,2074,0.4
+2016,Bijnor,10762,28.3
+2016,Bulandshahar,13932,38.5
+2016,Chandoli,3344,4.4
+2016,Chitrakoot,2766,2.6
+2016,Deoria,5538,11.5
+2016,Etah,7027,16.3
+2016,Etawah,13086,35.8
+2016,Faizabad,5297,10.7
+2016,Fatehgarh,6457,14.5
+2016,Fatehpur,7025,16.3
+2016,Firozabad,16570,47.0
+2016,G. R. P.,11072,29.3
+2016,Gautambudh Nagar,16704,47.4
+2016,Ghaziabad,26753,79.7
+2016,Ghazipur,4309,7.5
+2016,Gonda,5956,12.8
+2016,Gorakhpur,19025,54.9
+2016,Hamirpur,3270,4.2
+2016,Hapur,5165,10.3
+2016,Hardoi,7030,16.3
+2016,Hathras,5364,10.9
+2016,Jalaun,3862,6.1
+2016,Jaunpur,5183,10.4
+2016,Jhansi,11945,32.1
+2016,Kannauj,5231,10.5
+2016,Kanpur Dehat,6262,13.8
+2016,Kanpur Nagar,21909,64.1
+2016,Kasganj,3408,4.7
+2016,Kaushambi,4756,9.0
+2016,Khiri,8325,20.5
+2016,Kushi Nagar,7623,18.2
+2016,Lalitpur,3207,4.0
+2016,Lucknow,33064,100.0
+2016,Maharajganj,4402,7.8
+2016,Mahoba,2308,1.1
+2016,Mainpuri,6784,15.5
+2016,Mathura,19681,57.0
+2016,Mau,4424,7.9
+2016,Meerut,20415,59.3
+2016,Mirzapur,9040,22.8
+2016,Moradabad,16968,48.2
+2016,Muzaffarnagar,18937,54.6
+2016,Noida,3380,4.6
+2016,Pilibhit,7449,17.6
+2016,Pratapgarh,7281,17.1
+2016,Prayagraj,7420,17.6
+2016,Raebareli,6103,13.3
+2016,Raibareilly,5709,12.1
+2016,Rampur,7881,19.0
+2016,Saharanpur,15228,42.7
+2016,Sambhal,6106,13.3
+2016,Sant Kabirnagar,2559,1.9
+2016,Shahjahanpur,16717,47.4
+2016,Shamli,5174,10.3
+2016,Shrawasti,2003,0.1
+2016,Sidharthnagar,2757,2.6
+2016,Sitapur,15659,44.0
+2016,Sonbhadra,3256,4.2
+2016,Sultanpur,4198,7.2
+2016,Unnao,7096,16.5
+2016,Varanasi,17157,48.9
+2017,Agra,6773,49.8
+2017,Aligarh,4250,0.0
+2017,Ayodhya,4587,6.7
+2017,Ballia,5838,31.3
+2017,Bareilly,5345,21.6
+2017,Basti,5652,27.7
+2017,Etawah,7772,69.5
+2017,Firozabad,4565,6.2
+2017,Ghaziabad,6904,52.4
+2017,Gorakhpur,7284,59.9
+2017,Jhansi,8213,78.2
+2017,Kanpur Nagar,5904,32.6
+2017,Lucknow,6880,51.9
+2017,Mathura,7333,60.9
+2017,Meerut,7340,61.0
+2017,Mirzapur,6577,45.9
+2017,Moradabad,6433,43.1
+2017,Muzaffarnagar,5020,15.2
+2017,Noida,9316,100.0
+2017,Prayagraj,4752,9.9
+2017,Raebareli,6548,45.4
+2017,Saharanpur,7001,54.3
+2017,Shahjahanpur,6322,40.9
+2017,Sitapur,6826,50.8
+2017,Varanasi,8226,78.5
+2018,Agra,24243,71.7
+2018,Aligarh,20042,58.0
+2018,Ambedkar Nagar,3389,4.0
+2018,Amethi,5211,9.9
+2018,Amroha,5659,11.4
+2018,Auraiya,6302,13.5
+2018,Ayodhya,16233,45.7
+2018,Azamgarh,6934,15.5
+2018,Badaun,9024,22.3
+2018,Baghpat,5594,11.2
+2018,Bahraich,8279,19.9
+2018,Ballia,11835,31.4
+2018,Balrampur,2753,1.9
+2018,Banda,4227,6.7
+2018,Barabanki,10080,25.7
+2018,Bareilly,20038,58.0
+2018,Basti,10853,28.2
+2018,Bhadohi,2774,2.0
+2018,Bijnor,10156,26.0
+2018,Bulandshahar,15296,42.6
+2018,Chandoli,4131,6.4
+2018,Chitrakoot,2572,1.4
+2018,Deoria,6034,12.6
+2018,Etah,7442,17.2
+2018,Etawah,12938,35.0
+2018,Fatehgarh,6721,14.8
+2018,Fatehpur,6710,14.8
+2018,Firozabad,16842,47.7
+2018,Gautambudh Nagar,16736,47.3
+2018,Ghaziabad,29818,89.8
+2018,Ghazipur,6753,14.9
+2018,Gonda,6154,13.0
+2018,Gorakhpur,21430,62.6
+2018,Hamirpur,4216,6.7
+2018,Hapur,5822,11.9
+2018,Hardoi,9086,22.5
+2018,Hathras,6128,12.9
+2018,Jalaun,5957,12.3
+2018,Jaunpur,9438,23.6
+2018,Jhansi,12204,32.6
+2018,Kannauj,6354,13.6
+2018,Kanpur Dehat,6820,15.1
+2018,Kanpur Nagar,21311,62.2
+2018,Kasganj,5248,10.0
+2018,Kaushambi,5414,10.6
+2018,Khiri,10649,27.6
+2018,Kushi Nagar,8123,19.4
+2018,Lalitpur,5623,11.3
+2018,Lucknow,32968,100.0
+2018,Maharajganj,5073,9.5
+2018,Mahoba,3606,4.7
+2018,Mainpuri,7168,16.3
+2018,Mathura,19539,56.4
+2018,Mau,4682,8.2
+2018,Meerut,27172,81.2
+2018,Mirzapur,10308,26.5
+2018,Moradabad,17701,50.5
+2018,Muzaffarnagar,20455,59.4
+2018,Noida,5303,10.2
+2018,Pilibhit,7413,17.1
+2018,Pratapgarh,9539,24.0
+2018,Prayagraj,28805,86.5
+2018,Raebareli,6077,12.7
+2018,Raibareilly,9911,25.2
+2018,Rampur,9579,24.1
+2018,Saharanpur,17554,50.0
+2018,Sambhal,6637,14.5
+2018,Sant Kabirnagar,4735,8.4
+2018,Shahjahanpur,18908,54.4
+2018,Shamli,5973,12.4
+2018,Shrawasti,2156,0.0
+2018,Sidharthnagar,3619,4.7
+2018,Sitapur,19041,54.8
+2018,Sonbhadra,3532,4.5
+2018,Sultanpur,8132,19.4
+2018,Unnao,10052,25.6
+2018,Varanasi,22216,65.1
+2019,Agra,25463,63.2
+2019,Aligarh,21126,51.3
+2019,Ambedkar Nagar,5093,7.5
+2019,Amethi,5936,9.8
+2019,Amroha,6156,10.4
+2019,Auraiya,6345,10.9
+2019,Ayodhya,15086,34.8
+2019,Azamgarh,7675,14.5
+2019,Badaun,7792,14.9
+2019,Baghpat,5709,9.2
+2019,Bahraich,11588,25.2
+2019,Ballia,9524,19.6
+2019,Balrampur,3641,3.5
+2019,Banda,4352,5.5
+2019,Barabanki,11593,25.3
+2019,Bareilly,30763,77.7
+2019,Basti,12008,26.4
+2019,Bhadohi,2358,0.0
+2019,Bijnor,10842,23.2
+2019,Bulandshahar,14443,33.0
+2019,Chandoli,3936,4.3
+2019,Chitrakoot,2544,0.5
+2019,Deoria,5814,9.5
+2019,Etah,7450,13.9
+2019,Etawah,11674,25.5
+2019,Fatehgarh,5785,9.4
+2019,Fatehpur,6656,11.8
+2019,Firozabad,15460,35.8
+2019,Gautambudh Nagar,26895,67.1
+2019,Ghaziabad,29023,72.9
+2019,Ghazipur,6335,10.9
+2019,Gonda,8252,16.1
+2019,Gorakhpur,19563,47.0
+2019,Hamirpur,4526,5.9
+2019,Hapur,5875,9.6
+2019,Hardoi,19651,47.3
+2019,Hathras,4998,7.2
+2019,Jalaun,7413,13.8
+2019,Jaunpur,13193,29.6
+2019,Jhansi,13616,30.8
+2019,Kannauj,5360,8.2
+2019,Kanpur Dehat,14136,32.2
+2019,Kanpur Nagar,25471,63.2
+2019,Kasganj,5779,9.4
+2019,Kaushambi,6337,10.9
+2019,Khiri,14093,32.1
+2019,Kushi Nagar,7013,12.7
+2019,Lalitpur,3390,2.8
+2019,Lucknow,38928,100.0
+2019,Maharajganj,6053,10.1
+2019,Mahoba,3181,2.3
+2019,Mainpuri,6825,12.2
+2019,Mathura,17783,42.2
+2019,Mau,6107,10.3
+2019,Meerut,25641,63.7
+2019,Mirzapur,7630,14.4
+2019,Moradabad,19527,46.9
+2019,Muzaffarnagar,17134,40.4
+2019,Noida,5735,9.2
+2019,Pilibhit,6684,11.8
+2019,Pratapgarh,8184,15.9
+2019,Prayagraj,33526,85.2
+2019,Raebareli,5451,8.5
+2019,Raibareilly,11268,24.4
+2019,Rampur,9708,20.1
+2019,Saharanpur,16663,39.1
+2019,Sambhal,6150,10.4
+2019,Sant Kabirnagar,3765,3.8
+2019,Shahjahanpur,18423,43.9
+2019,Shamli,6377,11.0
+2019,Shrawasti,2377,0.1
+2019,Sidharthnagar,4251,5.2
+2019,Sitapur,20668,50.1
+2019,Sonbhadra,4376,5.5
+2019,Sultanpur,10797,23.1
+2019,Unnao,8792,17.6
+2019,Varanasi,23165,56.9
+2020,Agra,19806,49.1
+2020,Aligarh,19825,49.2
+2020,Ambedkar Nagar,4165,4.7
+2020,Amethi,6484,11.3
+2020,Amroha,5948,9.7
+2020,Auraiya,6753,12.0
+2020,Ayodhya,17622,42.9
+2020,Azamgarh,7493,14.1
+2020,Badaun,8245,16.3
+2020,Baghpat,5553,8.6
+2020,Bahraich,10755,23.4
+2020,Ballia,10290,22.1
+2020,Balrampur,4380,5.3
+2020,Banda,5000,7.0
+2020,Barabanki,10510,22.7
+2020,Bareilly,22314,56.3
+2020,Basti,11243,24.8
+2020,Bhadohi,2685,0.5
+2020,Bijnor,10020,21.3
+2020,Bulandshahar,16159,38.8
+2020,Chandoli,3206,1.9
+2020,Chitrakoot,2523,0.0
+2020,Deoria,5605,8.8
+2020,Etah,7052,12.9
+2020,Etawah,14468,34.0
+2020,Fatehgarh,37702,100.0
+2020,Fatehpur,7605,14.4
+2020,Firozabad,15429,36.7
+2020,Gautambudh Nagar,15639,37.3
+2020,Ghaziabad,26022,66.8
+2020,Ghazipur,9468,19.7
+2020,Gonda,8820,17.9
+2020,Gorakhpur,31539,82.5
+2020,Hamirpur,4602,5.9
+2020,Hapur,4822,6.5
+2020,Hardoi,8261,16.3
+2020,Hathras,4526,5.7
+2020,Jalaun,8460,16.9
+2020,Jaunpur,8394,16.7
+2020,Jhansi,17253,41.9
+2020,Kannauj,5133,7.4
+2020,Kanpur Dehat,10813,23.6
+2020,Kanpur Nagar,29883,77.8
+2020,Kasganj,5288,7.9
+2020,Kaushambi,8605,17.3
+2020,Khiri,14287,33.4
+2020,Kushi Nagar,7563,14.3
+2020,Lalitpur,3645,3.2
+2020,Lucknow,5320,8.0
+2020,Lucknow Commissionarate,24458,62.4
+2020,Lucknow Grameen,2878,1.0
+2020,Maharajganj,5853,9.5
+2020,Mahoba,3423,2.6
+2020,Mainpuri,11994,26.9
+2020,Mathura,18103,44.3
+2020,Mau,7781,14.9
+2020,Meerut,24851,63.5
+2020,Mirzapur,9040,18.5
+2020,Moradabad,19222,47.5
+2020,Muzaffarnagar,14049,32.8
+2020,Noida,6867,12.3
+2020,Pilibhit,7455,14.0
+2020,Pratapgarh,12987,29.7
+2020,Prayagraj,34270,90.2
+2020,Raebareli,6841,12.3
+2020,Raibareilly,10136,21.6
+2020,Rampur,10573,22.9
+2020,Saharanpur,16023,38.4
+2020,Sambhal,6549,11.4
+2020,Sant Kabirnagar,4133,4.6
+2020,Shahjahanpur,21317,53.4
+2020,Shamli,4174,4.7
+2020,Shrawasti,2629,0.3
+2020,Sidharthnagar,4931,6.8
+2020,Sitapur,19576,48.5
+2020,Sonbhadra,3941,4.0
+2020,Sultanpur,10561,22.8
+2020,Unnao,10955,24.0
+2020,Varanasi,17790,43.4
+2021,Agra,21266,60.2
+2021,Aligarh,31406,91.4
+2021,Ambedkar Nagar,5518,11.8
+2021,Amethi,5825,12.8
+2021,Amroha,6307,14.3
+2021,Auraiya,5644,12.2
+2021,Ayodhya,15634,42.9
+2021,Azamgarh,8012,19.5
+2021,Badaun,10655,27.6
+2021,Baghpat,6646,15.3
+2021,Bahraich,11213,29.3
+2021,Ballia,11467,30.1
+2021,Balrampur,3899,6.9
+2021,Banda,5144,10.7
+2021,Barabanki,10691,27.7
+2021,Bareilly,23719,67.7
+2021,Basti,13102,35.1
+2021,Bhadohi,3186,4.7
+2021,Bijnor,10450,27.0
+2021,Bulandshahar,20448,57.7
+2021,Chandoli,4921,10.0
+2021,Chitrakoot,2213,1.7
+2021,Deoria,5497,11.8
+2021,Etah,6721,15.5
+2021,Etawah,11199,29.3
+2021,Fatehgarh,6198,13.9
+2021,Fatehpur,7451,17.8
+2021,Firozabad,16138,44.5
+2021,Gautambudh Nagar,18792,52.6
+2021,Ghaziabad,34219,100.0
+2021,Ghazipur,8304,20.4
+2021,Gonda,7542,18.1
+2021,Gorakhpur,18524,51.8
+2021,Hamirpur,4933,10.0
+2021,Hapur,8239,20.2
+2021,Hardoi,15543,42.6
+2021,Hathras,4594,9.0
+2021,Jalaun,8535,21.1
+2021,Jaunpur,8723,21.7
+2021,Jhansi,15054,41.1
+2021,Kannauj,6305,14.3
+2021,Kanpur Commissionarate,11892,31.4
+2021,Kanpur Dehat,6560,15.0
+2021,Kanpur Nagar,7134,16.8
+2021,Kanpur Outer,4520,8.8
+2021,Kasganj,9721,24.8
+2021,Kaushambi,5219,10.9
+2021,Khiri,14782,40.3
+2021,Kushi Nagar,8337,20.5
+2021,Lalitpur,4104,7.5
+2021,Lucknow,7615,18.3
+2021,Lucknow Commissionarate,21355,60.5
+2021,Lucknow Grameen,1662,0.0
+2021,Maharajganj,5210,10.9
+2021,Mahoba,3201,4.7
+2021,Mainpuri,6317,14.3
+2021,Mathura,20915,59.1
+2021,Mau,6278,14.2
+2021,Meerut,24347,69.7
+2021,Mirzapur,9313,23.5
+2021,Moradabad,17598,48.9
+2021,Muzaffarnagar,15197,41.6
+2021,Noida,6623,15.2
+2021,Pilibhit,7662,18.4
+2021,Pratapgarh,10837,28.2
+2021,Prayagraj,30368,88.2
+2021,Raebareli,7167,16.9
+2021,Raibareilly,10356,26.7
+2021,Rampur,6544,15.0
+2021,Saharanpur,17041,47.2
+2021,Sambhal,6384,14.5
+2021,Sant Kabirnagar,4722,9.4
+2021,Shahjahanpur,23396,66.8
+2021,Shamli,4163,7.7
+2021,Shrawasti,2752,3.3
+2021,Sidharthnagar,4397,8.4
+2021,Sitapur,22016,62.5
+2021,Sonbhadra,5180,10.8
+2021,Sultanpur,9935,25.4
+2021,Unnao,10454,27.0
+2021,Varanasi,3991,7.2
+2021,Varanasi Commissionarate,8277,20.3
+2021,Vasanasi Dehat,4817,9.7
+2022,Agra,21273,57.8
+2022,Aligarh,30477,82.8
+2022,Ambedkar Nagar,9147,24.9
+2022,Amethi,5656,15.4
+2022,Auraiya,6125,16.7
+2022,Ayodhya,16829,45.7
+2022,Azamgarh,12735,34.6
+2022,Badaun,15256,41.5
+2022,Baghpat,6684,18.2
+2022,Bahraich,14408,39.2
+2022,Ballia,15289,41.6
+2022,Balrampur,5759,15.7
+2022,Banda,7326,19.9
+2022,Barabanki,18624,50.6
+2022,Bareilly,29366,79.8
+2022,Basti,16779,45.6
+2022,Bhadohi,4071,11.1
+2022,Bijnor,16880,45.9
+2022,Bulandshahar,15333,41.7
+2022,Chandoli,5699,15.5
+2022,Chitrakoot,4033,11.0
+2022,Deoria,8287,22.5
+2022,Etah,10759,29.2
+2022,Etawah,15928,43.3
+2022,Fatehgarh,9298,25.3
+2022,Fatehpur,9325,25.3
+2022,Firozabad,21218,57.7
+2022,Gautambudh Nagar,19770,53.7
+2022,Ghaziabad,28982,78.8
+2022,Ghazipur,8597,23.4
+2022,Gonda,11404,31.0
+2022,Gorakhpur,24446,66.5
+2022,Hamirpur,9234,25.1
+2022,Hapur,10273,27.9
+2022,Hardoi,14540,39.5
+2022,Hathras,10204,27.7
+2022,Jalaun,4008,10.9
+2022,Jaunpur,12245,33.3
+2022,Jhansi,17530,47.7
+2022,Kannauj,6370,17.3
+2022,Kanpur Commissionarate,19920,54.2
+2022,Kanpur Dehat,8349,22.7
+2022,Kanpur Nagar,6513,17.7
+2022,Kanpur Outer,0,0.0
+2022,Kasganj,8075,22.0
+2022,Kaushambi,7612,20.7
+2022,Khiri,19524,53.1
+2022,Kushi Nagar,10761,29.3
+2022,Lalitpur,9806,26.7
+2022,Lucknow,5879,16.0
+2022,Lucknow Commissionarate,23533,64.0
+2022,Lucknow Grameen,0,0.0
+2022,Maharajganj,6442,17.5
+2022,Mahoba,5171,14.1
+2022,Mainpuri,11174,30.4
+2022,Mathura,18856,51.3
+2022,Mau,5949,16.2
+2022,Meerut,31807,86.5
+2022,Mirzapur,9596,26.1
+2022,Moradabad,15049,40.9
+2022,Muzaffarnagar,13204,35.9
+2022,Noida,5861,15.9
+2022,Pilibhit,11082,30.1
+2022,Pratapgarh,14917,40.6
+2022,Prayagraj,36786,100.0
+2022,Raebareli,7570,20.6
+2022,Raibareilly,13828,37.6
+2022,Rampur,15104,41.1
+2022,Saharanpur,16233,44.1
+2022,Sambhal,12754,34.7
+2022,Sant Kabirnagar,6930,18.8
+2022,Shahjahanpur,24941,67.8
+2022,Shamli,4721,12.8
+2022,Shrawasti,3840,10.4
+2022,Sidharthnagar,6059,16.5
+2022,Sitapur,24801,67.4
+2022,Sonbhadra,6938,18.9
+2022,Sultanpur,11813,32.1
+2022,Unnao,12907,35.1
+2022,Varanasi,5258,14.3
+2022,Varanasi Commissionarate,11776,32.0
+2022,Vasanasi Dehat,0,0.0
+2023,Agra,22397,67.8
+2023,Aligarh,29783,95.3
+2023,Ambedkar Nagar,12094,29.3
+2023,Amethi,5259,3.8
+2023,Amroha,10978,25.1
+2023,Auraiya,8757,16.8
+2023,Ayodhya,15584,42.3
+2023,Azamgarh,20985,62.5
+2023,Badaun,11826,28.3
+2023,Baghpat,8945,17.5
+2023,Bahraich,15968,43.8
+2023,Ballia,17355,48.9
+2023,Balrampur,6315,7.7
+2023,Banda,8749,16.8
+2023,Barabanki,18927,54.8
+2023,Bareilly,27800,87.9
+2023,Basti,14455,38.1
+2023,Bhadohi,4395,0.6
+2023,Bijnor,16516,45.8
+2023,Bulandshahar,14093,36.8
+2023,Chandoli,6129,7.0
+2023,Chitrakoot,4738,1.8
+2023,Deoria,9383,19.2
+2023,Etah,6485,8.4
+2023,Etawah,13317,33.9
+2023,Fatehgarh,8696,16.6
+2023,Fatehpur,9981,21.4
+2023,Firozabad,23863,73.2
+2023,Gautambudh Nagar,22754,69.1
+2023,Ghaziabad,29002,92.4
+2023,Ghazipur,11934,28.7
+2023,Gonda,12701,31.6
+2023,Gorakhpur,31034,100.0
+2023,Hamirpur,8428,15.6
+2023,Hapur,8116,14.4
+2023,Hardoi,19014,55.1
+2023,Hathras,11400,26.7
+2023,Jalaun,5976,6.5
+2023,Jaunpur,12376,30.3
+2023,Jhansi,18389,52.8
+2023,Kannauj,10215,22.3
+2023,Kanpur Commissionarate,17273,48.6
+2023,Kanpur Dehat,7247,11.2
+2023,Kanpur Nagar,6693,9.1
+2023,Kasganj,7394,11.8
+2023,Kaushambi,7407,11.8
+2023,Khiri,17272,48.6
+2023,Kushi Nagar,12770,31.8
+2023,Lalitpur,9751,20.6
+2023,Lucknow,5607,5.1
+2023,Lucknow Commissionarate,24411,75.3
+2023,Maharajganj,8650,16.4
+2023,Mahoba,4955,2.6
+2023,Mainpuri,11597,27.4
+2023,Mathura,20597,61.0
+2023,Mau,7870,13.5
+2023,Meerut,30408,97.7
+2023,Mirzapur,14768,39.3
+2023,Moradabad,15144,40.7
+2023,Muzaffarnagar,15015,40.2
+2023,Noida,8334,15.3
+2023,Pilibhit,10240,22.4
+2023,Pratapgarh,12573,31.1
+2023,Prayagraj,30362,97.5
+2023,Raebareli,5979,6.5
+2023,Raibareilly,13825,35.8
+2023,Rampur,13635,35.0
+2023,Saharanpur,14814,39.5
+2023,Sambhal,14685,39.0
+2023,Sant Kabirnagar,7415,11.8
+2023,Shahjahanpur,24535,75.7
+2023,Shamli,4336,0.3
+2023,Shrawasti,4246,0.0
+2023,Sidharthnagar,7329,11.5
+2023,Sitapur,25099,77.8
+2023,Sonbhadra,6776,9.4
+2023,Sultanpur,12472,30.7
+2023,Unnao,10414,23.0
+2023,Varanasi,4847,2.2
+2023,Varanasi Commissionarate,11768,28.1

@@ -1,0 +1,60 @@
+{
+  "best_model": "Random Forest",
+  "RMSE": 884.03,
+  "R2": 0.8262,
+  "MAE": 352.79,
+  "train_rows": 4494,
+  "test_rows": 2020,
+  "districts": 86,
+  "crime_types": [
+    "Assault",
+    "Burglary",
+    "Crimes Against Children",
+    "Crimes Against SCs",
+    "Crimes Against STs",
+    "Crimes Against Women",
+    "Cyber Crimes",
+    "Cybercrime",
+    "Dowry Deaths",
+    "Fraud",
+    "IPC Crimes",
+    "Juvenile IPC",
+    "Juvenile SLL",
+    "Kidnapping",
+    "Missing Persons",
+    "Murder",
+    "Rape",
+    "Robbery",
+    "SLL Crimes",
+    "Theft"
+  ],
+  "years_trained": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "prediction_year": 2024,
+  "all_models": {
+    "Gradient Boosting": {
+      "MAE": 365.43,
+      "RMSE": 943.62,
+      "R2": 0.8019
+    },
+    "Random Forest": {
+      "MAE": 352.79,
+      "RMSE": 884.03,
+      "R2": 0.8262
+    },
+    "Linear Regression": {
+      "MAE": 371.48,
+      "RMSE": 934.02,
+      "R2": 0.806
+    }
+  }
+}

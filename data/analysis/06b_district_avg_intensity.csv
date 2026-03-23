@@ -1,0 +1,87 @@
+District,Avg_Intensity_Score,Risk_Level
+Ghaziabad,78.3,CRITICAL
+Prayagraj,67.2,HIGH
+Meerut,66.3,HIGH
+Lucknow Commissionarate,65.6,HIGH
+Aligarh,62.3,HIGH
+Bareilly,60.4,HIGH
+Gorakhpur,58.9,HIGH
+Agra,58.0,HIGH
+Shahjahanpur,57.9,HIGH
+Sitapur,53.6,HIGH
+Gautambudh Nagar,53.5,HIGH
+Lucknow,50.5,HIGH
+Mathura,50.1,HIGH
+Saharanpur,49.2,MEDIUM
+Jhansi,48.8,MEDIUM
+Kanpur Nagar,47.1,MEDIUM
+Moradabad,47.0,MEDIUM
+Varanasi,45.8,MEDIUM
+Allahabad,45.8,MEDIUM
+Firozabad,45.7,MEDIUM
+Kanpur Commissionarate,44.7,MEDIUM
+Etawah,41.9,MEDIUM
+Muzaffarnagar,41.6,MEDIUM
+Ayodhya,41.3,MEDIUM
+Bulandshahar,41.3,MEDIUM
+Ballia,40.0,MEDIUM
+Khiri,36.5,MEDIUM
+Hardoi,34.2,MEDIUM
+Basti,33.0,MEDIUM
+Barabanki,31.2,MEDIUM
+Bijnor,31.1,MEDIUM
+G. R. P.,29.3,MEDIUM
+Mirzapur,29.1,MEDIUM
+Bahraich,28.2,MEDIUM
+Fatehgarh,27.8,MEDIUM
+Varanasi Commissionarate,26.8,MEDIUM
+Pratapgarh,26.7,MEDIUM
+Raibareilly,26.2,MEDIUM
+Rampur,25.3,MEDIUM
+Azamgarh,25.1,MEDIUM
+Badaun,24.7,LOW
+Unnao,24.1,LOW
+Jaunpur,23.7,LOW
+Sultanpur,23.0,LOW
+Raebareli,21.2,LOW
+Kushi Nagar,20.9,LOW
+Noida,20.4,LOW
+Mainpuri,20.4,LOW
+Gonda,20.1,LOW
+Sambhal,19.7,LOW
+Kanpur Dehat,19.1,LOW
+Pilibhit,18.8,LOW
+Ghazipur,17.9,LOW
+Fatehpur,17.4,LOW
+Etah,16.2,LOW
+Hapur,14.4,LOW
+Hathras,14.3,LOW
+Deoria,13.7,LOW
+Amroha,13.6,LOW
+Kannauj,13.4,LOW
+Kaushambi,13.0,LOW
+Kasganj,12.9,LOW
+Auraiya,12.9,LOW
+Baghpat,12.7,LOW
+Jalaun,12.5,LOW
+Mau,12.2,LOW
+Ambedkar Nagar,12.2,LOW
+Maharajganj,11.7,LOW
+Lalitpur,10.9,LOW
+Faizabad,10.7,LOW
+Hamirpur,10.5,LOW
+Banda,10.1,LOW
+Amethi,9.7,LOW
+Shamli,8.5,LOW
+Sant Kabirnagar,8.4,LOW
+Sonbhadra,8.2,LOW
+Sidharthnagar,8.0,LOW
+Chandoli,7.1,LOW
+Balrampur,5.9,LOW
+Vasanasi Dehat,4.8,LOW
+Mahoba,4.6,LOW
+Kanpur Outer,4.4,LOW
+Bhadohi,2.8,LOW
+Chitrakoot,2.7,LOW
+Shrawasti,2.0,LOW
+Lucknow Grameen,0.3,LOW

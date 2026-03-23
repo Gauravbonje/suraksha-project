@@ -1,0 +1,21 @@
+Crime_Type,Top5_districts_pct,Top10_districts_pct,Worst_district,Worst_district_pct
+Assault,25.7,47.1,Kanpur Nagar,5.8
+Burglary,26.5,49.3,Kanpur Nagar,5.5
+Crimes Against Children,13.0,23.2,Aligarh,3.3
+Crimes Against SCs,15.2,26.8,Sitapur,3.5
+Crimes Against STs,62.0,76.8,Jaunpur,22.4
+Crimes Against Women,14.5,25.7,Bareilly,3.4
+Cyber Crimes,39.0,52.1,Gautambudh Nagar,11.5
+Cybercrime,24.9,45.9,Prayagraj,5.3
+Dowry Deaths,23.8,45.3,Moradabad,4.9
+Fraud,24.9,46.1,Meerut,5.3
+IPC Crimes,16.0,28.4,Ghaziabad,3.9
+Juvenile IPC,37.1,59.1,Ghazipur,8.9
+Juvenile SLL,36.4,56.0,Bulandshahar,11.1
+Kidnapping,23.3,44.8,Prayagraj,5.0
+Missing Persons,24.4,38.3,Gautambudh Nagar,7.6
+Murder,25.0,46.9,Jhansi,5.9
+Rape,23.8,46.0,Meerut,4.9
+Robbery,23.4,44.9,Noida,4.8
+SLL Crimes,13.9,25.6,Shahjahanpur,3.1
+Theft,24.3,46.8,Lucknow,5.0

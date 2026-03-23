@@ -1,0 +1,131 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SURAKSHA Intelligence Panel</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background: #0f172a; color: #f1f5f9; margin: 0; padding: 20px; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header { text-align: center; padding: 40px 0; border-bottom: 1px solid #1e293b; }
+        .header h1 { color: #ef4444; font-size: 3rem; margin: 0; }
+        .grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px; margin-top: 30px; }
+        .card { background: #1e293b; border-radius: 15px; padding: 25px; border: 1px solid #334155; }
+        .full-width { grid-column: span 2; }
+        h2 { color: #38bdf8; font-size: 1.2rem; margin-top: 0; text-transform: uppercase; }
+        .insight { font-size: 0.9rem; color: #94a3b8; margin-top: 10px; border-left: 3px solid #ef4444; padding-left: 10px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; font-size: 0.85rem; }
+        th { text-align: left; color: #94a3b8; padding: 10px; border-bottom: 1px solid #334155; }
+        td { padding: 10px; border-bottom: 1px solid #0f172a; }
+        .badge { padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+        .A { background: #10b981; color: white; } .F { background: #ef4444; color: white; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>SURAKSHA 🚔</h1>
+            <p>Uttar Pradesh State Crime Deep Intelligence Dashboard</p>
+        </div>
+
+        <div class="grid">
+            <div class="card full-width">
+                <h2>📈 UP Crime Trend: Multi-Regime Perspective (2014-2023)</h2>
+                <canvas id="regimeChart" height="100"></canvas>
+                <div class="insight">Note: The shaded areas represent different administrative phases. Data shows a significant shift in reporting and control patterns after 2017.</div>
+            </div>
+
+            <div class="card">
+                <h2>🔥 Top 20 High-Intensity Districts</h2>
+                <canvas id="intensityChart"></canvas>
+                <div class="insight">Intensity Score (0-100) is a normalized danger level based on all years.</div>
+            </div>
+
+            <div class="card">
+                <h2>🦠 The COVID-19 Crime Shift (2019 vs 2020)</h2>
+                <canvas id="covidChart"></canvas>
+                <div class="insight">Street crimes fell during lockdown, but domestic crimes saw a sharp rise.</div>
+            </div>
+
+            <div class="card full-width">
+                <h2>🏆 Law & Order Report Cards (Recent 3-Year Improvement)</h2>
+                <div style="max-height: 400px; overflow-y: auto;">
+                    <table>
+                        <thead>
+                            <tr><th>District</th><th>Rank</th><th>Recent Trend</th><th>Grade</th><th>Current Status</th></tr>
+                        </thead>
+                        <tbody id="report-table"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const yearlyData = [{"Year": 2014, "Total_Crimes": 151179, "YoY_Change": NaN, "YoY_Change_pct": NaN}, {"Year": 2015, "Total_Crimes": 154467, "YoY_Change": 3288.0, "YoY_Change_pct": 2.17}, {"Year": 2016, "Total_Crimes": 717407, "YoY_Change": 562940.0, "YoY_Change_pct": 364.44}, {"Year": 2017, "Total_Crimes": 161661, "YoY_Change": -555746.0, "YoY_Change_pct": -77.47}, {"Year": 2018, "Total_Crimes": 813450, "YoY_Change": 651789.0, "YoY_Change_pct": 403.18}, {"Year": 2019, "Total_Crimes": 872900, "YoY_Change": 59450.0, "YoY_Change_pct": 7.31}, {"Year": 2020, "Total_Crimes": 890543, "YoY_Change": 17643.0, "YoY_Change_pct": 2.02}, {"Year": 2021, "Total_Crimes": 868236, "YoY_Change": -22307.0, "YoY_Change_pct": -2.5}, {"Year": 2022, "Total_Crimes": 1021506, "YoY_Change": 153270.0, "YoY_Change_pct": 17.65}, {"Year": 2023, "Total_Crimes": 1063625, "YoY_Change": 42119.0, "YoY_Change_pct": 4.12}];
+        const intensityData = [{"District": "Ghaziabad", "Avg_Intensity_Score": 78.3, "Risk_Level": "CRITICAL"}, {"District": "Prayagraj", "Avg_Intensity_Score": 67.2, "Risk_Level": "HIGH"}, {"District": "Meerut", "Avg_Intensity_Score": 66.3, "Risk_Level": "HIGH"}, {"District": "Lucknow Commissionarate", "Avg_Intensity_Score": 65.6, "Risk_Level": "HIGH"}, {"District": "Aligarh", "Avg_Intensity_Score": 62.3, "Risk_Level": "HIGH"}, {"District": "Bareilly", "Avg_Intensity_Score": 60.4, "Risk_Level": "HIGH"}, {"District": "Gorakhpur", "Avg_Intensity_Score": 58.9, "Risk_Level": "HIGH"}, {"District": "Agra", "Avg_Intensity_Score": 58.0, "Risk_Level": "HIGH"}, {"District": "Shahjahanpur", "Avg_Intensity_Score": 57.9, "Risk_Level": "HIGH"}, {"District": "Sitapur", "Avg_Intensity_Score": 53.6, "Risk_Level": "HIGH"}, {"District": "Gautambudh Nagar", "Avg_Intensity_Score": 53.5, "Risk_Level": "HIGH"}, {"District": "Lucknow", "Avg_Intensity_Score": 50.5, "Risk_Level": "HIGH"}, {"District": "Mathura", "Avg_Intensity_Score": 50.1, "Risk_Level": "HIGH"}, {"District": "Saharanpur", "Avg_Intensity_Score": 49.2, "Risk_Level": "MEDIUM"}, {"District": "Jhansi", "Avg_Intensity_Score": 48.8, "Risk_Level": "MEDIUM"}, {"District": "Kanpur Nagar", "Avg_Intensity_Score": 47.1, "Risk_Level": "MEDIUM"}, {"District": "Moradabad", "Avg_Intensity_Score": 47.0, "Risk_Level": "MEDIUM"}, {"District": "Varanasi", "Avg_Intensity_Score": 45.8, "Risk_Level": "MEDIUM"}, {"District": "Allahabad", "Avg_Intensity_Score": 45.8, "Risk_Level": "MEDIUM"}, {"District": "Firozabad", "Avg_Intensity_Score": 45.7, "Risk_Level": "MEDIUM"}];
+        const covidData = [{"Crime_Type": "Crimes Against STs", "Pre_COVID_2019": 720, "During_COVID_2020": 3, "Change_pct": -99.6}, {"Crime_Type": "Kidnapping", "Pre_COVID_2019": 13904, "During_COVID_2020": 10820, "Change_pct": -22.2}, {"Crime_Type": "Crimes Against Children", "Pre_COVID_2019": 18917, "During_COVID_2020": 15256, "Change_pct": -19.4}, {"Crime_Type": "Fraud", "Pre_COVID_2019": 14410, "During_COVID_2020": 11750, "Change_pct": -18.5}, {"Crime_Type": "Crimes Against Women", "Pre_COVID_2019": 59770, "During_COVID_2020": 49358, "Change_pct": -17.4}, {"Crime_Type": "Robbery", "Pre_COVID_2019": 16692, "During_COVID_2020": 14898, "Change_pct": -10.7}, {"Crime_Type": "Murder", "Pre_COVID_2019": 17066, "During_COVID_2020": 15382, "Change_pct": -9.9}, {"Crime_Type": "Theft", "Pre_COVID_2019": 13598, "During_COVID_2020": 12702, "Change_pct": -6.6}, {"Crime_Type": "Cybercrime", "Pre_COVID_2019": 16688, "During_COVID_2020": 16149, "Change_pct": -3.2}, {"Crime_Type": "Cyber Crimes", "Pre_COVID_2019": 11409, "During_COVID_2020": 11094, "Change_pct": -2.8}, {"Crime_Type": "Assault", "Pre_COVID_2019": 13865, "During_COVID_2020": 13604, "Change_pct": -1.9}, {"Crime_Type": "IPC Crimes", "Pre_COVID_2019": 346567, "During_COVID_2020": 353131, "Change_pct": 1.9}, {"Crime_Type": "Dowry Deaths", "Pre_COVID_2019": 15464, "During_COVID_2020": 16553, "Change_pct": 7.0}, {"Crime_Type": "Crimes Against SCs", "Pre_COVID_2019": 11826, "During_COVID_2020": 12713, "Change_pct": 7.5}, {"Crime_Type": "SLL Crimes", "Pre_COVID_2019": 273441, "During_COVID_2020": 302295, "Change_pct": 10.6}, {"Crime_Type": "Juvenile IPC", "Pre_COVID_2019": 803, "During_COVID_2020": 949, "Change_pct": 18.2}, {"Crime_Type": "Rape", "Pre_COVID_2019": 14547, "During_COVID_2020": 17526, "Change_pct": 20.5}, {"Crime_Type": "Burglary", "Pre_COVID_2019": 13056, "During_COVID_2020": 16027, "Change_pct": 22.8}, {"Crime_Type": "Juvenile SLL", "Pre_COVID_2019": 157, "During_COVID_2020": 333, "Change_pct": 112.1}, {"Crime_Type": "Missing Persons", "Pre_COVID_2019": 0, "During_COVID_2020": 0, "Change_pct": NaN}];
+        const reportData = [{"District": "Ghaziabad", "Overall_Rank": 1, "Total_All_Years": 224570, "Recent_Trend_pct": 127.1, "Grade": "F  (Critical rise)", "First3yr_avg": 13533.0, "Last3yr_avg": 30734.0}, {"District": "Prayagraj", "Overall_Rank": 2, "Total_All_Years": 218609, "Recent_Trend_pct": 394.0, "Grade": "F  (Critical rise)", "First3yr_avg": 6580.0, "Last3yr_avg": 32505.0}, {"District": "Meerut", "Overall_Rank": 3, "Total_All_Years": 203632, "Recent_Trend_pct": 169.9, "Grade": "F  (Critical rise)", "First3yr_avg": 10689.0, "Last3yr_avg": 28854.0}, {"District": "Bareilly", "Overall_Rank": 4, "Total_All_Years": 191831, "Recent_Trend_pct": 149.0, "Grade": "F  (Critical rise)", "First3yr_avg": 10829.0, "Last3yr_avg": 26962.0}, {"District": "Aligarh", "Overall_Rank": 5, "Total_All_Years": 188290, "Recent_Trend_pct": 192.1, "Grade": "F  (Critical rise)", "First3yr_avg": 10460.0, "Last3yr_avg": 30555.0}, {"District": "Gorakhpur", "Overall_Rank": 6, "Total_All_Years": 183589, "Recent_Trend_pct": 148.6, "Grade": "F  (Critical rise)", "First3yr_avg": 9923.0, "Last3yr_avg": 24668.0}, {"District": "Agra", "Overall_Rank": 7, "Total_All_Years": 177620, "Recent_Trend_pct": 78.4, "Grade": "F  (Critical rise)", "First3yr_avg": 12133.0, "Last3yr_avg": 21645.0}, {"District": "Shahjahanpur", "Overall_Rank": 8, "Total_All_Years": 167389, "Recent_Trend_pct": 146.6, "Grade": "F  (Critical rise)", "First3yr_avg": 9849.0, "Last3yr_avg": 24291.0}, {"District": "Sitapur", "Overall_Rank": 9, "Total_All_Years": 164775, "Recent_Trend_pct": 168.9, "Grade": "F  (Critical rise)", "First3yr_avg": 8916.0, "Last3yr_avg": 23972.0}, {"District": "Mathura", "Overall_Rank": 10, "Total_All_Years": 153917, "Recent_Trend_pct": 96.1, "Grade": "F  (Critical rise)", "First3yr_avg": 10264.0, "Last3yr_avg": 20123.0}, {"District": "Lucknow", "Overall_Rank": 11, "Total_All_Years": 148855, "Recent_Trend_pct": -58.2, "Grade": "A  (Improving fast)", "First3yr_avg": 15219.0, "Last3yr_avg": 6367.0}, {"District": "Firozabad", "Overall_Rank": 12, "Total_All_Years": 142365, "Recent_Trend_pct": 112.2, "Grade": "F  (Critical rise)", "First3yr_avg": 9617.0, "Last3yr_avg": 20406.0}, {"District": "Moradabad", "Overall_Rank": 13, "Total_All_Years": 139598, "Recent_Trend_pct": 65.2, "Grade": "F  (Critical rise)", "First3yr_avg": 9641.0, "Last3yr_avg": 15930.0}, {"District": "Kanpur Nagar", "Overall_Rank": 14, "Total_All_Years": 138031, "Recent_Trend_pct": -42.1, "Grade": "A  (Improving fast)", "First3yr_avg": 11707.0, "Last3yr_avg": 6780.0}, {"District": "Gautambudh Nagar", "Overall_Rank": 15, "Total_All_Years": 137290, "Recent_Trend_pct": 1.6, "Grade": "C  (Stable)", "First3yr_avg": 20112.0, "Last3yr_avg": 20439.0}, {"District": "Saharanpur", "Overall_Rank": 16, "Total_All_Years": 134150, "Recent_Trend_pct": 66.9, "Grade": "F  (Critical rise)", "First3yr_avg": 9607.0, "Last3yr_avg": 16029.0}, {"District": "Muzaffarnagar", "Overall_Rank": 17, "Total_All_Years": 131285, "Recent_Trend_pct": 39.1, "Grade": "F  (Critical rise)", "First3yr_avg": 10404.0, "Last3yr_avg": 14472.0}, {"District": "Jhansi", "Overall_Rank": 18, "Total_All_Years": 127511, "Recent_Trend_pct": 101.9, "Grade": "F  (Critical rise)", "First3yr_avg": 8417.0, "Last3yr_avg": 16991.0}, {"District": "Ayodhya", "Overall_Rank": 19, "Total_All_Years": 121613, "Recent_Trend_pct": 139.8, "Grade": "F  (Critical rise)", "First3yr_avg": 6679.0, "Last3yr_avg": 16016.0}, {"District": "Varanasi", "Overall_Rank": 20, "Total_All_Years": 115887, "Recent_Trend_pct": -53.6, "Grade": "A  (Improving fast)", "First3yr_avg": 10131.0, "Last3yr_avg": 4699.0}, {"District": "Etawah", "Overall_Rank": 21, "Total_All_Years": 112816, "Recent_Trend_pct": 58.5, "Grade": "F  (Critical rise)", "First3yr_avg": 8507.0, "Last3yr_avg": 13481.0}, {"District": "Bulandshahar", "Overall_Rank": 22, "Total_All_Years": 109704, "Recent_Trend_pct": 14.2, "Grade": "D  (Worsening)", "First3yr_avg": 14557.0, "Last3yr_avg": 16625.0}, {"District": "Ballia", "Overall_Rank": 23, "Total_All_Years": 104764, "Recent_Trend_pct": 90.4, "Grade": "F  (Critical rise)", "First3yr_avg": 7722.0, "Last3yr_avg": 14704.0}, {"District": "Basti", "Overall_Rank": 24, "Total_All_Years": 103466, "Recent_Trend_pct": 128.8, "Grade": "F  (Critical rise)", "First3yr_avg": 6458.0, "Last3yr_avg": 14779.0}, {"District": "Khiri", "Overall_Rank": 25, "Total_All_Years": 98932, "Recent_Trend_pct": 56.0, "Grade": "F  (Critical rise)", "First3yr_avg": 11022.0, "Last3yr_avg": 17193.0}, {"District": "Lucknow Commissionarate", "Overall_Rank": 26, "Total_All_Years": 93757, "Recent_Trend_pct": -0.1, "Grade": "C  (Stable)", "First3yr_avg": 23115.0, "Last3yr_avg": 23100.0}, {"District": "Hardoi", "Overall_Rank": 27, "Total_All_Years": 93125, "Recent_Trend_pct": 37.3, "Grade": "F  (Critical rise)", "First3yr_avg": 11922.0, "Last3yr_avg": 16366.0}, {"District": "Mirzapur", "Overall_Rank": 28, "Total_All_Years": 87264, "Recent_Trend_pct": 68.1, "Grade": "F  (Critical rise)", "First3yr_avg": 6677.0, "Last3yr_avg": 11226.0}, {"District": "Barabanki", "Overall_Rank": 29, "Total_All_Years": 85969, "Recent_Trend_pct": 77.2, "Grade": "F  (Critical rise)", "First3yr_avg": 9072.0, "Last3yr_avg": 16081.0}, {"District": "Bijnor", "Overall_Rank": 30, "Total_All_Years": 85626, "Recent_Trend_pct": 38.1, "Grade": "F  (Critical rise)", "First3yr_avg": 10587.0, "Last3yr_avg": 14615.0}, {"District": "Fatehgarh", "Overall_Rank": 31, "Total_All_Years": 80857, "Recent_Trend_pct": 27.6, "Grade": "F  (Critical rise)", "First3yr_avg": 6321.0, "Last3yr_avg": 8064.0}, {"District": "Bahraich", "Overall_Rank": 32, "Total_All_Years": 79386, "Recent_Trend_pct": 53.8, "Grade": "F  (Critical rise)", "First3yr_avg": 9014.0, "Last3yr_avg": 13863.0}, {"District": "Pratapgarh", "Overall_Rank": 33, "Total_All_Years": 76318, "Recent_Trend_pct": 53.3, "Grade": "F  (Critical rise)", "First3yr_avg": 8335.0, "Last3yr_avg": 12776.0}, {"District": "Raibareilly", "Overall_Rank": 34, "Total_All_Years": 75033, "Recent_Trend_pct": 41.4, "Grade": "F  (Critical rise)", "First3yr_avg": 8963.0, "Last3yr_avg": 12670.0}, {"District": "Rampur", "Overall_Rank": 35, "Total_All_Years": 73024, "Recent_Trend_pct": 29.9, "Grade": "F  (Critical rise)", "First3yr_avg": 9056.0, "Last3yr_avg": 11761.0}, {"District": "Badaun", "Overall_Rank": 36, "Total_All_Years": 71584, "Recent_Trend_pct": 47.4, "Grade": "F  (Critical rise)", "First3yr_avg": 8534.0, "Last3yr_avg": 12579.0}, {"District": "Unnao", "Overall_Rank": 37, "Total_All_Years": 70670, "Recent_Trend_pct": 30.2, "Grade": "F  (Critical rise)", "First3yr_avg": 8647.0, "Last3yr_avg": 11258.0}, {"District": "Azamgarh", "Overall_Rank": 38, "Total_All_Years": 70517, "Recent_Trend_pct": 96.0, "Grade": "F  (Critical rise)", "First3yr_avg": 7097.0, "Last3yr_avg": 13911.0}, {"District": "Jaunpur", "Overall_Rank": 39, "Total_All_Years": 69552, "Recent_Trend_pct": 19.9, "Grade": "D  (Worsening)", "First3yr_avg": 9271.0, "Last3yr_avg": 11115.0}, {"District": "Sultanpur", "Overall_Rank": 40, "Total_All_Years": 67908, "Recent_Trend_pct": 48.0, "Grade": "F  (Critical rise)", "First3yr_avg": 7709.0, "Last3yr_avg": 11407.0}, {"District": "Raebareli", "Overall_Rank": 41, "Total_All_Years": 62926, "Recent_Trend_pct": 19.8, "Grade": "D  (Worsening)", "First3yr_avg": 5764.0, "Last3yr_avg": 6905.0}, {"District": "Kushi Nagar", "Overall_Rank": 42, "Total_All_Years": 62190, "Recent_Trend_pct": 40.0, "Grade": "F  (Critical rise)", "First3yr_avg": 7586.0, "Last3yr_avg": 10623.0}, {"District": "Mainpuri", "Overall_Rank": 43, "Total_All_Years": 61859, "Recent_Trend_pct": 40.0, "Grade": "F  (Critical rise)", "First3yr_avg": 6926.0, "Last3yr_avg": 9696.0}, {"District": "Noida", "Overall_Rank": 44, "Total_All_Years": 60934, "Recent_Trend_pct": 61.4, "Grade": "F  (Critical rise)", "First3yr_avg": 4298.0, "Last3yr_avg": 6939.0}, {"District": "Gonda", "Overall_Rank": 45, "Total_All_Years": 60829, "Recent_Trend_pct": 55.4, "Grade": "F  (Critical rise)", "First3yr_avg": 6787.0, "Last3yr_avg": 10549.0}, {"District": "Kanpur Dehat", "Overall_Rank": 46, "Total_All_Years": 60187, "Recent_Trend_pct": -18.6, "Grade": "B  (Improving)", "First3yr_avg": 9073.0, "Last3yr_avg": 7385.0}, {"District": "Sambhal", "Overall_Rank": 47, "Total_All_Years": 59265, "Recent_Trend_pct": 79.0, "Grade": "F  (Critical rise)", "First3yr_avg": 6298.0, "Last3yr_avg": 11274.0}, {"District": "Pilibhit", "Overall_Rank": 48, "Total_All_Years": 57985, "Recent_Trend_pct": 34.5, "Grade": "F  (Critical rise)", "First3yr_avg": 7182.0, "Last3yr_avg": 9661.0}, {"District": "Ghazipur", "Overall_Rank": 49, "Total_All_Years": 55700, "Recent_Trend_pct": 65.7, "Grade": "F  (Critical rise)", "First3yr_avg": 5799.0, "Last3yr_avg": 9612.0}, {"District": "Fatehpur", "Overall_Rank": 50, "Total_All_Years": 54753, "Recent_Trend_pct": 31.2, "Grade": "F  (Critical rise)", "First3yr_avg": 6797.0, "Last3yr_avg": 8919.0}, {"District": "Etah", "Overall_Rank": 51, "Total_All_Years": 52936, "Recent_Trend_pct": 9.3, "Grade": "D  (Worsening)", "First3yr_avg": 7306.0, "Last3yr_avg": 7988.0}, {"District": "Kanpur Commissionarate", "Overall_Rank": 52, "Total_All_Years": 49085, "Recent_Trend_pct": 0.0, "Grade": "C  (Stable)", "First3yr_avg": 16362.0, "Last3yr_avg": 16362.0}, {"District": "Hapur", "Overall_Rank": 53, "Total_All_Years": 48312, "Recent_Trend_pct": 57.9, "Grade": "F  (Critical rise)", "First3yr_avg": 5621.0, "Last3yr_avg": 8876.0}, {"District": "Hathras", "Overall_Rank": 54, "Total_All_Years": 47214, "Recent_Trend_pct": 58.9, "Grade": "F  (Critical rise)", "First3yr_avg": 5497.0, "Last3yr_avg": 8733.0}, {"District": "Deoria", "Overall_Rank": 55, "Total_All_Years": 46158, "Recent_Trend_pct": 33.3, "Grade": "F  (Critical rise)", "First3yr_avg": 5795.0, "Last3yr_avg": 7722.0}, {"District": "Kaushambi", "Overall_Rank": 56, "Total_All_Years": 45350, "Recent_Trend_pct": 22.6, "Grade": "F  (Critical rise)", "First3yr_avg": 5502.0, "Last3yr_avg": 6746.0}, {"District": "Kannauj", "Overall_Rank": 57, "Total_All_Years": 44968, "Recent_Trend_pct": 35.1, "Grade": "F  (Critical rise)", "First3yr_avg": 5648.0, "Last3yr_avg": 7630.0}, {"District": "Kasganj", "Overall_Rank": 58, "Total_All_Years": 44913, "Recent_Trend_pct": 74.5, "Grade": "F  (Critical rise)", "First3yr_avg": 4812.0, "Last3yr_avg": 8397.0}, {"District": "Auraiya", "Overall_Rank": 59, "Total_All_Years": 44482, "Recent_Trend_pct": 19.3, "Grade": "D  (Worsening)", "First3yr_avg": 5734.0, "Last3yr_avg": 6842.0}, {"District": "Jalaun", "Overall_Rank": 60, "Total_All_Years": 44211, "Recent_Trend_pct": 7.5, "Grade": "D  (Worsening)", "First3yr_avg": 5744.0, "Last3yr_avg": 6173.0}, {"District": "Baghpat", "Overall_Rank": 61, "Total_All_Years": 43811, "Recent_Trend_pct": 39.4, "Grade": "F  (Critical rise)", "First3yr_avg": 5328.0, "Last3yr_avg": 7425.0}, {"District": "Mau", "Overall_Rank": 62, "Total_All_Years": 43091, "Recent_Trend_pct": 32.1, "Grade": "F  (Critical rise)", "First3yr_avg": 5071.0, "Last3yr_avg": 6699.0}, {"District": "Ambedkar Nagar", "Overall_Rank": 63, "Total_All_Years": 42419, "Recent_Trend_pct": 132.8, "Grade": "F  (Critical rise)", "First3yr_avg": 3832.0, "Last3yr_avg": 8920.0}, {"District": "Maharajganj", "Overall_Rank": 64, "Total_All_Years": 41683, "Recent_Trend_pct": 30.7, "Grade": "F  (Critical rise)", "First3yr_avg": 5176.0, "Last3yr_avg": 6767.0}, {"District": "Amroha", "Overall_Rank": 65, "Total_All_Years": 40439, "Recent_Trend_pct": 35.0, "Grade": "F  (Critical rise)", "First3yr_avg": 5735.0, "Last3yr_avg": 7744.0}, {"District": "Lalitpur", "Overall_Rank": 66, "Total_All_Years": 39526, "Recent_Trend_pct": 93.6, "Grade": "F  (Critical rise)", "First3yr_avg": 4073.0, "Last3yr_avg": 7887.0}, {"District": "Hamirpur", "Overall_Rank": 67, "Total_All_Years": 39209, "Recent_Trend_pct": 88.1, "Grade": "F  (Critical rise)", "First3yr_avg": 4004.0, "Last3yr_avg": 7532.0}, {"District": "Banda", "Overall_Rank": 68, "Total_All_Years": 38027, "Recent_Trend_pct": 79.7, "Grade": "F  (Critical rise)", "First3yr_avg": 3936.0, "Last3yr_avg": 7073.0}, {"District": "Amethi", "Overall_Rank": 69, "Total_All_Years": 37782, "Recent_Trend_pct": 15.0, "Grade": "D  (Worsening)", "First3yr_avg": 4853.0, "Last3yr_avg": 5580.0}, {"District": "Shamli", "Overall_Rank": 70, "Total_All_Years": 34918, "Recent_Trend_pct": -24.6, "Grade": "A  (Improving fast)", "First3yr_avg": 5841.0, "Last3yr_avg": 4407.0}, {"District": "Sant Kabirnagar", "Overall_Rank": 71, "Total_All_Years": 34259, "Recent_Trend_pct": 72.4, "Grade": "F  (Critical rise)", "First3yr_avg": 3686.0, "Last3yr_avg": 6356.0}, {"District": "Sonbhadra", "Overall_Rank": 72, "Total_All_Years": 33999, "Recent_Trend_pct": 69.2, "Grade": "F  (Critical rise)", "First3yr_avg": 3721.0, "Last3yr_avg": 6298.0}, {"District": "Sidharthnagar", "Overall_Rank": 73, "Total_All_Years": 33343, "Recent_Trend_pct": 67.4, "Grade": "F  (Critical rise)", "First3yr_avg": 3542.0, "Last3yr_avg": 5928.0}, {"District": "Varanasi Commissionarate", "Overall_Rank": 74, "Total_All_Years": 31821, "Recent_Trend_pct": 0.0, "Grade": "C  (Stable)", "First3yr_avg": 10607.0, "Last3yr_avg": 10607.0}, {"District": "Chandoli", "Overall_Rank": 75, "Total_All_Years": 31366, "Recent_Trend_pct": 46.8, "Grade": "F  (Critical rise)", "First3yr_avg": 3804.0, "Last3yr_avg": 5583.0}, {"District": "Balrampur", "Overall_Rank": 76, "Total_All_Years": 28708, "Recent_Trend_pct": 91.2, "Grade": "F  (Critical rise)", "First3yr_avg": 2785.0, "Last3yr_avg": 5324.0}, {"District": "Mahoba", "Overall_Rank": 77, "Total_All_Years": 25845, "Recent_Trend_pct": 46.5, "Grade": "F  (Critical rise)", "First3yr_avg": 3032.0, "Last3yr_avg": 4442.0}, {"District": "Bhadohi", "Overall_Rank": 78, "Total_All_Years": 21543, "Recent_Trend_pct": 61.7, "Grade": "F  (Critical rise)", "First3yr_avg": 2402.0, "Last3yr_avg": 3884.0}, {"District": "Chitrakoot", "Overall_Rank": 79, "Total_All_Years": 21389, "Recent_Trend_pct": 39.4, "Grade": "F  (Critical rise)", "First3yr_avg": 2627.0, "Last3yr_avg": 3661.0}, {"District": "Shrawasti", "Overall_Rank": 80, "Total_All_Years": 20003, "Recent_Trend_pct": 65.8, "Grade": "F  (Critical rise)", "First3yr_avg": 2179.0, "Last3yr_avg": 3613.0}, {"District": "Lucknow Grameen", "Overall_Rank": 85, "Total_All_Years": 4540, "Recent_Trend_pct": 0.0, "Grade": "C  (Stable)", "First3yr_avg": 1513.0, "Last3yr_avg": 1513.0}];
+
+        // 1. Regime Chart
+        new Chart(document.getElementById('regimeChart'), {
+            type: 'line',
+            data: {
+                labels: yearlyData.map(d => d.Year),
+                datasets: [{
+                    label: 'Total Crimes',
+                    data: yearlyData.map(d => d.Total_Crimes),
+                    borderColor: '#ef4444',
+                    backgroundColor: 'rgba(239, 68, 68, 0.2)',
+                    fill: true,
+                    tension: 0.4,
+                    segment: {
+                        borderColor: ctx => ctx.p0.parsed.x < 3 ? '#fbbf24' : '#ef4444' // Color change at 2017
+                    }
+                }]
+            },
+            options: { scales: { y: { grid: { color: '#334155' } } } }
+        });
+
+        // 2. Intensity Chart
+        new Chart(document.getElementById('intensityChart'), {
+            type: 'bar',
+            data: {
+                labels: intensityData.map(d => d.District),
+                datasets: [{
+                    label: 'Score',
+                    data: intensityData.map(d => d.Avg_Intensity_Score),
+                    backgroundColor: '#38bdf8'
+                }]
+            },
+            options: { indexAxis: 'y' }
+        });
+
+        // 3. COVID Chart
+        new Chart(document.getElementById('covidChart'), {
+            type: 'bar',
+            data: {
+                labels: covidData.map(d => d.Crime_Type).slice(0, 10),
+                datasets: [{
+                    label: '% Change during Lockdown',
+                    data: covidData.map(d => d.Change_pct).slice(0, 10),
+                    backgroundColor: d => d.parsed.y > 0 ? '#ef4444' : '#10b981'
+                }]
+            }
+        });
+
+        // 4. Report Table
+        document.getElementById('report-table').innerHTML = reportData.slice(0, 50).map(r => `
+            <tr>
+                <td>${r.District}</td>
+                <td>#${r.Overall_Rank}</td>
+                <td style="color:${r.Recent_Trend_pct > 0 ? '#ef4444' : '#10b981'}">${r.Recent_Trend_pct}%</td>
+                <td><span class="badge ${r.Grade[0]}">${r.Grade[0]}</span></td>
+                <td>${r.Grade.split('(')[1].replace(')', '')}</td>
+            </tr>
+        `).join('');
+    </script>
+</body>
+</html>

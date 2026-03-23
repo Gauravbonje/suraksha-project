@@ -1,0 +1,2501 @@
+District,Year,Crime_Type,Total,Source
+Lucknow,2014,Murder,580,Kaggle
+Lucknow,2014,Rape,682,Kaggle
+Lucknow,2014,Kidnapping,206,Kaggle
+Lucknow,2014,Theft,555,Kaggle
+Lucknow,2014,Robbery,1068,Kaggle
+Lucknow,2014,Assault,95,Kaggle
+Lucknow,2014,Burglary,332,Kaggle
+Lucknow,2014,Cybercrime,582,Kaggle
+Lucknow,2014,Dowry Deaths,386,Kaggle
+Lucknow,2014,Fraud,523,Kaggle
+Lucknow,2015,Murder,965,Kaggle
+Lucknow,2015,Rape,900,Kaggle
+Lucknow,2015,Kidnapping,1036,Kaggle
+Lucknow,2015,Theft,649,Kaggle
+Lucknow,2015,Robbery,984,Kaggle
+Lucknow,2015,Assault,441,Kaggle
+Lucknow,2015,Burglary,191,Kaggle
+Lucknow,2015,Cybercrime,1045,Kaggle
+Lucknow,2015,Dowry Deaths,713,Kaggle
+Lucknow,2015,Fraud,661,Kaggle
+Lucknow,2016,Murder,190,Kaggle
+Lucknow,2016,Rape,727,Kaggle
+Lucknow,2016,Kidnapping,980,Kaggle
+Lucknow,2016,Theft,81,Kaggle
+Lucknow,2016,Robbery,303,Kaggle
+Lucknow,2016,Assault,851,Kaggle
+Lucknow,2016,Burglary,180,Kaggle
+Lucknow,2016,Cybercrime,920,Kaggle
+Lucknow,2016,Dowry Deaths,383,Kaggle
+Lucknow,2016,Fraud,405,Kaggle
+Lucknow,2017,Murder,837,Kaggle
+Lucknow,2017,Rape,178,Kaggle
+Lucknow,2017,Kidnapping,1037,Kaggle
+Lucknow,2017,Theft,975,Kaggle
+Lucknow,2017,Robbery,135,Kaggle
+Lucknow,2017,Assault,1009,Kaggle
+Lucknow,2017,Burglary,605,Kaggle
+Lucknow,2017,Cybercrime,1025,Kaggle
+Lucknow,2017,Dowry Deaths,82,Kaggle
+Lucknow,2017,Fraud,997,Kaggle
+Lucknow,2018,Murder,108,Kaggle
+Lucknow,2018,Rape,41,Kaggle
+Lucknow,2018,Kidnapping,117,Kaggle
+Lucknow,2018,Theft,1112,Kaggle
+Lucknow,2018,Robbery,401,Kaggle
+Lucknow,2018,Assault,48,Kaggle
+Lucknow,2018,Burglary,58,Kaggle
+Lucknow,2018,Cybercrime,487,Kaggle
+Lucknow,2018,Dowry Deaths,578,Kaggle
+Lucknow,2018,Fraud,372,Kaggle
+Lucknow,2019,Murder,1079,Kaggle
+Lucknow,2019,Rape,1059,Kaggle
+Lucknow,2019,Kidnapping,552,Kaggle
+Lucknow,2019,Theft,1096,Kaggle
+Lucknow,2019,Robbery,1057,Kaggle
+Lucknow,2019,Assault,117,Kaggle
+Lucknow,2019,Burglary,113,Kaggle
+Lucknow,2019,Cybercrime,392,Kaggle
+Lucknow,2019,Dowry Deaths,360,Kaggle
+Lucknow,2019,Fraud,923,Kaggle
+Lucknow,2020,Murder,510,Kaggle
+Lucknow,2020,Rape,822,Kaggle
+Lucknow,2020,Kidnapping,289,Kaggle
+Lucknow,2020,Theft,1135,Kaggle
+Lucknow,2020,Robbery,270,Kaggle
+Lucknow,2020,Assault,590,Kaggle
+Lucknow,2020,Burglary,926,Kaggle
+Lucknow,2020,Cybercrime,152,Kaggle
+Lucknow,2020,Dowry Deaths,557,Kaggle
+Lucknow,2020,Fraud,69,Kaggle
+Lucknow,2021,Murder,1037,Kaggle
+Lucknow,2021,Rape,714,Kaggle
+Lucknow,2021,Kidnapping,531,Kaggle
+Lucknow,2021,Theft,877,Kaggle
+Lucknow,2021,Robbery,670,Kaggle
+Lucknow,2021,Assault,938,Kaggle
+Lucknow,2021,Burglary,1140,Kaggle
+Lucknow,2021,Cybercrime,400,Kaggle
+Lucknow,2021,Dowry Deaths,655,Kaggle
+Lucknow,2021,Fraud,653,Kaggle
+Lucknow,2022,Murder,944,Kaggle
+Lucknow,2022,Rape,1060,Kaggle
+Lucknow,2022,Kidnapping,877,Kaggle
+Lucknow,2022,Theft,492,Kaggle
+Lucknow,2022,Robbery,657,Kaggle
+Lucknow,2022,Assault,72,Kaggle
+Lucknow,2022,Burglary,1043,Kaggle
+Lucknow,2022,Cybercrime,244,Kaggle
+Lucknow,2022,Dowry Deaths,189,Kaggle
+Lucknow,2022,Fraud,301,Kaggle
+Lucknow,2023,Murder,1100,Kaggle
+Lucknow,2023,Rape,129,Kaggle
+Lucknow,2023,Kidnapping,908,Kaggle
+Lucknow,2023,Theft,569,Kaggle
+Lucknow,2023,Robbery,420,Kaggle
+Lucknow,2023,Assault,478,Kaggle
+Lucknow,2023,Burglary,501,Kaggle
+Lucknow,2023,Cybercrime,825,Kaggle
+Lucknow,2023,Dowry Deaths,60,Kaggle
+Lucknow,2023,Fraud,617,Kaggle
+Kanpur Nagar,2014,Murder,24,Kaggle
+Kanpur Nagar,2014,Rape,304,Kaggle
+Kanpur Nagar,2014,Kidnapping,677,Kaggle
+Kanpur Nagar,2014,Theft,65,Kaggle
+Kanpur Nagar,2014,Robbery,1077,Kaggle
+Kanpur Nagar,2014,Assault,716,Kaggle
+Kanpur Nagar,2014,Burglary,585,Kaggle
+Kanpur Nagar,2014,Cybercrime,455,Kaggle
+Kanpur Nagar,2014,Dowry Deaths,909,Kaggle
+Kanpur Nagar,2014,Fraud,948,Kaggle
+Kanpur Nagar,2015,Murder,644,Kaggle
+Kanpur Nagar,2015,Rape,290,Kaggle
+Kanpur Nagar,2015,Kidnapping,1093,Kaggle
+Kanpur Nagar,2015,Theft,829,Kaggle
+Kanpur Nagar,2015,Robbery,1167,Kaggle
+Kanpur Nagar,2015,Assault,817,Kaggle
+Kanpur Nagar,2015,Burglary,834,Kaggle
+Kanpur Nagar,2015,Cybercrime,550,Kaggle
+Kanpur Nagar,2015,Dowry Deaths,832,Kaggle
+Kanpur Nagar,2015,Fraud,397,Kaggle
+Kanpur Nagar,2016,Murder,434,Kaggle
+Kanpur Nagar,2016,Rape,1047,Kaggle
+Kanpur Nagar,2016,Kidnapping,26,Kaggle
+Kanpur Nagar,2016,Theft,859,Kaggle
+Kanpur Nagar,2016,Robbery,965,Kaggle
+Kanpur Nagar,2016,Assault,425,Kaggle
+Kanpur Nagar,2016,Burglary,1155,Kaggle
+Kanpur Nagar,2016,Cybercrime,540,Kaggle
+Kanpur Nagar,2016,Dowry Deaths,765,Kaggle
+Kanpur Nagar,2016,Fraud,939,Kaggle
+Kanpur Nagar,2017,Murder,224,Kaggle
+Kanpur Nagar,2017,Rape,770,Kaggle
+Kanpur Nagar,2017,Kidnapping,131,Kaggle
+Kanpur Nagar,2017,Theft,329,Kaggle
+Kanpur Nagar,2017,Robbery,137,Kaggle
+Kanpur Nagar,2017,Assault,922,Kaggle
+Kanpur Nagar,2017,Burglary,936,Kaggle
+Kanpur Nagar,2017,Cybercrime,661,Kaggle
+Kanpur Nagar,2017,Dowry Deaths,947,Kaggle
+Kanpur Nagar,2017,Fraud,847,Kaggle
+Kanpur Nagar,2018,Murder,92,Kaggle
+Kanpur Nagar,2018,Rape,59,Kaggle
+Kanpur Nagar,2018,Kidnapping,611,Kaggle
+Kanpur Nagar,2018,Theft,366,Kaggle
+Kanpur Nagar,2018,Robbery,353,Kaggle
+Kanpur Nagar,2018,Assault,801,Kaggle
+Kanpur Nagar,2018,Burglary,167,Kaggle
+Kanpur Nagar,2018,Cybercrime,494,Kaggle
+Kanpur Nagar,2018,Dowry Deaths,1033,Kaggle
+Kanpur Nagar,2018,Fraud,116,Kaggle
+Kanpur Nagar,2019,Murder,633,Kaggle
+Kanpur Nagar,2019,Rape,393,Kaggle
+Kanpur Nagar,2019,Kidnapping,321,Kaggle
+Kanpur Nagar,2019,Theft,1060,Kaggle
+Kanpur Nagar,2019,Robbery,675,Kaggle
+Kanpur Nagar,2019,Assault,765,Kaggle
+Kanpur Nagar,2019,Burglary,964,Kaggle
+Kanpur Nagar,2019,Cybercrime,379,Kaggle
+Kanpur Nagar,2019,Dowry Deaths,772,Kaggle
+Kanpur Nagar,2019,Fraud,248,Kaggle
+Kanpur Nagar,2020,Murder,951,Kaggle
+Kanpur Nagar,2020,Rape,983,Kaggle
+Kanpur Nagar,2020,Kidnapping,449,Kaggle
+Kanpur Nagar,2020,Theft,40,Kaggle
+Kanpur Nagar,2020,Robbery,692,Kaggle
+Kanpur Nagar,2020,Assault,1047,Kaggle
+Kanpur Nagar,2020,Burglary,628,Kaggle
+Kanpur Nagar,2020,Cybercrime,1088,Kaggle
+Kanpur Nagar,2020,Dowry Deaths,820,Kaggle
+Kanpur Nagar,2020,Fraud,913,Kaggle
+Kanpur Nagar,2021,Murder,1183,Kaggle
+Kanpur Nagar,2021,Rape,795,Kaggle
+Kanpur Nagar,2021,Kidnapping,263,Kaggle
+Kanpur Nagar,2021,Theft,569,Kaggle
+Kanpur Nagar,2021,Robbery,578,Kaggle
+Kanpur Nagar,2021,Assault,890,Kaggle
+Kanpur Nagar,2021,Burglary,921,Kaggle
+Kanpur Nagar,2021,Cybercrime,265,Kaggle
+Kanpur Nagar,2021,Dowry Deaths,641,Kaggle
+Kanpur Nagar,2021,Fraud,1029,Kaggle
+Kanpur Nagar,2022,Murder,487,Kaggle
+Kanpur Nagar,2022,Rape,605,Kaggle
+Kanpur Nagar,2022,Kidnapping,601,Kaggle
+Kanpur Nagar,2022,Theft,308,Kaggle
+Kanpur Nagar,2022,Robbery,814,Kaggle
+Kanpur Nagar,2022,Assault,1160,Kaggle
+Kanpur Nagar,2022,Burglary,1080,Kaggle
+Kanpur Nagar,2022,Cybercrime,186,Kaggle
+Kanpur Nagar,2022,Dowry Deaths,430,Kaggle
+Kanpur Nagar,2022,Fraud,842,Kaggle
+Kanpur Nagar,2023,Murder,1130,Kaggle
+Kanpur Nagar,2023,Rape,428,Kaggle
+Kanpur Nagar,2023,Kidnapping,417,Kaggle
+Kanpur Nagar,2023,Theft,717,Kaggle
+Kanpur Nagar,2023,Robbery,126,Kaggle
+Kanpur Nagar,2023,Assault,1044,Kaggle
+Kanpur Nagar,2023,Burglary,974,Kaggle
+Kanpur Nagar,2023,Cybercrime,525,Kaggle
+Kanpur Nagar,2023,Dowry Deaths,391,Kaggle
+Kanpur Nagar,2023,Fraud,941,Kaggle
+Varanasi,2014,Murder,874,Kaggle
+Varanasi,2014,Rape,809,Kaggle
+Varanasi,2014,Kidnapping,1051,Kaggle
+Varanasi,2014,Theft,794,Kaggle
+Varanasi,2014,Robbery,626,Kaggle
+Varanasi,2014,Assault,819,Kaggle
+Varanasi,2014,Burglary,878,Kaggle
+Varanasi,2014,Cybercrime,536,Kaggle
+Varanasi,2014,Dowry Deaths,741,Kaggle
+Varanasi,2014,Fraud,377,Kaggle
+Varanasi,2015,Murder,837,Kaggle
+Varanasi,2015,Rape,1098,Kaggle
+Varanasi,2015,Kidnapping,112,Kaggle
+Varanasi,2015,Theft,684,Kaggle
+Varanasi,2015,Robbery,729,Kaggle
+Varanasi,2015,Assault,583,Kaggle
+Varanasi,2015,Burglary,327,Kaggle
+Varanasi,2015,Cybercrime,102,Kaggle
+Varanasi,2015,Dowry Deaths,367,Kaggle
+Varanasi,2015,Fraud,893,Kaggle
+Varanasi,2016,Murder,326,Kaggle
+Varanasi,2016,Rape,850,Kaggle
+Varanasi,2016,Kidnapping,64,Kaggle
+Varanasi,2016,Theft,599,Kaggle
+Varanasi,2016,Robbery,677,Kaggle
+Varanasi,2016,Assault,314,Kaggle
+Varanasi,2016,Burglary,128,Kaggle
+Varanasi,2016,Cybercrime,605,Kaggle
+Varanasi,2016,Dowry Deaths,696,Kaggle
+Varanasi,2016,Fraud,898,Kaggle
+Varanasi,2017,Murder,379,Kaggle
+Varanasi,2017,Rape,190,Kaggle
+Varanasi,2017,Kidnapping,1197,Kaggle
+Varanasi,2017,Theft,1129,Kaggle
+Varanasi,2017,Robbery,863,Kaggle
+Varanasi,2017,Assault,1019,Kaggle
+Varanasi,2017,Burglary,834,Kaggle
+Varanasi,2017,Cybercrime,1155,Kaggle
+Varanasi,2017,Dowry Deaths,860,Kaggle
+Varanasi,2017,Fraud,600,Kaggle
+Varanasi,2018,Murder,646,Kaggle
+Varanasi,2018,Rape,27,Kaggle
+Varanasi,2018,Kidnapping,692,Kaggle
+Varanasi,2018,Theft,82,Kaggle
+Varanasi,2018,Robbery,1162,Kaggle
+Varanasi,2018,Assault,558,Kaggle
+Varanasi,2018,Burglary,88,Kaggle
+Varanasi,2018,Cybercrime,735,Kaggle
+Varanasi,2018,Dowry Deaths,966,Kaggle
+Varanasi,2018,Fraud,473,Kaggle
+Varanasi,2019,Murder,1104,Kaggle
+Varanasi,2019,Rape,367,Kaggle
+Varanasi,2019,Kidnapping,764,Kaggle
+Varanasi,2019,Theft,980,Kaggle
+Varanasi,2019,Robbery,919,Kaggle
+Varanasi,2019,Assault,301,Kaggle
+Varanasi,2019,Burglary,1136,Kaggle
+Varanasi,2019,Cybercrime,385,Kaggle
+Varanasi,2019,Dowry Deaths,164,Kaggle
+Varanasi,2019,Fraud,924,Kaggle
+Varanasi,2020,Murder,170,Kaggle
+Varanasi,2020,Rape,725,Kaggle
+Varanasi,2020,Kidnapping,330,Kaggle
+Varanasi,2020,Theft,500,Kaggle
+Varanasi,2020,Robbery,513,Kaggle
+Varanasi,2020,Assault,149,Kaggle
+Varanasi,2020,Burglary,919,Kaggle
+Varanasi,2020,Cybercrime,315,Kaggle
+Varanasi,2020,Dowry Deaths,1016,Kaggle
+Varanasi,2020,Fraud,93,Kaggle
+Varanasi,2021,Murder,373,Kaggle
+Varanasi,2021,Rape,162,Kaggle
+Varanasi,2021,Kidnapping,361,Kaggle
+Varanasi,2021,Theft,203,Kaggle
+Varanasi,2021,Robbery,335,Kaggle
+Varanasi,2021,Assault,630,Kaggle
+Varanasi,2021,Burglary,934,Kaggle
+Varanasi,2021,Cybercrime,105,Kaggle
+Varanasi,2021,Dowry Deaths,343,Kaggle
+Varanasi,2021,Fraud,545,Kaggle
+Varanasi,2022,Murder,121,Kaggle
+Varanasi,2022,Rape,403,Kaggle
+Varanasi,2022,Kidnapping,162,Kaggle
+Varanasi,2022,Theft,959,Kaggle
+Varanasi,2022,Robbery,1200,Kaggle
+Varanasi,2022,Assault,461,Kaggle
+Varanasi,2022,Burglary,206,Kaggle
+Varanasi,2022,Cybercrime,431,Kaggle
+Varanasi,2022,Dowry Deaths,613,Kaggle
+Varanasi,2022,Fraud,702,Kaggle
+Varanasi,2023,Murder,45,Kaggle
+Varanasi,2023,Rape,282,Kaggle
+Varanasi,2023,Kidnapping,792,Kaggle
+Varanasi,2023,Theft,1183,Kaggle
+Varanasi,2023,Robbery,319,Kaggle
+Varanasi,2023,Assault,693,Kaggle
+Varanasi,2023,Burglary,443,Kaggle
+Varanasi,2023,Cybercrime,497,Kaggle
+Varanasi,2023,Dowry Deaths,245,Kaggle
+Varanasi,2023,Fraud,348,Kaggle
+Agra,2014,Murder,274,Kaggle
+Agra,2014,Rape,863,Kaggle
+Agra,2014,Kidnapping,878,Kaggle
+Agra,2014,Theft,103,Kaggle
+Agra,2014,Robbery,275,Kaggle
+Agra,2014,Assault,255,Kaggle
+Agra,2014,Burglary,84,Kaggle
+Agra,2014,Cybercrime,898,Kaggle
+Agra,2014,Dowry Deaths,785,Kaggle
+Agra,2014,Fraud,1056,Kaggle
+Agra,2015,Murder,782,Kaggle
+Agra,2015,Rape,816,Kaggle
+Agra,2015,Kidnapping,959,Kaggle
+Agra,2015,Theft,678,Kaggle
+Agra,2015,Robbery,337,Kaggle
+Agra,2015,Assault,589,Kaggle
+Agra,2015,Burglary,131,Kaggle
+Agra,2015,Cybercrime,641,Kaggle
+Agra,2015,Dowry Deaths,1011,Kaggle
+Agra,2015,Fraud,351,Kaggle
+Agra,2016,Murder,354,Kaggle
+Agra,2016,Rape,72,Kaggle
+Agra,2016,Kidnapping,650,Kaggle
+Agra,2016,Theft,800,Kaggle
+Agra,2016,Robbery,963,Kaggle
+Agra,2016,Assault,240,Kaggle
+Agra,2016,Burglary,180,Kaggle
+Agra,2016,Cybercrime,372,Kaggle
+Agra,2016,Dowry Deaths,994,Kaggle
+Agra,2016,Fraud,1120,Kaggle
+Agra,2017,Murder,1147,Kaggle
+Agra,2017,Rape,39,Kaggle
+Agra,2017,Kidnapping,941,Kaggle
+Agra,2017,Theft,479,Kaggle
+Agra,2017,Robbery,944,Kaggle
+Agra,2017,Assault,756,Kaggle
+Agra,2017,Burglary,1001,Kaggle
+Agra,2017,Cybercrime,208,Kaggle
+Agra,2017,Dowry Deaths,706,Kaggle
+Agra,2017,Fraud,552,Kaggle
+Agra,2018,Murder,616,Kaggle
+Agra,2018,Rape,1188,Kaggle
+Agra,2018,Kidnapping,215,Kaggle
+Agra,2018,Theft,770,Kaggle
+Agra,2018,Robbery,266,Kaggle
+Agra,2018,Assault,1009,Kaggle
+Agra,2018,Burglary,868,Kaggle
+Agra,2018,Cybercrime,910,Kaggle
+Agra,2018,Dowry Deaths,162,Kaggle
+Agra,2018,Fraud,643,Kaggle
+Agra,2019,Murder,866,Kaggle
+Agra,2019,Rape,373,Kaggle
+Agra,2019,Kidnapping,144,Kaggle
+Agra,2019,Theft,793,Kaggle
+Agra,2019,Robbery,507,Kaggle
+Agra,2019,Assault,675,Kaggle
+Agra,2019,Burglary,967,Kaggle
+Agra,2019,Cybercrime,322,Kaggle
+Agra,2019,Dowry Deaths,1094,Kaggle
+Agra,2019,Fraud,417,Kaggle
+Agra,2020,Murder,769,Kaggle
+Agra,2020,Rape,639,Kaggle
+Agra,2020,Kidnapping,160,Kaggle
+Agra,2020,Theft,96,Kaggle
+Agra,2020,Robbery,902,Kaggle
+Agra,2020,Assault,1007,Kaggle
+Agra,2020,Burglary,877,Kaggle
+Agra,2020,Cybercrime,1019,Kaggle
+Agra,2020,Dowry Deaths,369,Kaggle
+Agra,2020,Fraud,59,Kaggle
+Agra,2021,Murder,578,Kaggle
+Agra,2021,Rape,788,Kaggle
+Agra,2021,Kidnapping,1182,Kaggle
+Agra,2021,Theft,750,Kaggle
+Agra,2021,Robbery,1042,Kaggle
+Agra,2021,Assault,212,Kaggle
+Agra,2021,Burglary,100,Kaggle
+Agra,2021,Cybercrime,278,Kaggle
+Agra,2021,Dowry Deaths,251,Kaggle
+Agra,2021,Fraud,772,Kaggle
+Agra,2022,Murder,470,Kaggle
+Agra,2022,Rape,771,Kaggle
+Agra,2022,Kidnapping,639,Kaggle
+Agra,2022,Theft,1164,Kaggle
+Agra,2022,Robbery,675,Kaggle
+Agra,2022,Assault,154,Kaggle
+Agra,2022,Burglary,653,Kaggle
+Agra,2022,Cybercrime,419,Kaggle
+Agra,2022,Dowry Deaths,35,Kaggle
+Agra,2022,Fraud,170,Kaggle
+Agra,2023,Murder,169,Kaggle
+Agra,2023,Rape,868,Kaggle
+Agra,2023,Kidnapping,256,Kaggle
+Agra,2023,Theft,1128,Kaggle
+Agra,2023,Robbery,517,Kaggle
+Agra,2023,Assault,964,Kaggle
+Agra,2023,Burglary,305,Kaggle
+Agra,2023,Cybercrime,587,Kaggle
+Agra,2023,Dowry Deaths,190,Kaggle
+Agra,2023,Fraud,733,Kaggle
+Prayagraj,2014,Murder,456,Kaggle
+Prayagraj,2014,Rape,256,Kaggle
+Prayagraj,2014,Kidnapping,938,Kaggle
+Prayagraj,2014,Theft,106,Kaggle
+Prayagraj,2014,Robbery,352,Kaggle
+Prayagraj,2014,Assault,800,Kaggle
+Prayagraj,2014,Burglary,750,Kaggle
+Prayagraj,2014,Cybercrime,275,Kaggle
+Prayagraj,2014,Dowry Deaths,381,Kaggle
+Prayagraj,2014,Fraud,446,Kaggle
+Prayagraj,2015,Murder,1115,Kaggle
+Prayagraj,2015,Rape,991,Kaggle
+Prayagraj,2015,Kidnapping,1063,Kaggle
+Prayagraj,2015,Theft,614,Kaggle
+Prayagraj,2015,Robbery,436,Kaggle
+Prayagraj,2015,Assault,865,Kaggle
+Prayagraj,2015,Burglary,658,Kaggle
+Prayagraj,2015,Cybercrime,236,Kaggle
+Prayagraj,2015,Dowry Deaths,487,Kaggle
+Prayagraj,2015,Fraud,1095,Kaggle
+Prayagraj,2016,Murder,620,Kaggle
+Prayagraj,2016,Rape,1061,Kaggle
+Prayagraj,2016,Kidnapping,551,Kaggle
+Prayagraj,2016,Theft,527,Kaggle
+Prayagraj,2016,Robbery,740,Kaggle
+Prayagraj,2016,Assault,952,Kaggle
+Prayagraj,2016,Burglary,453,Kaggle
+Prayagraj,2016,Cybercrime,1059,Kaggle
+Prayagraj,2016,Dowry Deaths,439,Kaggle
+Prayagraj,2016,Fraud,1018,Kaggle
+Prayagraj,2017,Murder,371,Kaggle
+Prayagraj,2017,Rape,258,Kaggle
+Prayagraj,2017,Kidnapping,456,Kaggle
+Prayagraj,2017,Theft,358,Kaggle
+Prayagraj,2017,Robbery,370,Kaggle
+Prayagraj,2017,Assault,745,Kaggle
+Prayagraj,2017,Burglary,237,Kaggle
+Prayagraj,2017,Cybercrime,1023,Kaggle
+Prayagraj,2017,Dowry Deaths,414,Kaggle
+Prayagraj,2017,Fraud,520,Kaggle
+Prayagraj,2018,Murder,1141,Kaggle
+Prayagraj,2018,Rape,179,Kaggle
+Prayagraj,2018,Kidnapping,919,Kaggle
+Prayagraj,2018,Theft,108,Kaggle
+Prayagraj,2018,Robbery,79,Kaggle
+Prayagraj,2018,Assault,606,Kaggle
+Prayagraj,2018,Burglary,811,Kaggle
+Prayagraj,2018,Cybercrime,759,Kaggle
+Prayagraj,2018,Dowry Deaths,417,Kaggle
+Prayagraj,2018,Fraud,378,Kaggle
+Prayagraj,2019,Murder,648,Kaggle
+Prayagraj,2019,Rape,916,Kaggle
+Prayagraj,2019,Kidnapping,1182,Kaggle
+Prayagraj,2019,Theft,557,Kaggle
+Prayagraj,2019,Robbery,550,Kaggle
+Prayagraj,2019,Assault,735,Kaggle
+Prayagraj,2019,Burglary,82,Kaggle
+Prayagraj,2019,Cybercrime,1154,Kaggle
+Prayagraj,2019,Dowry Deaths,1108,Kaggle
+Prayagraj,2019,Fraud,470,Kaggle
+Prayagraj,2020,Murder,826,Kaggle
+Prayagraj,2020,Rape,586,Kaggle
+Prayagraj,2020,Kidnapping,34,Kaggle
+Prayagraj,2020,Theft,876,Kaggle
+Prayagraj,2020,Robbery,334,Kaggle
+Prayagraj,2020,Assault,691,Kaggle
+Prayagraj,2020,Burglary,259,Kaggle
+Prayagraj,2020,Cybercrime,1064,Kaggle
+Prayagraj,2020,Dowry Deaths,298,Kaggle
+Prayagraj,2020,Fraud,540,Kaggle
+Prayagraj,2021,Murder,1143,Kaggle
+Prayagraj,2021,Rape,233,Kaggle
+Prayagraj,2021,Kidnapping,1009,Kaggle
+Prayagraj,2021,Theft,45,Kaggle
+Prayagraj,2021,Robbery,1170,Kaggle
+Prayagraj,2021,Assault,689,Kaggle
+Prayagraj,2021,Burglary,516,Kaggle
+Prayagraj,2021,Cybercrime,1087,Kaggle
+Prayagraj,2021,Dowry Deaths,989,Kaggle
+Prayagraj,2021,Fraud,940,Kaggle
+Prayagraj,2022,Murder,314,Kaggle
+Prayagraj,2022,Rape,938,Kaggle
+Prayagraj,2022,Kidnapping,600,Kaggle
+Prayagraj,2022,Theft,356,Kaggle
+Prayagraj,2022,Robbery,756,Kaggle
+Prayagraj,2022,Assault,305,Kaggle
+Prayagraj,2022,Burglary,127,Kaggle
+Prayagraj,2022,Cybercrime,263,Kaggle
+Prayagraj,2022,Dowry Deaths,1124,Kaggle
+Prayagraj,2022,Fraud,546,Kaggle
+Prayagraj,2023,Murder,217,Kaggle
+Prayagraj,2023,Rape,991,Kaggle
+Prayagraj,2023,Kidnapping,527,Kaggle
+Prayagraj,2023,Theft,49,Kaggle
+Prayagraj,2023,Robbery,380,Kaggle
+Prayagraj,2023,Assault,628,Kaggle
+Prayagraj,2023,Burglary,688,Kaggle
+Prayagraj,2023,Cybercrime,903,Kaggle
+Prayagraj,2023,Dowry Deaths,169,Kaggle
+Prayagraj,2023,Fraud,262,Kaggle
+Ghaziabad,2014,Murder,837,Kaggle
+Ghaziabad,2014,Rape,632,Kaggle
+Ghaziabad,2014,Kidnapping,324,Kaggle
+Ghaziabad,2014,Theft,1160,Kaggle
+Ghaziabad,2014,Robbery,1199,Kaggle
+Ghaziabad,2014,Assault,781,Kaggle
+Ghaziabad,2014,Burglary,1032,Kaggle
+Ghaziabad,2014,Cybercrime,122,Kaggle
+Ghaziabad,2014,Dowry Deaths,269,Kaggle
+Ghaziabad,2014,Fraud,187,Kaggle
+Ghaziabad,2015,Murder,537,Kaggle
+Ghaziabad,2015,Rape,382,Kaggle
+Ghaziabad,2015,Kidnapping,650,Kaggle
+Ghaziabad,2015,Theft,580,Kaggle
+Ghaziabad,2015,Robbery,148,Kaggle
+Ghaziabad,2015,Assault,1185,Kaggle
+Ghaziabad,2015,Burglary,847,Kaggle
+Ghaziabad,2015,Cybercrime,1034,Kaggle
+Ghaziabad,2015,Dowry Deaths,882,Kaggle
+Ghaziabad,2015,Fraud,1059,Kaggle
+Ghaziabad,2016,Murder,814,Kaggle
+Ghaziabad,2016,Rape,835,Kaggle
+Ghaziabad,2016,Kidnapping,930,Kaggle
+Ghaziabad,2016,Theft,1121,Kaggle
+Ghaziabad,2016,Robbery,416,Kaggle
+Ghaziabad,2016,Assault,136,Kaggle
+Ghaziabad,2016,Burglary,1040,Kaggle
+Ghaziabad,2016,Cybercrime,187,Kaggle
+Ghaziabad,2016,Dowry Deaths,99,Kaggle
+Ghaziabad,2016,Fraud,301,Kaggle
+Ghaziabad,2017,Murder,627,Kaggle
+Ghaziabad,2017,Rape,811,Kaggle
+Ghaziabad,2017,Kidnapping,237,Kaggle
+Ghaziabad,2017,Theft,1181,Kaggle
+Ghaziabad,2017,Robbery,426,Kaggle
+Ghaziabad,2017,Assault,321,Kaggle
+Ghaziabad,2017,Burglary,774,Kaggle
+Ghaziabad,2017,Cybercrime,1010,Kaggle
+Ghaziabad,2017,Dowry Deaths,863,Kaggle
+Ghaziabad,2017,Fraud,654,Kaggle
+Ghaziabad,2018,Murder,1031,Kaggle
+Ghaziabad,2018,Rape,164,Kaggle
+Ghaziabad,2018,Kidnapping,375,Kaggle
+Ghaziabad,2018,Theft,613,Kaggle
+Ghaziabad,2018,Robbery,537,Kaggle
+Ghaziabad,2018,Assault,132,Kaggle
+Ghaziabad,2018,Burglary,1186,Kaggle
+Ghaziabad,2018,Cybercrime,127,Kaggle
+Ghaziabad,2018,Dowry Deaths,1096,Kaggle
+Ghaziabad,2018,Fraud,1117,Kaggle
+Ghaziabad,2019,Murder,1010,Kaggle
+Ghaziabad,2019,Rape,600,Kaggle
+Ghaziabad,2019,Kidnapping,811,Kaggle
+Ghaziabad,2019,Theft,189,Kaggle
+Ghaziabad,2019,Robbery,383,Kaggle
+Ghaziabad,2019,Assault,1043,Kaggle
+Ghaziabad,2019,Burglary,485,Kaggle
+Ghaziabad,2019,Cybercrime,1024,Kaggle
+Ghaziabad,2019,Dowry Deaths,560,Kaggle
+Ghaziabad,2019,Fraud,83,Kaggle
+Ghaziabad,2020,Murder,43,Kaggle
+Ghaziabad,2020,Rape,818,Kaggle
+Ghaziabad,2020,Kidnapping,1139,Kaggle
+Ghaziabad,2020,Theft,157,Kaggle
+Ghaziabad,2020,Robbery,619,Kaggle
+Ghaziabad,2020,Assault,201,Kaggle
+Ghaziabad,2020,Burglary,1115,Kaggle
+Ghaziabad,2020,Cybercrime,408,Kaggle
+Ghaziabad,2020,Dowry Deaths,88,Kaggle
+Ghaziabad,2020,Fraud,627,Kaggle
+Ghaziabad,2021,Murder,615,Kaggle
+Ghaziabad,2021,Rape,943,Kaggle
+Ghaziabad,2021,Kidnapping,984,Kaggle
+Ghaziabad,2021,Theft,504,Kaggle
+Ghaziabad,2021,Robbery,597,Kaggle
+Ghaziabad,2021,Assault,1153,Kaggle
+Ghaziabad,2021,Burglary,214,Kaggle
+Ghaziabad,2021,Cybercrime,326,Kaggle
+Ghaziabad,2021,Dowry Deaths,807,Kaggle
+Ghaziabad,2021,Fraud,875,Kaggle
+Ghaziabad,2022,Murder,809,Kaggle
+Ghaziabad,2022,Rape,1097,Kaggle
+Ghaziabad,2022,Kidnapping,353,Kaggle
+Ghaziabad,2022,Theft,62,Kaggle
+Ghaziabad,2022,Robbery,573,Kaggle
+Ghaziabad,2022,Assault,1073,Kaggle
+Ghaziabad,2022,Burglary,221,Kaggle
+Ghaziabad,2022,Cybercrime,1186,Kaggle
+Ghaziabad,2022,Dowry Deaths,220,Kaggle
+Ghaziabad,2022,Fraud,85,Kaggle
+Ghaziabad,2023,Murder,585,Kaggle
+Ghaziabad,2023,Rape,815,Kaggle
+Ghaziabad,2023,Kidnapping,325,Kaggle
+Ghaziabad,2023,Theft,574,Kaggle
+Ghaziabad,2023,Robbery,1047,Kaggle
+Ghaziabad,2023,Assault,857,Kaggle
+Ghaziabad,2023,Burglary,875,Kaggle
+Ghaziabad,2023,Cybercrime,766,Kaggle
+Ghaziabad,2023,Dowry Deaths,885,Kaggle
+Ghaziabad,2023,Fraud,492,Kaggle
+Meerut,2014,Murder,487,Kaggle
+Meerut,2014,Rape,323,Kaggle
+Meerut,2014,Kidnapping,177,Kaggle
+Meerut,2014,Theft,298,Kaggle
+Meerut,2014,Robbery,258,Kaggle
+Meerut,2014,Assault,790,Kaggle
+Meerut,2014,Burglary,674,Kaggle
+Meerut,2014,Cybercrime,249,Kaggle
+Meerut,2014,Dowry Deaths,981,Kaggle
+Meerut,2014,Fraud,636,Kaggle
+Meerut,2015,Murder,1137,Kaggle
+Meerut,2015,Rape,906,Kaggle
+Meerut,2015,Kidnapping,863,Kaggle
+Meerut,2015,Theft,102,Kaggle
+Meerut,2015,Robbery,715,Kaggle
+Meerut,2015,Assault,751,Kaggle
+Meerut,2015,Burglary,1061,Kaggle
+Meerut,2015,Cybercrime,584,Kaggle
+Meerut,2015,Dowry Deaths,43,Kaggle
+Meerut,2015,Fraud,616,Kaggle
+Meerut,2016,Murder,442,Kaggle
+Meerut,2016,Rape,144,Kaggle
+Meerut,2016,Kidnapping,521,Kaggle
+Meerut,2016,Theft,471,Kaggle
+Meerut,2016,Robbery,428,Kaggle
+Meerut,2016,Assault,108,Kaggle
+Meerut,2016,Burglary,941,Kaggle
+Meerut,2016,Cybercrime,446,Kaggle
+Meerut,2016,Dowry Deaths,201,Kaggle
+Meerut,2016,Fraud,954,Kaggle
+Meerut,2017,Murder,825,Kaggle
+Meerut,2017,Rape,1014,Kaggle
+Meerut,2017,Kidnapping,665,Kaggle
+Meerut,2017,Theft,769,Kaggle
+Meerut,2017,Robbery,710,Kaggle
+Meerut,2017,Assault,628,Kaggle
+Meerut,2017,Burglary,175,Kaggle
+Meerut,2017,Cybercrime,995,Kaggle
+Meerut,2017,Dowry Deaths,448,Kaggle
+Meerut,2017,Fraud,1111,Kaggle
+Meerut,2018,Murder,884,Kaggle
+Meerut,2018,Rape,423,Kaggle
+Meerut,2018,Kidnapping,637,Kaggle
+Meerut,2018,Theft,1092,Kaggle
+Meerut,2018,Robbery,22,Kaggle
+Meerut,2018,Assault,278,Kaggle
+Meerut,2018,Burglary,748,Kaggle
+Meerut,2018,Cybercrime,936,Kaggle
+Meerut,2018,Dowry Deaths,649,Kaggle
+Meerut,2018,Fraud,919,Kaggle
+Meerut,2019,Murder,869,Kaggle
+Meerut,2019,Rape,1075,Kaggle
+Meerut,2019,Kidnapping,771,Kaggle
+Meerut,2019,Theft,328,Kaggle
+Meerut,2019,Robbery,769,Kaggle
+Meerut,2019,Assault,916,Kaggle
+Meerut,2019,Burglary,652,Kaggle
+Meerut,2019,Cybercrime,713,Kaggle
+Meerut,2019,Dowry Deaths,284,Kaggle
+Meerut,2019,Fraud,301,Kaggle
+Meerut,2020,Murder,934,Kaggle
+Meerut,2020,Rape,1105,Kaggle
+Meerut,2020,Kidnapping,253,Kaggle
+Meerut,2020,Theft,22,Kaggle
+Meerut,2020,Robbery,79,Kaggle
+Meerut,2020,Assault,258,Kaggle
+Meerut,2020,Burglary,1130,Kaggle
+Meerut,2020,Cybercrime,743,Kaggle
+Meerut,2020,Dowry Deaths,1079,Kaggle
+Meerut,2020,Fraud,1177,Kaggle
+Meerut,2021,Murder,79,Kaggle
+Meerut,2021,Rape,978,Kaggle
+Meerut,2021,Kidnapping,647,Kaggle
+Meerut,2021,Theft,589,Kaggle
+Meerut,2021,Robbery,780,Kaggle
+Meerut,2021,Assault,172,Kaggle
+Meerut,2021,Burglary,904,Kaggle
+Meerut,2021,Cybercrime,933,Kaggle
+Meerut,2021,Dowry Deaths,971,Kaggle
+Meerut,2021,Fraud,614,Kaggle
+Meerut,2022,Murder,732,Kaggle
+Meerut,2022,Rape,828,Kaggle
+Meerut,2022,Kidnapping,581,Kaggle
+Meerut,2022,Theft,365,Kaggle
+Meerut,2022,Robbery,1007,Kaggle
+Meerut,2022,Assault,352,Kaggle
+Meerut,2022,Burglary,772,Kaggle
+Meerut,2022,Cybercrime,418,Kaggle
+Meerut,2022,Dowry Deaths,951,Kaggle
+Meerut,2022,Fraud,1030,Kaggle
+Meerut,2023,Murder,465,Kaggle
+Meerut,2023,Rape,724,Kaggle
+Meerut,2023,Kidnapping,890,Kaggle
+Meerut,2023,Theft,909,Kaggle
+Meerut,2023,Robbery,974,Kaggle
+Meerut,2023,Assault,641,Kaggle
+Meerut,2023,Burglary,888,Kaggle
+Meerut,2023,Cybercrime,1139,Kaggle
+Meerut,2023,Dowry Deaths,527,Kaggle
+Meerut,2023,Fraud,680,Kaggle
+Gorakhpur,2014,Murder,571,Kaggle
+Gorakhpur,2014,Rape,891,Kaggle
+Gorakhpur,2014,Kidnapping,221,Kaggle
+Gorakhpur,2014,Theft,315,Kaggle
+Gorakhpur,2014,Robbery,497,Kaggle
+Gorakhpur,2014,Assault,1068,Kaggle
+Gorakhpur,2014,Burglary,149,Kaggle
+Gorakhpur,2014,Cybercrime,465,Kaggle
+Gorakhpur,2014,Dowry Deaths,1019,Kaggle
+Gorakhpur,2014,Fraud,612,Kaggle
+Gorakhpur,2015,Murder,719,Kaggle
+Gorakhpur,2015,Rape,454,Kaggle
+Gorakhpur,2015,Kidnapping,107,Kaggle
+Gorakhpur,2015,Theft,843,Kaggle
+Gorakhpur,2015,Robbery,372,Kaggle
+Gorakhpur,2015,Assault,908,Kaggle
+Gorakhpur,2015,Burglary,481,Kaggle
+Gorakhpur,2015,Cybercrime,73,Kaggle
+Gorakhpur,2015,Dowry Deaths,264,Kaggle
+Gorakhpur,2015,Fraud,715,Kaggle
+Gorakhpur,2016,Murder,157,Kaggle
+Gorakhpur,2016,Rape,85,Kaggle
+Gorakhpur,2016,Kidnapping,724,Kaggle
+Gorakhpur,2016,Theft,299,Kaggle
+Gorakhpur,2016,Robbery,950,Kaggle
+Gorakhpur,2016,Assault,1014,Kaggle
+Gorakhpur,2016,Burglary,990,Kaggle
+Gorakhpur,2016,Cybercrime,736,Kaggle
+Gorakhpur,2016,Dowry Deaths,786,Kaggle
+Gorakhpur,2016,Fraud,724,Kaggle
+Gorakhpur,2017,Murder,108,Kaggle
+Gorakhpur,2017,Rape,1164,Kaggle
+Gorakhpur,2017,Kidnapping,1173,Kaggle
+Gorakhpur,2017,Theft,1029,Kaggle
+Gorakhpur,2017,Robbery,647,Kaggle
+Gorakhpur,2017,Assault,1066,Kaggle
+Gorakhpur,2017,Burglary,383,Kaggle
+Gorakhpur,2017,Cybercrime,256,Kaggle
+Gorakhpur,2017,Dowry Deaths,1050,Kaggle
+Gorakhpur,2017,Fraud,408,Kaggle
+Gorakhpur,2018,Murder,624,Kaggle
+Gorakhpur,2018,Rape,456,Kaggle
+Gorakhpur,2018,Kidnapping,1121,Kaggle
+Gorakhpur,2018,Theft,808,Kaggle
+Gorakhpur,2018,Robbery,837,Kaggle
+Gorakhpur,2018,Assault,206,Kaggle
+Gorakhpur,2018,Burglary,55,Kaggle
+Gorakhpur,2018,Cybercrime,911,Kaggle
+Gorakhpur,2018,Dowry Deaths,535,Kaggle
+Gorakhpur,2018,Fraud,676,Kaggle
+Gorakhpur,2019,Murder,875,Kaggle
+Gorakhpur,2019,Rape,962,Kaggle
+Gorakhpur,2019,Kidnapping,511,Kaggle
+Gorakhpur,2019,Theft,136,Kaggle
+Gorakhpur,2019,Robbery,116,Kaggle
+Gorakhpur,2019,Assault,352,Kaggle
+Gorakhpur,2019,Burglary,334,Kaggle
+Gorakhpur,2019,Cybercrime,156,Kaggle
+Gorakhpur,2019,Dowry Deaths,1041,Kaggle
+Gorakhpur,2019,Fraud,934,Kaggle
+Gorakhpur,2020,Murder,615,Kaggle
+Gorakhpur,2020,Rape,1006,Kaggle
+Gorakhpur,2020,Kidnapping,757,Kaggle
+Gorakhpur,2020,Theft,1026,Kaggle
+Gorakhpur,2020,Robbery,775,Kaggle
+Gorakhpur,2020,Assault,53,Kaggle
+Gorakhpur,2020,Burglary,267,Kaggle
+Gorakhpur,2020,Cybercrime,1021,Kaggle
+Gorakhpur,2020,Dowry Deaths,54,Kaggle
+Gorakhpur,2020,Fraud,689,Kaggle
+Gorakhpur,2021,Murder,691,Kaggle
+Gorakhpur,2021,Rape,241,Kaggle
+Gorakhpur,2021,Kidnapping,126,Kaggle
+Gorakhpur,2021,Theft,951,Kaggle
+Gorakhpur,2021,Robbery,84,Kaggle
+Gorakhpur,2021,Assault,472,Kaggle
+Gorakhpur,2021,Burglary,534,Kaggle
+Gorakhpur,2021,Cybercrime,517,Kaggle
+Gorakhpur,2021,Dowry Deaths,370,Kaggle
+Gorakhpur,2021,Fraud,1028,Kaggle
+Gorakhpur,2022,Murder,1189,Kaggle
+Gorakhpur,2022,Rape,854,Kaggle
+Gorakhpur,2022,Kidnapping,293,Kaggle
+Gorakhpur,2022,Theft,151,Kaggle
+Gorakhpur,2022,Robbery,382,Kaggle
+Gorakhpur,2022,Assault,461,Kaggle
+Gorakhpur,2022,Burglary,530,Kaggle
+Gorakhpur,2022,Cybercrime,438,Kaggle
+Gorakhpur,2022,Dowry Deaths,864,Kaggle
+Gorakhpur,2022,Fraud,927,Kaggle
+Gorakhpur,2023,Murder,282,Kaggle
+Gorakhpur,2023,Rape,974,Kaggle
+Gorakhpur,2023,Kidnapping,836,Kaggle
+Gorakhpur,2023,Theft,335,Kaggle
+Gorakhpur,2023,Robbery,1011,Kaggle
+Gorakhpur,2023,Assault,1103,Kaggle
+Gorakhpur,2023,Burglary,315,Kaggle
+Gorakhpur,2023,Cybercrime,998,Kaggle
+Gorakhpur,2023,Dowry Deaths,28,Kaggle
+Gorakhpur,2023,Fraud,618,Kaggle
+Bareilly,2014,Murder,708,Kaggle
+Bareilly,2014,Rape,1195,Kaggle
+Bareilly,2014,Kidnapping,1018,Kaggle
+Bareilly,2014,Theft,427,Kaggle
+Bareilly,2014,Robbery,804,Kaggle
+Bareilly,2014,Assault,361,Kaggle
+Bareilly,2014,Burglary,427,Kaggle
+Bareilly,2014,Cybercrime,515,Kaggle
+Bareilly,2014,Dowry Deaths,383,Kaggle
+Bareilly,2014,Fraud,391,Kaggle
+Bareilly,2015,Murder,857,Kaggle
+Bareilly,2015,Rape,95,Kaggle
+Bareilly,2015,Kidnapping,111,Kaggle
+Bareilly,2015,Theft,1176,Kaggle
+Bareilly,2015,Robbery,221,Kaggle
+Bareilly,2015,Assault,393,Kaggle
+Bareilly,2015,Burglary,163,Kaggle
+Bareilly,2015,Cybercrime,814,Kaggle
+Bareilly,2015,Dowry Deaths,933,Kaggle
+Bareilly,2015,Fraud,846,Kaggle
+Bareilly,2016,Murder,66,Kaggle
+Bareilly,2016,Rape,878,Kaggle
+Bareilly,2016,Kidnapping,783,Kaggle
+Bareilly,2016,Theft,482,Kaggle
+Bareilly,2016,Robbery,775,Kaggle
+Bareilly,2016,Assault,419,Kaggle
+Bareilly,2016,Burglary,290,Kaggle
+Bareilly,2016,Cybercrime,1053,Kaggle
+Bareilly,2016,Dowry Deaths,202,Kaggle
+Bareilly,2016,Fraud,829,Kaggle
+Bareilly,2017,Murder,425,Kaggle
+Bareilly,2017,Rape,625,Kaggle
+Bareilly,2017,Kidnapping,177,Kaggle
+Bareilly,2017,Theft,449,Kaggle
+Bareilly,2017,Robbery,469,Kaggle
+Bareilly,2017,Assault,1147,Kaggle
+Bareilly,2017,Burglary,457,Kaggle
+Bareilly,2017,Cybercrime,103,Kaggle
+Bareilly,2017,Dowry Deaths,904,Kaggle
+Bareilly,2017,Fraud,589,Kaggle
+Bareilly,2018,Murder,507,Kaggle
+Bareilly,2018,Rape,68,Kaggle
+Bareilly,2018,Kidnapping,792,Kaggle
+Bareilly,2018,Theft,1013,Kaggle
+Bareilly,2018,Robbery,172,Kaggle
+Bareilly,2018,Assault,208,Kaggle
+Bareilly,2018,Burglary,98,Kaggle
+Bareilly,2018,Cybercrime,397,Kaggle
+Bareilly,2018,Dowry Deaths,536,Kaggle
+Bareilly,2018,Fraud,352,Kaggle
+Bareilly,2019,Murder,695,Kaggle
+Bareilly,2019,Rape,1066,Kaggle
+Bareilly,2019,Kidnapping,545,Kaggle
+Bareilly,2019,Theft,249,Kaggle
+Bareilly,2019,Robbery,1099,Kaggle
+Bareilly,2019,Assault,1060,Kaggle
+Bareilly,2019,Burglary,200,Kaggle
+Bareilly,2019,Cybercrime,213,Kaggle
+Bareilly,2019,Dowry Deaths,1160,Kaggle
+Bareilly,2019,Fraud,388,Kaggle
+Bareilly,2020,Murder,545,Kaggle
+Bareilly,2020,Rape,328,Kaggle
+Bareilly,2020,Kidnapping,290,Kaggle
+Bareilly,2020,Theft,783,Kaggle
+Bareilly,2020,Robbery,980,Kaggle
+Bareilly,2020,Assault,406,Kaggle
+Bareilly,2020,Burglary,254,Kaggle
+Bareilly,2020,Cybercrime,319,Kaggle
+Bareilly,2020,Dowry Deaths,856,Kaggle
+Bareilly,2020,Fraud,779,Kaggle
+Bareilly,2021,Murder,804,Kaggle
+Bareilly,2021,Rape,1135,Kaggle
+Bareilly,2021,Kidnapping,589,Kaggle
+Bareilly,2021,Theft,447,Kaggle
+Bareilly,2021,Robbery,300,Kaggle
+Bareilly,2021,Assault,274,Kaggle
+Bareilly,2021,Burglary,25,Kaggle
+Bareilly,2021,Cybercrime,644,Kaggle
+Bareilly,2021,Dowry Deaths,921,Kaggle
+Bareilly,2021,Fraud,715,Kaggle
+Bareilly,2022,Murder,145,Kaggle
+Bareilly,2022,Rape,914,Kaggle
+Bareilly,2022,Kidnapping,983,Kaggle
+Bareilly,2022,Theft,455,Kaggle
+Bareilly,2022,Robbery,397,Kaggle
+Bareilly,2022,Assault,1150,Kaggle
+Bareilly,2022,Burglary,90,Kaggle
+Bareilly,2022,Cybercrime,268,Kaggle
+Bareilly,2022,Dowry Deaths,469,Kaggle
+Bareilly,2022,Fraud,500,Kaggle
+Bareilly,2023,Murder,819,Kaggle
+Bareilly,2023,Rape,282,Kaggle
+Bareilly,2023,Kidnapping,207,Kaggle
+Bareilly,2023,Theft,71,Kaggle
+Bareilly,2023,Robbery,424,Kaggle
+Bareilly,2023,Assault,749,Kaggle
+Bareilly,2023,Burglary,307,Kaggle
+Bareilly,2023,Cybercrime,364,Kaggle
+Bareilly,2023,Dowry Deaths,891,Kaggle
+Bareilly,2023,Fraud,504,Kaggle
+Aligarh,2014,Murder,1058,Kaggle
+Aligarh,2014,Rape,742,Kaggle
+Aligarh,2014,Kidnapping,493,Kaggle
+Aligarh,2014,Theft,934,Kaggle
+Aligarh,2014,Robbery,773,Kaggle
+Aligarh,2014,Assault,133,Kaggle
+Aligarh,2014,Burglary,527,Kaggle
+Aligarh,2014,Cybercrime,678,Kaggle
+Aligarh,2014,Dowry Deaths,403,Kaggle
+Aligarh,2014,Fraud,1060,Kaggle
+Aligarh,2015,Murder,28,Kaggle
+Aligarh,2015,Rape,1099,Kaggle
+Aligarh,2015,Kidnapping,317,Kaggle
+Aligarh,2015,Theft,345,Kaggle
+Aligarh,2015,Robbery,267,Kaggle
+Aligarh,2015,Assault,992,Kaggle
+Aligarh,2015,Burglary,1113,Kaggle
+Aligarh,2015,Cybercrime,585,Kaggle
+Aligarh,2015,Dowry Deaths,890,Kaggle
+Aligarh,2015,Fraud,1101,Kaggle
+Aligarh,2016,Murder,463,Kaggle
+Aligarh,2016,Rape,705,Kaggle
+Aligarh,2016,Kidnapping,967,Kaggle
+Aligarh,2016,Theft,1113,Kaggle
+Aligarh,2016,Robbery,361,Kaggle
+Aligarh,2016,Assault,428,Kaggle
+Aligarh,2016,Burglary,848,Kaggle
+Aligarh,2016,Cybercrime,520,Kaggle
+Aligarh,2016,Dowry Deaths,418,Kaggle
+Aligarh,2016,Fraud,134,Kaggle
+Aligarh,2017,Murder,354,Kaggle
+Aligarh,2017,Rape,440,Kaggle
+Aligarh,2017,Kidnapping,91,Kaggle
+Aligarh,2017,Theft,284,Kaggle
+Aligarh,2017,Robbery,768,Kaggle
+Aligarh,2017,Assault,668,Kaggle
+Aligarh,2017,Burglary,270,Kaggle
+Aligarh,2017,Cybercrime,149,Kaggle
+Aligarh,2017,Dowry Deaths,1102,Kaggle
+Aligarh,2017,Fraud,124,Kaggle
+Aligarh,2018,Murder,720,Kaggle
+Aligarh,2018,Rape,519,Kaggle
+Aligarh,2018,Kidnapping,386,Kaggle
+Aligarh,2018,Theft,106,Kaggle
+Aligarh,2018,Robbery,924,Kaggle
+Aligarh,2018,Assault,452,Kaggle
+Aligarh,2018,Burglary,284,Kaggle
+Aligarh,2018,Cybercrime,186,Kaggle
+Aligarh,2018,Dowry Deaths,597,Kaggle
+Aligarh,2018,Fraud,1150,Kaggle
+Aligarh,2019,Murder,420,Kaggle
+Aligarh,2019,Rape,713,Kaggle
+Aligarh,2019,Kidnapping,968,Kaggle
+Aligarh,2019,Theft,648,Kaggle
+Aligarh,2019,Robbery,999,Kaggle
+Aligarh,2019,Assault,108,Kaggle
+Aligarh,2019,Burglary,663,Kaggle
+Aligarh,2019,Cybercrime,1059,Kaggle
+Aligarh,2019,Dowry Deaths,723,Kaggle
+Aligarh,2019,Fraud,916,Kaggle
+Aligarh,2020,Murder,815,Kaggle
+Aligarh,2020,Rape,450,Kaggle
+Aligarh,2020,Kidnapping,734,Kaggle
+Aligarh,2020,Theft,664,Kaggle
+Aligarh,2020,Robbery,580,Kaggle
+Aligarh,2020,Assault,319,Kaggle
+Aligarh,2020,Burglary,586,Kaggle
+Aligarh,2020,Cybercrime,126,Kaggle
+Aligarh,2020,Dowry Deaths,942,Kaggle
+Aligarh,2020,Fraud,193,Kaggle
+Aligarh,2021,Murder,1019,Kaggle
+Aligarh,2021,Rape,379,Kaggle
+Aligarh,2021,Kidnapping,721,Kaggle
+Aligarh,2021,Theft,339,Kaggle
+Aligarh,2021,Robbery,958,Kaggle
+Aligarh,2021,Assault,326,Kaggle
+Aligarh,2021,Burglary,862,Kaggle
+Aligarh,2021,Cybercrime,1053,Kaggle
+Aligarh,2021,Dowry Deaths,940,Kaggle
+Aligarh,2021,Fraud,224,Kaggle
+Aligarh,2022,Murder,906,Kaggle
+Aligarh,2022,Rape,780,Kaggle
+Aligarh,2022,Kidnapping,968,Kaggle
+Aligarh,2022,Theft,815,Kaggle
+Aligarh,2022,Robbery,148,Kaggle
+Aligarh,2022,Assault,580,Kaggle
+Aligarh,2022,Burglary,324,Kaggle
+Aligarh,2022,Cybercrime,1004,Kaggle
+Aligarh,2022,Dowry Deaths,338,Kaggle
+Aligarh,2022,Fraud,874,Kaggle
+Aligarh,2023,Murder,177,Kaggle
+Aligarh,2023,Rape,144,Kaggle
+Aligarh,2023,Kidnapping,568,Kaggle
+Aligarh,2023,Theft,856,Kaggle
+Aligarh,2023,Robbery,1185,Kaggle
+Aligarh,2023,Assault,453,Kaggle
+Aligarh,2023,Burglary,979,Kaggle
+Aligarh,2023,Cybercrime,124,Kaggle
+Aligarh,2023,Dowry Deaths,251,Kaggle
+Aligarh,2023,Fraud,57,Kaggle
+Moradabad,2014,Murder,1161,Kaggle
+Moradabad,2014,Rape,922,Kaggle
+Moradabad,2014,Kidnapping,514,Kaggle
+Moradabad,2014,Theft,882,Kaggle
+Moradabad,2014,Robbery,1069,Kaggle
+Moradabad,2014,Assault,82,Kaggle
+Moradabad,2014,Burglary,822,Kaggle
+Moradabad,2014,Cybercrime,191,Kaggle
+Moradabad,2014,Dowry Deaths,952,Kaggle
+Moradabad,2014,Fraud,256,Kaggle
+Moradabad,2015,Murder,225,Kaggle
+Moradabad,2015,Rape,331,Kaggle
+Moradabad,2015,Kidnapping,522,Kaggle
+Moradabad,2015,Theft,1113,Kaggle
+Moradabad,2015,Robbery,301,Kaggle
+Moradabad,2015,Assault,77,Kaggle
+Moradabad,2015,Burglary,869,Kaggle
+Moradabad,2015,Cybercrime,65,Kaggle
+Moradabad,2015,Dowry Deaths,1164,Kaggle
+Moradabad,2015,Fraud,438,Kaggle
+Moradabad,2016,Murder,1185,Kaggle
+Moradabad,2016,Rape,297,Kaggle
+Moradabad,2016,Kidnapping,241,Kaggle
+Moradabad,2016,Theft,978,Kaggle
+Moradabad,2016,Robbery,745,Kaggle
+Moradabad,2016,Assault,83,Kaggle
+Moradabad,2016,Burglary,218,Kaggle
+Moradabad,2016,Cybercrime,300,Kaggle
+Moradabad,2016,Dowry Deaths,620,Kaggle
+Moradabad,2016,Fraud,20,Kaggle
+Moradabad,2017,Murder,282,Kaggle
+Moradabad,2017,Rape,1141,Kaggle
+Moradabad,2017,Kidnapping,759,Kaggle
+Moradabad,2017,Theft,46,Kaggle
+Moradabad,2017,Robbery,813,Kaggle
+Moradabad,2017,Assault,509,Kaggle
+Moradabad,2017,Burglary,331,Kaggle
+Moradabad,2017,Cybercrime,1012,Kaggle
+Moradabad,2017,Dowry Deaths,886,Kaggle
+Moradabad,2017,Fraud,654,Kaggle
+Moradabad,2018,Murder,308,Kaggle
+Moradabad,2018,Rape,323,Kaggle
+Moradabad,2018,Kidnapping,625,Kaggle
+Moradabad,2018,Theft,881,Kaggle
+Moradabad,2018,Robbery,808,Kaggle
+Moradabad,2018,Assault,652,Kaggle
+Moradabad,2018,Burglary,272,Kaggle
+Moradabad,2018,Cybercrime,932,Kaggle
+Moradabad,2018,Dowry Deaths,338,Kaggle
+Moradabad,2018,Fraud,204,Kaggle
+Moradabad,2019,Murder,275,Kaggle
+Moradabad,2019,Rape,759,Kaggle
+Moradabad,2019,Kidnapping,1139,Kaggle
+Moradabad,2019,Theft,997,Kaggle
+Moradabad,2019,Robbery,1144,Kaggle
+Moradabad,2019,Assault,1033,Kaggle
+Moradabad,2019,Burglary,826,Kaggle
+Moradabad,2019,Cybercrime,1015,Kaggle
+Moradabad,2019,Dowry Deaths,643,Kaggle
+Moradabad,2019,Fraud,122,Kaggle
+Moradabad,2020,Murder,192,Kaggle
+Moradabad,2020,Rape,272,Kaggle
+Moradabad,2020,Kidnapping,442,Kaggle
+Moradabad,2020,Theft,466,Kaggle
+Moradabad,2020,Robbery,753,Kaggle
+Moradabad,2020,Assault,543,Kaggle
+Moradabad,2020,Burglary,579,Kaggle
+Moradabad,2020,Cybercrime,243,Kaggle
+Moradabad,2020,Dowry Deaths,750,Kaggle
+Moradabad,2020,Fraud,532,Kaggle
+Moradabad,2021,Murder,365,Kaggle
+Moradabad,2021,Rape,1144,Kaggle
+Moradabad,2021,Kidnapping,1002,Kaggle
+Moradabad,2021,Theft,292,Kaggle
+Moradabad,2021,Robbery,639,Kaggle
+Moradabad,2021,Assault,720,Kaggle
+Moradabad,2021,Burglary,543,Kaggle
+Moradabad,2021,Cybercrime,86,Kaggle
+Moradabad,2021,Dowry Deaths,885,Kaggle
+Moradabad,2021,Fraud,473,Kaggle
+Moradabad,2022,Murder,353,Kaggle
+Moradabad,2022,Rape,904,Kaggle
+Moradabad,2022,Kidnapping,370,Kaggle
+Moradabad,2022,Theft,509,Kaggle
+Moradabad,2022,Robbery,404,Kaggle
+Moradabad,2022,Assault,375,Kaggle
+Moradabad,2022,Burglary,502,Kaggle
+Moradabad,2022,Cybercrime,458,Kaggle
+Moradabad,2022,Dowry Deaths,1025,Kaggle
+Moradabad,2022,Fraud,446,Kaggle
+Moradabad,2023,Murder,782,Kaggle
+Moradabad,2023,Rape,1133,Kaggle
+Moradabad,2023,Kidnapping,729,Kaggle
+Moradabad,2023,Theft,88,Kaggle
+Moradabad,2023,Robbery,373,Kaggle
+Moradabad,2023,Assault,308,Kaggle
+Moradabad,2023,Burglary,428,Kaggle
+Moradabad,2023,Cybercrime,420,Kaggle
+Moradabad,2023,Dowry Deaths,497,Kaggle
+Moradabad,2023,Fraud,612,Kaggle
+Noida,2014,Murder,512,Kaggle
+Noida,2014,Rape,60,Kaggle
+Noida,2014,Kidnapping,891,Kaggle
+Noida,2014,Theft,496,Kaggle
+Noida,2014,Robbery,377,Kaggle
+Noida,2014,Assault,143,Kaggle
+Noida,2014,Burglary,630,Kaggle
+Noida,2014,Cybercrime,479,Kaggle
+Noida,2014,Dowry Deaths,423,Kaggle
+Noida,2014,Fraud,529,Kaggle
+Noida,2015,Murder,363,Kaggle
+Noida,2015,Rape,494,Kaggle
+Noida,2015,Kidnapping,1036,Kaggle
+Noida,2015,Theft,259,Kaggle
+Noida,2015,Robbery,1000,Kaggle
+Noida,2015,Assault,731,Kaggle
+Noida,2015,Burglary,125,Kaggle
+Noida,2015,Cybercrime,74,Kaggle
+Noida,2015,Dowry Deaths,822,Kaggle
+Noida,2015,Fraud,71,Kaggle
+Noida,2016,Murder,183,Kaggle
+Noida,2016,Rape,499,Kaggle
+Noida,2016,Kidnapping,387,Kaggle
+Noida,2016,Theft,491,Kaggle
+Noida,2016,Robbery,594,Kaggle
+Noida,2016,Assault,86,Kaggle
+Noida,2016,Burglary,151,Kaggle
+Noida,2016,Cybercrime,284,Kaggle
+Noida,2016,Dowry Deaths,130,Kaggle
+Noida,2016,Fraud,575,Kaggle
+Noida,2017,Murder,880,Kaggle
+Noida,2017,Rape,916,Kaggle
+Noida,2017,Kidnapping,642,Kaggle
+Noida,2017,Theft,1101,Kaggle
+Noida,2017,Robbery,746,Kaggle
+Noida,2017,Assault,1013,Kaggle
+Noida,2017,Burglary,1163,Kaggle
+Noida,2017,Cybercrime,943,Kaggle
+Noida,2017,Dowry Deaths,1100,Kaggle
+Noida,2017,Fraud,812,Kaggle
+Noida,2018,Murder,203,Kaggle
+Noida,2018,Rape,254,Kaggle
+Noida,2018,Kidnapping,285,Kaggle
+Noida,2018,Theft,205,Kaggle
+Noida,2018,Robbery,496,Kaggle
+Noida,2018,Assault,729,Kaggle
+Noida,2018,Burglary,297,Kaggle
+Noida,2018,Cybercrime,758,Kaggle
+Noida,2018,Dowry Deaths,980,Kaggle
+Noida,2018,Fraud,1096,Kaggle
+Noida,2019,Murder,775,Kaggle
+Noida,2019,Rape,62,Kaggle
+Noida,2019,Kidnapping,67,Kaggle
+Noida,2019,Theft,1073,Kaggle
+Noida,2019,Robbery,1057,Kaggle
+Noida,2019,Assault,1112,Kaggle
+Noida,2019,Burglary,195,Kaggle
+Noida,2019,Cybercrime,293,Kaggle
+Noida,2019,Dowry Deaths,104,Kaggle
+Noida,2019,Fraud,997,Kaggle
+Noida,2020,Murder,320,Kaggle
+Noida,2020,Rape,1183,Kaggle
+Noida,2020,Kidnapping,1120,Kaggle
+Noida,2020,Theft,377,Kaggle
+Noida,2020,Robbery,1064,Kaggle
+Noida,2020,Assault,152,Kaggle
+Noida,2020,Burglary,1086,Kaggle
+Noida,2020,Cybercrime,393,Kaggle
+Noida,2020,Dowry Deaths,214,Kaggle
+Noida,2020,Fraud,958,Kaggle
+Noida,2021,Murder,54,Kaggle
+Noida,2021,Rape,807,Kaggle
+Noida,2021,Kidnapping,1073,Kaggle
+Noida,2021,Theft,1008,Kaggle
+Noida,2021,Robbery,979,Kaggle
+Noida,2021,Assault,208,Kaggle
+Noida,2021,Burglary,135,Kaggle
+Noida,2021,Cybercrime,1139,Kaggle
+Noida,2021,Dowry Deaths,974,Kaggle
+Noida,2021,Fraud,246,Kaggle
+Noida,2022,Murder,1166,Kaggle
+Noida,2022,Rape,34,Kaggle
+Noida,2022,Kidnapping,59,Kaggle
+Noida,2022,Theft,1063,Kaggle
+Noida,2022,Robbery,557,Kaggle
+Noida,2022,Assault,872,Kaggle
+Noida,2022,Burglary,78,Kaggle
+Noida,2022,Cybercrime,427,Kaggle
+Noida,2022,Dowry Deaths,812,Kaggle
+Noida,2022,Fraud,793,Kaggle
+Noida,2023,Murder,1083,Kaggle
+Noida,2023,Rape,1092,Kaggle
+Noida,2023,Kidnapping,1011,Kaggle
+Noida,2023,Theft,792,Kaggle
+Noida,2023,Robbery,538,Kaggle
+Noida,2023,Assault,950,Kaggle
+Noida,2023,Burglary,1142,Kaggle
+Noida,2023,Cybercrime,397,Kaggle
+Noida,2023,Dowry Deaths,230,Kaggle
+Noida,2023,Fraud,1099,Kaggle
+Jhansi,2014,Murder,1075,Kaggle
+Jhansi,2014,Rape,297,Kaggle
+Jhansi,2014,Kidnapping,35,Kaggle
+Jhansi,2014,Theft,1169,Kaggle
+Jhansi,2014,Robbery,803,Kaggle
+Jhansi,2014,Assault,314,Kaggle
+Jhansi,2014,Burglary,488,Kaggle
+Jhansi,2014,Cybercrime,768,Kaggle
+Jhansi,2014,Dowry Deaths,419,Kaggle
+Jhansi,2014,Fraud,537,Kaggle
+Jhansi,2015,Murder,1093,Kaggle
+Jhansi,2015,Rape,553,Kaggle
+Jhansi,2015,Kidnapping,691,Kaggle
+Jhansi,2015,Theft,534,Kaggle
+Jhansi,2015,Robbery,625,Kaggle
+Jhansi,2015,Assault,1186,Kaggle
+Jhansi,2015,Burglary,917,Kaggle
+Jhansi,2015,Cybercrime,308,Kaggle
+Jhansi,2015,Dowry Deaths,929,Kaggle
+Jhansi,2015,Fraud,566,Kaggle
+Jhansi,2016,Murder,870,Kaggle
+Jhansi,2016,Rape,176,Kaggle
+Jhansi,2016,Kidnapping,806,Kaggle
+Jhansi,2016,Theft,876,Kaggle
+Jhansi,2016,Robbery,594,Kaggle
+Jhansi,2016,Assault,380,Kaggle
+Jhansi,2016,Burglary,653,Kaggle
+Jhansi,2016,Cybercrime,54,Kaggle
+Jhansi,2016,Dowry Deaths,190,Kaggle
+Jhansi,2016,Fraud,828,Kaggle
+Jhansi,2017,Murder,1189,Kaggle
+Jhansi,2017,Rape,515,Kaggle
+Jhansi,2017,Kidnapping,1175,Kaggle
+Jhansi,2017,Theft,844,Kaggle
+Jhansi,2017,Robbery,489,Kaggle
+Jhansi,2017,Assault,1136,Kaggle
+Jhansi,2017,Burglary,1119,Kaggle
+Jhansi,2017,Cybercrime,618,Kaggle
+Jhansi,2017,Dowry Deaths,640,Kaggle
+Jhansi,2017,Fraud,488,Kaggle
+Jhansi,2018,Murder,919,Kaggle
+Jhansi,2018,Rape,200,Kaggle
+Jhansi,2018,Kidnapping,940,Kaggle
+Jhansi,2018,Theft,90,Kaggle
+Jhansi,2018,Robbery,784,Kaggle
+Jhansi,2018,Assault,300,Kaggle
+Jhansi,2018,Burglary,745,Kaggle
+Jhansi,2018,Cybercrime,266,Kaggle
+Jhansi,2018,Dowry Deaths,335,Kaggle
+Jhansi,2018,Fraud,280,Kaggle
+Jhansi,2019,Murder,1058,Kaggle
+Jhansi,2019,Rape,292,Kaggle
+Jhansi,2019,Kidnapping,75,Kaggle
+Jhansi,2019,Theft,409,Kaggle
+Jhansi,2019,Robbery,933,Kaggle
+Jhansi,2019,Assault,641,Kaggle
+Jhansi,2019,Burglary,180,Kaggle
+Jhansi,2019,Cybercrime,246,Kaggle
+Jhansi,2019,Dowry Deaths,468,Kaggle
+Jhansi,2019,Fraud,952,Kaggle
+Jhansi,2020,Murder,273,Kaggle
+Jhansi,2020,Rape,516,Kaggle
+Jhansi,2020,Kidnapping,243,Kaggle
+Jhansi,2020,Theft,544,Kaggle
+Jhansi,2020,Robbery,687,Kaggle
+Jhansi,2020,Assault,135,Kaggle
+Jhansi,2020,Burglary,1017,Kaggle
+Jhansi,2020,Cybercrime,416,Kaggle
+Jhansi,2020,Dowry Deaths,467,Kaggle
+Jhansi,2020,Fraud,507,Kaggle
+Jhansi,2021,Murder,969,Kaggle
+Jhansi,2021,Rape,323,Kaggle
+Jhansi,2021,Kidnapping,978,Kaggle
+Jhansi,2021,Theft,45,Kaggle
+Jhansi,2021,Robbery,383,Kaggle
+Jhansi,2021,Assault,544,Kaggle
+Jhansi,2021,Burglary,1104,Kaggle
+Jhansi,2021,Cybercrime,963,Kaggle
+Jhansi,2021,Dowry Deaths,671,Kaggle
+Jhansi,2021,Fraud,850,Kaggle
+Jhansi,2022,Murder,696,Kaggle
+Jhansi,2022,Rape,210,Kaggle
+Jhansi,2022,Kidnapping,279,Kaggle
+Jhansi,2022,Theft,59,Kaggle
+Jhansi,2022,Robbery,819,Kaggle
+Jhansi,2022,Assault,650,Kaggle
+Jhansi,2022,Burglary,321,Kaggle
+Jhansi,2022,Cybercrime,178,Kaggle
+Jhansi,2022,Dowry Deaths,1107,Kaggle
+Jhansi,2022,Fraud,479,Kaggle
+Jhansi,2023,Murder,1028,Kaggle
+Jhansi,2023,Rape,708,Kaggle
+Jhansi,2023,Kidnapping,133,Kaggle
+Jhansi,2023,Theft,1042,Kaggle
+Jhansi,2023,Robbery,68,Kaggle
+Jhansi,2023,Assault,82,Kaggle
+Jhansi,2023,Burglary,528,Kaggle
+Jhansi,2023,Cybercrime,404,Kaggle
+Jhansi,2023,Dowry Deaths,959,Kaggle
+Jhansi,2023,Fraud,751,Kaggle
+Ayodhya,2014,Murder,39,Kaggle
+Ayodhya,2014,Rape,826,Kaggle
+Ayodhya,2014,Kidnapping,958,Kaggle
+Ayodhya,2014,Theft,219,Kaggle
+Ayodhya,2014,Robbery,924,Kaggle
+Ayodhya,2014,Assault,40,Kaggle
+Ayodhya,2014,Burglary,1147,Kaggle
+Ayodhya,2014,Cybercrime,661,Kaggle
+Ayodhya,2014,Dowry Deaths,403,Kaggle
+Ayodhya,2014,Fraud,825,Kaggle
+Ayodhya,2015,Murder,1102,Kaggle
+Ayodhya,2015,Rape,605,Kaggle
+Ayodhya,2015,Kidnapping,916,Kaggle
+Ayodhya,2015,Theft,1047,Kaggle
+Ayodhya,2015,Robbery,1002,Kaggle
+Ayodhya,2015,Assault,215,Kaggle
+Ayodhya,2015,Burglary,147,Kaggle
+Ayodhya,2015,Cybercrime,693,Kaggle
+Ayodhya,2015,Dowry Deaths,1023,Kaggle
+Ayodhya,2015,Fraud,729,Kaggle
+Ayodhya,2016,Murder,737,Kaggle
+Ayodhya,2016,Rape,849,Kaggle
+Ayodhya,2016,Kidnapping,833,Kaggle
+Ayodhya,2016,Theft,52,Kaggle
+Ayodhya,2016,Robbery,1185,Kaggle
+Ayodhya,2016,Assault,425,Kaggle
+Ayodhya,2016,Burglary,126,Kaggle
+Ayodhya,2016,Cybercrime,910,Kaggle
+Ayodhya,2016,Dowry Deaths,344,Kaggle
+Ayodhya,2016,Fraud,1056,Kaggle
+Ayodhya,2017,Murder,468,Kaggle
+Ayodhya,2017,Rape,275,Kaggle
+Ayodhya,2017,Kidnapping,373,Kaggle
+Ayodhya,2017,Theft,457,Kaggle
+Ayodhya,2017,Robbery,337,Kaggle
+Ayodhya,2017,Assault,737,Kaggle
+Ayodhya,2017,Burglary,947,Kaggle
+Ayodhya,2017,Cybercrime,273,Kaggle
+Ayodhya,2017,Dowry Deaths,90,Kaggle
+Ayodhya,2017,Fraud,630,Kaggle
+Ayodhya,2018,Murder,865,Kaggle
+Ayodhya,2018,Rape,47,Kaggle
+Ayodhya,2018,Kidnapping,992,Kaggle
+Ayodhya,2018,Theft,989,Kaggle
+Ayodhya,2018,Robbery,551,Kaggle
+Ayodhya,2018,Assault,973,Kaggle
+Ayodhya,2018,Burglary,821,Kaggle
+Ayodhya,2018,Cybercrime,104,Kaggle
+Ayodhya,2018,Dowry Deaths,311,Kaggle
+Ayodhya,2018,Fraud,1160,Kaggle
+Ayodhya,2019,Murder,1135,Kaggle
+Ayodhya,2019,Rape,419,Kaggle
+Ayodhya,2019,Kidnapping,117,Kaggle
+Ayodhya,2019,Theft,314,Kaggle
+Ayodhya,2019,Robbery,402,Kaggle
+Ayodhya,2019,Assault,421,Kaggle
+Ayodhya,2019,Burglary,167,Kaggle
+Ayodhya,2019,Cybercrime,935,Kaggle
+Ayodhya,2019,Dowry Deaths,692,Kaggle
+Ayodhya,2019,Fraud,440,Kaggle
+Ayodhya,2020,Murder,1067,Kaggle
+Ayodhya,2020,Rape,409,Kaggle
+Ayodhya,2020,Kidnapping,427,Kaggle
+Ayodhya,2020,Theft,1177,Kaggle
+Ayodhya,2020,Robbery,66,Kaggle
+Ayodhya,2020,Assault,981,Kaggle
+Ayodhya,2020,Burglary,497,Kaggle
+Ayodhya,2020,Cybercrime,901,Kaggle
+Ayodhya,2020,Dowry Deaths,1070,Kaggle
+Ayodhya,2020,Fraud,142,Kaggle
+Ayodhya,2021,Murder,1005,Kaggle
+Ayodhya,2021,Rape,478,Kaggle
+Ayodhya,2021,Kidnapping,269,Kaggle
+Ayodhya,2021,Theft,615,Kaggle
+Ayodhya,2021,Robbery,718,Kaggle
+Ayodhya,2021,Assault,657,Kaggle
+Ayodhya,2021,Burglary,482,Kaggle
+Ayodhya,2021,Cybercrime,355,Kaggle
+Ayodhya,2021,Dowry Deaths,330,Kaggle
+Ayodhya,2021,Fraud,343,Kaggle
+Ayodhya,2022,Murder,40,Kaggle
+Ayodhya,2022,Rape,1017,Kaggle
+Ayodhya,2022,Kidnapping,1168,Kaggle
+Ayodhya,2022,Theft,565,Kaggle
+Ayodhya,2022,Robbery,222,Kaggle
+Ayodhya,2022,Assault,791,Kaggle
+Ayodhya,2022,Burglary,811,Kaggle
+Ayodhya,2022,Cybercrime,258,Kaggle
+Ayodhya,2022,Dowry Deaths,789,Kaggle
+Ayodhya,2022,Fraud,1075,Kaggle
+Ayodhya,2023,Murder,578,Kaggle
+Ayodhya,2023,Rape,428,Kaggle
+Ayodhya,2023,Kidnapping,67,Kaggle
+Ayodhya,2023,Theft,383,Kaggle
+Ayodhya,2023,Robbery,121,Kaggle
+Ayodhya,2023,Assault,982,Kaggle
+Ayodhya,2023,Burglary,488,Kaggle
+Ayodhya,2023,Cybercrime,471,Kaggle
+Ayodhya,2023,Dowry Deaths,893,Kaggle
+Ayodhya,2023,Fraud,183,Kaggle
+Mathura,2014,Murder,432,Kaggle
+Mathura,2014,Rape,181,Kaggle
+Mathura,2014,Kidnapping,420,Kaggle
+Mathura,2014,Theft,453,Kaggle
+Mathura,2014,Robbery,577,Kaggle
+Mathura,2014,Assault,943,Kaggle
+Mathura,2014,Burglary,285,Kaggle
+Mathura,2014,Cybercrime,694,Kaggle
+Mathura,2014,Dowry Deaths,458,Kaggle
+Mathura,2014,Fraud,757,Kaggle
+Mathura,2015,Murder,167,Kaggle
+Mathura,2015,Rape,987,Kaggle
+Mathura,2015,Kidnapping,62,Kaggle
+Mathura,2015,Theft,603,Kaggle
+Mathura,2015,Robbery,387,Kaggle
+Mathura,2015,Assault,476,Kaggle
+Mathura,2015,Burglary,838,Kaggle
+Mathura,2015,Cybercrime,877,Kaggle
+Mathura,2015,Dowry Deaths,1039,Kaggle
+Mathura,2015,Fraud,474,Kaggle
+Mathura,2016,Murder,1156,Kaggle
+Mathura,2016,Rape,1199,Kaggle
+Mathura,2016,Kidnapping,938,Kaggle
+Mathura,2016,Theft,904,Kaggle
+Mathura,2016,Robbery,1098,Kaggle
+Mathura,2016,Assault,425,Kaggle
+Mathura,2016,Burglary,933,Kaggle
+Mathura,2016,Cybercrime,558,Kaggle
+Mathura,2016,Dowry Deaths,81,Kaggle
+Mathura,2016,Fraud,192,Kaggle
+Mathura,2017,Murder,679,Kaggle
+Mathura,2017,Rape,1162,Kaggle
+Mathura,2017,Kidnapping,715,Kaggle
+Mathura,2017,Theft,1013,Kaggle
+Mathura,2017,Robbery,185,Kaggle
+Mathura,2017,Assault,277,Kaggle
+Mathura,2017,Burglary,547,Kaggle
+Mathura,2017,Cybercrime,511,Kaggle
+Mathura,2017,Dowry Deaths,1190,Kaggle
+Mathura,2017,Fraud,1054,Kaggle
+Mathura,2018,Murder,1046,Kaggle
+Mathura,2018,Rape,113,Kaggle
+Mathura,2018,Kidnapping,34,Kaggle
+Mathura,2018,Theft,839,Kaggle
+Mathura,2018,Robbery,550,Kaggle
+Mathura,2018,Assault,174,Kaggle
+Mathura,2018,Burglary,49,Kaggle
+Mathura,2018,Cybercrime,200,Kaggle
+Mathura,2018,Dowry Deaths,1151,Kaggle
+Mathura,2018,Fraud,42,Kaggle
+Mathura,2019,Murder,1139,Kaggle
+Mathura,2019,Rape,635,Kaggle
+Mathura,2019,Kidnapping,180,Kaggle
+Mathura,2019,Theft,125,Kaggle
+Mathura,2019,Robbery,633,Kaggle
+Mathura,2019,Assault,469,Kaggle
+Mathura,2019,Burglary,955,Kaggle
+Mathura,2019,Cybercrime,504,Kaggle
+Mathura,2019,Dowry Deaths,353,Kaggle
+Mathura,2019,Fraud,221,Kaggle
+Mathura,2020,Murder,1025,Kaggle
+Mathura,2020,Rape,890,Kaggle
+Mathura,2020,Kidnapping,1108,Kaggle
+Mathura,2020,Theft,69,Kaggle
+Mathura,2020,Robbery,20,Kaggle
+Mathura,2020,Assault,532,Kaggle
+Mathura,2020,Burglary,977,Kaggle
+Mathura,2020,Cybercrime,808,Kaggle
+Mathura,2020,Dowry Deaths,920,Kaggle
+Mathura,2020,Fraud,473,Kaggle
+Mathura,2021,Murder,1127,Kaggle
+Mathura,2021,Rape,1083,Kaggle
+Mathura,2021,Kidnapping,196,Kaggle
+Mathura,2021,Theft,579,Kaggle
+Mathura,2021,Robbery,850,Kaggle
+Mathura,2021,Assault,976,Kaggle
+Mathura,2021,Burglary,736,Kaggle
+Mathura,2021,Cybercrime,39,Kaggle
+Mathura,2021,Dowry Deaths,356,Kaggle
+Mathura,2021,Fraud,1001,Kaggle
+Mathura,2022,Murder,1140,Kaggle
+Mathura,2022,Rape,96,Kaggle
+Mathura,2022,Kidnapping,491,Kaggle
+Mathura,2022,Theft,112,Kaggle
+Mathura,2022,Robbery,990,Kaggle
+Mathura,2022,Assault,249,Kaggle
+Mathura,2022,Burglary,588,Kaggle
+Mathura,2022,Cybercrime,773,Kaggle
+Mathura,2022,Dowry Deaths,47,Kaggle
+Mathura,2022,Fraud,744,Kaggle
+Mathura,2023,Murder,29,Kaggle
+Mathura,2023,Rape,903,Kaggle
+Mathura,2023,Kidnapping,1098,Kaggle
+Mathura,2023,Theft,530,Kaggle
+Mathura,2023,Robbery,839,Kaggle
+Mathura,2023,Assault,1005,Kaggle
+Mathura,2023,Burglary,598,Kaggle
+Mathura,2023,Cybercrime,877,Kaggle
+Mathura,2023,Dowry Deaths,1136,Kaggle
+Mathura,2023,Fraud,187,Kaggle
+Shahjahanpur,2014,Murder,549,Kaggle
+Shahjahanpur,2014,Rape,782,Kaggle
+Shahjahanpur,2014,Kidnapping,492,Kaggle
+Shahjahanpur,2014,Theft,1107,Kaggle
+Shahjahanpur,2014,Robbery,131,Kaggle
+Shahjahanpur,2014,Assault,298,Kaggle
+Shahjahanpur,2014,Burglary,1164,Kaggle
+Shahjahanpur,2014,Cybercrime,539,Kaggle
+Shahjahanpur,2014,Dowry Deaths,1050,Kaggle
+Shahjahanpur,2014,Fraud,1096,Kaggle
+Shahjahanpur,2015,Murder,418,Kaggle
+Shahjahanpur,2015,Rape,743,Kaggle
+Shahjahanpur,2015,Kidnapping,868,Kaggle
+Shahjahanpur,2015,Theft,327,Kaggle
+Shahjahanpur,2015,Robbery,446,Kaggle
+Shahjahanpur,2015,Assault,108,Kaggle
+Shahjahanpur,2015,Burglary,381,Kaggle
+Shahjahanpur,2015,Cybercrime,952,Kaggle
+Shahjahanpur,2015,Dowry Deaths,204,Kaggle
+Shahjahanpur,2015,Fraud,1175,Kaggle
+Shahjahanpur,2016,Murder,326,Kaggle
+Shahjahanpur,2016,Rape,521,Kaggle
+Shahjahanpur,2016,Kidnapping,88,Kaggle
+Shahjahanpur,2016,Theft,458,Kaggle
+Shahjahanpur,2016,Robbery,869,Kaggle
+Shahjahanpur,2016,Assault,979,Kaggle
+Shahjahanpur,2016,Burglary,1096,Kaggle
+Shahjahanpur,2016,Cybercrime,1031,Kaggle
+Shahjahanpur,2016,Dowry Deaths,1192,Kaggle
+Shahjahanpur,2016,Fraud,629,Kaggle
+Shahjahanpur,2017,Murder,1157,Kaggle
+Shahjahanpur,2017,Rape,159,Kaggle
+Shahjahanpur,2017,Kidnapping,577,Kaggle
+Shahjahanpur,2017,Theft,849,Kaggle
+Shahjahanpur,2017,Robbery,1013,Kaggle
+Shahjahanpur,2017,Assault,926,Kaggle
+Shahjahanpur,2017,Burglary,249,Kaggle
+Shahjahanpur,2017,Cybercrime,75,Kaggle
+Shahjahanpur,2017,Dowry Deaths,940,Kaggle
+Shahjahanpur,2017,Fraud,377,Kaggle
+Shahjahanpur,2018,Murder,1013,Kaggle
+Shahjahanpur,2018,Rape,301,Kaggle
+Shahjahanpur,2018,Kidnapping,91,Kaggle
+Shahjahanpur,2018,Theft,1132,Kaggle
+Shahjahanpur,2018,Robbery,215,Kaggle
+Shahjahanpur,2018,Assault,710,Kaggle
+Shahjahanpur,2018,Burglary,81,Kaggle
+Shahjahanpur,2018,Cybercrime,88,Kaggle
+Shahjahanpur,2018,Dowry Deaths,745,Kaggle
+Shahjahanpur,2018,Fraud,663,Kaggle
+Shahjahanpur,2019,Murder,385,Kaggle
+Shahjahanpur,2019,Rape,576,Kaggle
+Shahjahanpur,2019,Kidnapping,681,Kaggle
+Shahjahanpur,2019,Theft,911,Kaggle
+Shahjahanpur,2019,Robbery,532,Kaggle
+Shahjahanpur,2019,Assault,143,Kaggle
+Shahjahanpur,2019,Burglary,805,Kaggle
+Shahjahanpur,2019,Cybercrime,1132,Kaggle
+Shahjahanpur,2019,Dowry Deaths,415,Kaggle
+Shahjahanpur,2019,Fraud,1067,Kaggle
+Shahjahanpur,2020,Murder,364,Kaggle
+Shahjahanpur,2020,Rape,606,Kaggle
+Shahjahanpur,2020,Kidnapping,463,Kaggle
+Shahjahanpur,2020,Theft,92,Kaggle
+Shahjahanpur,2020,Robbery,476,Kaggle
+Shahjahanpur,2020,Assault,1197,Kaggle
+Shahjahanpur,2020,Burglary,526,Kaggle
+Shahjahanpur,2020,Cybercrime,471,Kaggle
+Shahjahanpur,2020,Dowry Deaths,510,Kaggle
+Shahjahanpur,2020,Fraud,1120,Kaggle
+Shahjahanpur,2021,Murder,318,Kaggle
+Shahjahanpur,2021,Rape,706,Kaggle
+Shahjahanpur,2021,Kidnapping,269,Kaggle
+Shahjahanpur,2021,Theft,1089,Kaggle
+Shahjahanpur,2021,Robbery,558,Kaggle
+Shahjahanpur,2021,Assault,1068,Kaggle
+Shahjahanpur,2021,Burglary,763,Kaggle
+Shahjahanpur,2021,Cybercrime,557,Kaggle
+Shahjahanpur,2021,Dowry Deaths,518,Kaggle
+Shahjahanpur,2021,Fraud,490,Kaggle
+Shahjahanpur,2022,Murder,1074,Kaggle
+Shahjahanpur,2022,Rape,1005,Kaggle
+Shahjahanpur,2022,Kidnapping,323,Kaggle
+Shahjahanpur,2022,Theft,567,Kaggle
+Shahjahanpur,2022,Robbery,369,Kaggle
+Shahjahanpur,2022,Assault,331,Kaggle
+Shahjahanpur,2022,Burglary,1158,Kaggle
+Shahjahanpur,2022,Cybercrime,377,Kaggle
+Shahjahanpur,2022,Dowry Deaths,981,Kaggle
+Shahjahanpur,2022,Fraud,156,Kaggle
+Shahjahanpur,2023,Murder,170,Kaggle
+Shahjahanpur,2023,Rape,1044,Kaggle
+Shahjahanpur,2023,Kidnapping,917,Kaggle
+Shahjahanpur,2023,Theft,842,Kaggle
+Shahjahanpur,2023,Robbery,437,Kaggle
+Shahjahanpur,2023,Assault,241,Kaggle
+Shahjahanpur,2023,Burglary,300,Kaggle
+Shahjahanpur,2023,Cybercrime,861,Kaggle
+Shahjahanpur,2023,Dowry Deaths,625,Kaggle
+Shahjahanpur,2023,Fraud,1138,Kaggle
+Sitapur,2014,Murder,344,Kaggle
+Sitapur,2014,Rape,989,Kaggle
+Sitapur,2014,Kidnapping,854,Kaggle
+Sitapur,2014,Theft,1107,Kaggle
+Sitapur,2014,Robbery,968,Kaggle
+Sitapur,2014,Assault,572,Kaggle
+Sitapur,2014,Burglary,992,Kaggle
+Sitapur,2014,Cybercrime,473,Kaggle
+Sitapur,2014,Dowry Deaths,353,Kaggle
+Sitapur,2014,Fraud,103,Kaggle
+Sitapur,2015,Murder,772,Kaggle
+Sitapur,2015,Rape,115,Kaggle
+Sitapur,2015,Kidnapping,255,Kaggle
+Sitapur,2015,Theft,434,Kaggle
+Sitapur,2015,Robbery,24,Kaggle
+Sitapur,2015,Assault,1046,Kaggle
+Sitapur,2015,Burglary,561,Kaggle
+Sitapur,2015,Cybercrime,81,Kaggle
+Sitapur,2015,Dowry Deaths,1012,Kaggle
+Sitapur,2015,Fraud,34,Kaggle
+Sitapur,2016,Murder,91,Kaggle
+Sitapur,2016,Rape,939,Kaggle
+Sitapur,2016,Kidnapping,625,Kaggle
+Sitapur,2016,Theft,927,Kaggle
+Sitapur,2016,Robbery,432,Kaggle
+Sitapur,2016,Assault,602,Kaggle
+Sitapur,2016,Burglary,1160,Kaggle
+Sitapur,2016,Cybercrime,120,Kaggle
+Sitapur,2016,Dowry Deaths,759,Kaggle
+Sitapur,2016,Fraud,1095,Kaggle
+Sitapur,2017,Murder,1080,Kaggle
+Sitapur,2017,Rape,748,Kaggle
+Sitapur,2017,Kidnapping,82,Kaggle
+Sitapur,2017,Theft,717,Kaggle
+Sitapur,2017,Robbery,929,Kaggle
+Sitapur,2017,Assault,1134,Kaggle
+Sitapur,2017,Burglary,400,Kaggle
+Sitapur,2017,Cybercrime,938,Kaggle
+Sitapur,2017,Dowry Deaths,753,Kaggle
+Sitapur,2017,Fraud,45,Kaggle
+Sitapur,2018,Murder,574,Kaggle
+Sitapur,2018,Rape,754,Kaggle
+Sitapur,2018,Kidnapping,541,Kaggle
+Sitapur,2018,Theft,192,Kaggle
+Sitapur,2018,Robbery,636,Kaggle
+Sitapur,2018,Assault,870,Kaggle
+Sitapur,2018,Burglary,754,Kaggle
+Sitapur,2018,Cybercrime,182,Kaggle
+Sitapur,2018,Dowry Deaths,732,Kaggle
+Sitapur,2018,Fraud,1092,Kaggle
+Sitapur,2019,Murder,274,Kaggle
+Sitapur,2019,Rape,579,Kaggle
+Sitapur,2019,Kidnapping,899,Kaggle
+Sitapur,2019,Theft,201,Kaggle
+Sitapur,2019,Robbery,786,Kaggle
+Sitapur,2019,Assault,208,Kaggle
+Sitapur,2019,Burglary,315,Kaggle
+Sitapur,2019,Cybercrime,1065,Kaggle
+Sitapur,2019,Dowry Deaths,1144,Kaggle
+Sitapur,2019,Fraud,318,Kaggle
+Sitapur,2020,Murder,295,Kaggle
+Sitapur,2020,Rape,565,Kaggle
+Sitapur,2020,Kidnapping,1019,Kaggle
+Sitapur,2020,Theft,409,Kaggle
+Sitapur,2020,Robbery,895,Kaggle
+Sitapur,2020,Assault,1100,Kaggle
+Sitapur,2020,Burglary,60,Kaggle
+Sitapur,2020,Cybercrime,1091,Kaggle
+Sitapur,2020,Dowry Deaths,168,Kaggle
+Sitapur,2020,Fraud,29,Kaggle
+Sitapur,2021,Murder,547,Kaggle
+Sitapur,2021,Rape,100,Kaggle
+Sitapur,2021,Kidnapping,328,Kaggle
+Sitapur,2021,Theft,201,Kaggle
+Sitapur,2021,Robbery,245,Kaggle
+Sitapur,2021,Assault,834,Kaggle
+Sitapur,2021,Burglary,1142,Kaggle
+Sitapur,2021,Cybercrime,939,Kaggle
+Sitapur,2021,Dowry Deaths,1145,Kaggle
+Sitapur,2021,Fraud,1169,Kaggle
+Sitapur,2022,Murder,1103,Kaggle
+Sitapur,2022,Rape,903,Kaggle
+Sitapur,2022,Kidnapping,1047,Kaggle
+Sitapur,2022,Theft,158,Kaggle
+Sitapur,2022,Robbery,191,Kaggle
+Sitapur,2022,Assault,526,Kaggle
+Sitapur,2022,Burglary,853,Kaggle
+Sitapur,2022,Cybercrime,539,Kaggle
+Sitapur,2022,Dowry Deaths,746,Kaggle
+Sitapur,2022,Fraud,297,Kaggle
+Sitapur,2023,Murder,42,Kaggle
+Sitapur,2023,Rape,1141,Kaggle
+Sitapur,2023,Kidnapping,184,Kaggle
+Sitapur,2023,Theft,389,Kaggle
+Sitapur,2023,Robbery,372,Kaggle
+Sitapur,2023,Assault,725,Kaggle
+Sitapur,2023,Burglary,127,Kaggle
+Sitapur,2023,Cybercrime,984,Kaggle
+Sitapur,2023,Dowry Deaths,738,Kaggle
+Sitapur,2023,Fraud,848,Kaggle
+Raebareli,2014,Murder,537,Kaggle
+Raebareli,2014,Rape,841,Kaggle
+Raebareli,2014,Kidnapping,969,Kaggle
+Raebareli,2014,Theft,1083,Kaggle
+Raebareli,2014,Robbery,183,Kaggle
+Raebareli,2014,Assault,161,Kaggle
+Raebareli,2014,Burglary,618,Kaggle
+Raebareli,2014,Cybercrime,606,Kaggle
+Raebareli,2014,Dowry Deaths,657,Kaggle
+Raebareli,2014,Fraud,290,Kaggle
+Raebareli,2015,Murder,236,Kaggle
+Raebareli,2015,Rape,564,Kaggle
+Raebareli,2015,Kidnapping,765,Kaggle
+Raebareli,2015,Theft,206,Kaggle
+Raebareli,2015,Robbery,310,Kaggle
+Raebareli,2015,Assault,403,Kaggle
+Raebareli,2015,Burglary,1186,Kaggle
+Raebareli,2015,Cybercrime,1030,Kaggle
+Raebareli,2015,Dowry Deaths,393,Kaggle
+Raebareli,2015,Fraud,152,Kaggle
+Raebareli,2016,Murder,587,Kaggle
+Raebareli,2016,Rape,479,Kaggle
+Raebareli,2016,Kidnapping,904,Kaggle
+Raebareli,2016,Theft,936,Kaggle
+Raebareli,2016,Robbery,176,Kaggle
+Raebareli,2016,Assault,191,Kaggle
+Raebareli,2016,Burglary,758,Kaggle
+Raebareli,2016,Cybercrime,118,Kaggle
+Raebareli,2016,Dowry Deaths,889,Kaggle
+Raebareli,2016,Fraud,1065,Kaggle
+Raebareli,2017,Murder,778,Kaggle
+Raebareli,2017,Rape,104,Kaggle
+Raebareli,2017,Kidnapping,397,Kaggle
+Raebareli,2017,Theft,492,Kaggle
+Raebareli,2017,Robbery,567,Kaggle
+Raebareli,2017,Assault,1179,Kaggle
+Raebareli,2017,Burglary,673,Kaggle
+Raebareli,2017,Cybercrime,1019,Kaggle
+Raebareli,2017,Dowry Deaths,164,Kaggle
+Raebareli,2017,Fraud,1175,Kaggle
+Raebareli,2018,Murder,700,Kaggle
+Raebareli,2018,Rape,310,Kaggle
+Raebareli,2018,Kidnapping,468,Kaggle
+Raebareli,2018,Theft,1025,Kaggle
+Raebareli,2018,Robbery,324,Kaggle
+Raebareli,2018,Assault,178,Kaggle
+Raebareli,2018,Burglary,474,Kaggle
+Raebareli,2018,Cybercrime,509,Kaggle
+Raebareli,2018,Dowry Deaths,1180,Kaggle
+Raebareli,2018,Fraud,909,Kaggle
+Raebareli,2019,Murder,957,Kaggle
+Raebareli,2019,Rape,864,Kaggle
+Raebareli,2019,Kidnapping,517,Kaggle
+Raebareli,2019,Theft,79,Kaggle
+Raebareli,2019,Robbery,843,Kaggle
+Raebareli,2019,Assault,359,Kaggle
+Raebareli,2019,Burglary,214,Kaggle
+Raebareli,2019,Cybercrime,865,Kaggle
+Raebareli,2019,Dowry Deaths,500,Kaggle
+Raebareli,2019,Fraud,253,Kaggle
+Raebareli,2020,Murder,782,Kaggle
+Raebareli,2020,Rape,1162,Kaggle
+Raebareli,2020,Kidnapping,251,Kaggle
+Raebareli,2020,Theft,823,Kaggle
+Raebareli,2020,Robbery,250,Kaggle
+Raebareli,2020,Assault,471,Kaggle
+Raebareli,2020,Burglary,1117,Kaggle
+Raebareli,2020,Cybercrime,964,Kaggle
+Raebareli,2020,Dowry Deaths,839,Kaggle
+Raebareli,2020,Fraud,182,Kaggle
+Raebareli,2021,Murder,538,Kaggle
+Raebareli,2021,Rape,750,Kaggle
+Raebareli,2021,Kidnapping,428,Kaggle
+Raebareli,2021,Theft,1033,Kaggle
+Raebareli,2021,Robbery,329,Kaggle
+Raebareli,2021,Assault,1122,Kaggle
+Raebareli,2021,Burglary,874,Kaggle
+Raebareli,2021,Cybercrime,289,Kaggle
+Raebareli,2021,Dowry Deaths,1196,Kaggle
+Raebareli,2021,Fraud,608,Kaggle
+Raebareli,2022,Murder,979,Kaggle
+Raebareli,2022,Rape,133,Kaggle
+Raebareli,2022,Kidnapping,674,Kaggle
+Raebareli,2022,Theft,729,Kaggle
+Raebareli,2022,Robbery,1122,Kaggle
+Raebareli,2022,Assault,487,Kaggle
+Raebareli,2022,Burglary,793,Kaggle
+Raebareli,2022,Cybercrime,753,Kaggle
+Raebareli,2022,Dowry Deaths,834,Kaggle
+Raebareli,2022,Fraud,1066,Kaggle
+Raebareli,2023,Murder,93,Kaggle
+Raebareli,2023,Rape,210,Kaggle
+Raebareli,2023,Kidnapping,1039,Kaggle
+Raebareli,2023,Theft,595,Kaggle
+Raebareli,2023,Robbery,613,Kaggle
+Raebareli,2023,Assault,430,Kaggle
+Raebareli,2023,Burglary,1087,Kaggle
+Raebareli,2023,Cybercrime,1072,Kaggle
+Raebareli,2023,Dowry Deaths,307,Kaggle
+Raebareli,2023,Fraud,533,Kaggle
+Saharanpur,2014,Murder,1093,Kaggle
+Saharanpur,2014,Rape,472,Kaggle
+Saharanpur,2014,Kidnapping,803,Kaggle
+Saharanpur,2014,Theft,1014,Kaggle
+Saharanpur,2014,Robbery,812,Kaggle
+Saharanpur,2014,Assault,251,Kaggle
+Saharanpur,2014,Burglary,47,Kaggle
+Saharanpur,2014,Cybercrime,37,Kaggle
+Saharanpur,2014,Dowry Deaths,495,Kaggle
+Saharanpur,2014,Fraud,598,Kaggle
+Saharanpur,2015,Murder,530,Kaggle
+Saharanpur,2015,Rape,748,Kaggle
+Saharanpur,2015,Kidnapping,717,Kaggle
+Saharanpur,2015,Theft,572,Kaggle
+Saharanpur,2015,Robbery,735,Kaggle
+Saharanpur,2015,Assault,920,Kaggle
+Saharanpur,2015,Burglary,708,Kaggle
+Saharanpur,2015,Cybercrime,964,Kaggle
+Saharanpur,2015,Dowry Deaths,1141,Kaggle
+Saharanpur,2015,Fraud,936,Kaggle
+Saharanpur,2016,Murder,215,Kaggle
+Saharanpur,2016,Rape,1056,Kaggle
+Saharanpur,2016,Kidnapping,785,Kaggle
+Saharanpur,2016,Theft,1032,Kaggle
+Saharanpur,2016,Robbery,442,Kaggle
+Saharanpur,2016,Assault,916,Kaggle
+Saharanpur,2016,Burglary,402,Kaggle
+Saharanpur,2016,Cybercrime,583,Kaggle
+Saharanpur,2016,Dowry Deaths,711,Kaggle
+Saharanpur,2016,Fraud,403,Kaggle
+Saharanpur,2017,Murder,1154,Kaggle
+Saharanpur,2017,Rape,970,Kaggle
+Saharanpur,2017,Kidnapping,276,Kaggle
+Saharanpur,2017,Theft,1114,Kaggle
+Saharanpur,2017,Robbery,521,Kaggle
+Saharanpur,2017,Assault,747,Kaggle
+Saharanpur,2017,Burglary,95,Kaggle
+Saharanpur,2017,Cybercrime,1030,Kaggle
+Saharanpur,2017,Dowry Deaths,152,Kaggle
+Saharanpur,2017,Fraud,942,Kaggle
+Saharanpur,2018,Murder,841,Kaggle
+Saharanpur,2018,Rape,416,Kaggle
+Saharanpur,2018,Kidnapping,1098,Kaggle
+Saharanpur,2018,Theft,124,Kaggle
+Saharanpur,2018,Robbery,390,Kaggle
+Saharanpur,2018,Assault,138,Kaggle
+Saharanpur,2018,Burglary,672,Kaggle
+Saharanpur,2018,Cybercrime,528,Kaggle
+Saharanpur,2018,Dowry Deaths,1179,Kaggle
+Saharanpur,2018,Fraud,514,Kaggle
+Saharanpur,2019,Murder,253,Kaggle
+Saharanpur,2019,Rape,87,Kaggle
+Saharanpur,2019,Kidnapping,691,Kaggle
+Saharanpur,2019,Theft,250,Kaggle
+Saharanpur,2019,Robbery,1036,Kaggle
+Saharanpur,2019,Assault,34,Kaggle
+Saharanpur,2019,Burglary,1133,Kaggle
+Saharanpur,2019,Cybercrime,235,Kaggle
+Saharanpur,2019,Dowry Deaths,189,Kaggle
+Saharanpur,2019,Fraud,109,Kaggle
+Saharanpur,2020,Murder,600,Kaggle
+Saharanpur,2020,Rape,47,Kaggle
+Saharanpur,2020,Kidnapping,104,Kaggle
+Saharanpur,2020,Theft,442,Kaggle
+Saharanpur,2020,Robbery,425,Kaggle
+Saharanpur,2020,Assault,1153,Kaggle
+Saharanpur,2020,Burglary,172,Kaggle
+Saharanpur,2020,Cybercrime,926,Kaggle
+Saharanpur,2020,Dowry Deaths,646,Kaggle
+Saharanpur,2020,Fraud,84,Kaggle
+Saharanpur,2021,Murder,315,Kaggle
+Saharanpur,2021,Rape,1126,Kaggle
+Saharanpur,2021,Kidnapping,969,Kaggle
+Saharanpur,2021,Theft,303,Kaggle
+Saharanpur,2021,Robbery,811,Kaggle
+Saharanpur,2021,Assault,262,Kaggle
+Saharanpur,2021,Burglary,662,Kaggle
+Saharanpur,2021,Cybercrime,599,Kaggle
+Saharanpur,2021,Dowry Deaths,603,Kaggle
+Saharanpur,2021,Fraud,550,Kaggle
+Saharanpur,2022,Murder,837,Kaggle
+Saharanpur,2022,Rape,477,Kaggle
+Saharanpur,2022,Kidnapping,841,Kaggle
+Saharanpur,2022,Theft,303,Kaggle
+Saharanpur,2022,Robbery,938,Kaggle
+Saharanpur,2022,Assault,177,Kaggle
+Saharanpur,2022,Burglary,1001,Kaggle
+Saharanpur,2022,Cybercrime,733,Kaggle
+Saharanpur,2022,Dowry Deaths,201,Kaggle
+Saharanpur,2022,Fraud,240,Kaggle
+Saharanpur,2023,Murder,140,Kaggle
+Saharanpur,2023,Rape,214,Kaggle
+Saharanpur,2023,Kidnapping,625,Kaggle
+Saharanpur,2023,Theft,936,Kaggle
+Saharanpur,2023,Robbery,449,Kaggle
+Saharanpur,2023,Assault,321,Kaggle
+Saharanpur,2023,Burglary,1134,Kaggle
+Saharanpur,2023,Cybercrime,469,Kaggle
+Saharanpur,2023,Dowry Deaths,978,Kaggle
+Saharanpur,2023,Fraud,638,Kaggle
+Firozabad,2014,Murder,390,Kaggle
+Firozabad,2014,Rape,481,Kaggle
+Firozabad,2014,Kidnapping,948,Kaggle
+Firozabad,2014,Theft,983,Kaggle
+Firozabad,2014,Robbery,1193,Kaggle
+Firozabad,2014,Assault,410,Kaggle
+Firozabad,2014,Burglary,343,Kaggle
+Firozabad,2014,Cybercrime,923,Kaggle
+Firozabad,2014,Dowry Deaths,195,Kaggle
+Firozabad,2014,Fraud,592,Kaggle
+Firozabad,2015,Murder,539,Kaggle
+Firozabad,2015,Rape,409,Kaggle
+Firozabad,2015,Kidnapping,162,Kaggle
+Firozabad,2015,Theft,764,Kaggle
+Firozabad,2015,Robbery,287,Kaggle
+Firozabad,2015,Assault,1073,Kaggle
+Firozabad,2015,Burglary,108,Kaggle
+Firozabad,2015,Cybercrime,919,Kaggle
+Firozabad,2015,Dowry Deaths,807,Kaggle
+Firozabad,2015,Fraud,754,Kaggle
+Firozabad,2016,Murder,60,Kaggle
+Firozabad,2016,Rape,1064,Kaggle
+Firozabad,2016,Kidnapping,111,Kaggle
+Firozabad,2016,Theft,626,Kaggle
+Firozabad,2016,Robbery,718,Kaggle
+Firozabad,2016,Assault,1034,Kaggle
+Firozabad,2016,Burglary,923,Kaggle
+Firozabad,2016,Cybercrime,592,Kaggle
+Firozabad,2016,Dowry Deaths,322,Kaggle
+Firozabad,2016,Fraud,699,Kaggle
+Firozabad,2017,Murder,297,Kaggle
+Firozabad,2017,Rape,243,Kaggle
+Firozabad,2017,Kidnapping,227,Kaggle
+Firozabad,2017,Theft,754,Kaggle
+Firozabad,2017,Robbery,475,Kaggle
+Firozabad,2017,Assault,724,Kaggle
+Firozabad,2017,Burglary,80,Kaggle
+Firozabad,2017,Cybercrime,756,Kaggle
+Firozabad,2017,Dowry Deaths,730,Kaggle
+Firozabad,2017,Fraud,279,Kaggle
+Firozabad,2018,Murder,573,Kaggle
+Firozabad,2018,Rape,615,Kaggle
+Firozabad,2018,Kidnapping,1026,Kaggle
+Firozabad,2018,Theft,731,Kaggle
+Firozabad,2018,Robbery,786,Kaggle
+Firozabad,2018,Assault,1038,Kaggle
+Firozabad,2018,Burglary,146,Kaggle
+Firozabad,2018,Cybercrime,470,Kaggle
+Firozabad,2018,Dowry Deaths,600,Kaggle
+Firozabad,2018,Fraud,920,Kaggle
+Firozabad,2019,Murder,127,Kaggle
+Firozabad,2019,Rape,122,Kaggle
+Firozabad,2019,Kidnapping,353,Kaggle
+Firozabad,2019,Theft,595,Kaggle
+Firozabad,2019,Robbery,130,Kaggle
+Firozabad,2019,Assault,876,Kaggle
+Firozabad,2019,Burglary,206,Kaggle
+Firozabad,2019,Cybercrime,1169,Kaggle
+Firozabad,2019,Dowry Deaths,610,Kaggle
+Firozabad,2019,Fraud,1129,Kaggle
+Firozabad,2020,Murder,1125,Kaggle
+Firozabad,2020,Rape,1193,Kaggle
+Firozabad,2020,Kidnapping,208,Kaggle
+Firozabad,2020,Theft,639,Kaggle
+Firozabad,2020,Robbery,841,Kaggle
+Firozabad,2020,Assault,175,Kaggle
+Firozabad,2020,Burglary,163,Kaggle
+Firozabad,2020,Cybercrime,506,Kaggle
+Firozabad,2020,Dowry Deaths,751,Kaggle
+Firozabad,2020,Fraud,433,Kaggle
+Firozabad,2021,Murder,315,Kaggle
+Firozabad,2021,Rape,894,Kaggle
+Firozabad,2021,Kidnapping,944,Kaggle
+Firozabad,2021,Theft,213,Kaggle
+Firozabad,2021,Robbery,696,Kaggle
+Firozabad,2021,Assault,156,Kaggle
+Firozabad,2021,Burglary,586,Kaggle
+Firozabad,2021,Cybercrime,1133,Kaggle
+Firozabad,2021,Dowry Deaths,743,Kaggle
+Firozabad,2021,Fraud,155,Kaggle
+Firozabad,2022,Murder,688,Kaggle
+Firozabad,2022,Rape,1098,Kaggle
+Firozabad,2022,Kidnapping,932,Kaggle
+Firozabad,2022,Theft,862,Kaggle
+Firozabad,2022,Robbery,766,Kaggle
+Firozabad,2022,Assault,314,Kaggle
+Firozabad,2022,Burglary,1064,Kaggle
+Firozabad,2022,Cybercrime,382,Kaggle
+Firozabad,2022,Dowry Deaths,492,Kaggle
+Firozabad,2022,Fraud,653,Kaggle
+Firozabad,2023,Murder,357,Kaggle
+Firozabad,2023,Rape,174,Kaggle
+Firozabad,2023,Kidnapping,36,Kaggle
+Firozabad,2023,Theft,1017,Kaggle
+Firozabad,2023,Robbery,1133,Kaggle
+Firozabad,2023,Assault,57,Kaggle
+Firozabad,2023,Burglary,690,Kaggle
+Firozabad,2023,Cybercrime,718,Kaggle
+Firozabad,2023,Dowry Deaths,571,Kaggle
+Firozabad,2023,Fraud,67,Kaggle
+Muzaffarnagar,2014,Murder,850,Kaggle
+Muzaffarnagar,2014,Rape,635,Kaggle
+Muzaffarnagar,2014,Kidnapping,281,Kaggle
+Muzaffarnagar,2014,Theft,278,Kaggle
+Muzaffarnagar,2014,Robbery,733,Kaggle
+Muzaffarnagar,2014,Assault,1057,Kaggle
+Muzaffarnagar,2014,Burglary,696,Kaggle
+Muzaffarnagar,2014,Cybercrime,36,Kaggle
+Muzaffarnagar,2014,Dowry Deaths,145,Kaggle
+Muzaffarnagar,2014,Fraud,69,Kaggle
+Muzaffarnagar,2015,Murder,1046,Kaggle
+Muzaffarnagar,2015,Rape,1051,Kaggle
+Muzaffarnagar,2015,Kidnapping,1130,Kaggle
+Muzaffarnagar,2015,Theft,1028,Kaggle
+Muzaffarnagar,2015,Robbery,128,Kaggle
+Muzaffarnagar,2015,Assault,526,Kaggle
+Muzaffarnagar,2015,Burglary,1146,Kaggle
+Muzaffarnagar,2015,Cybercrime,577,Kaggle
+Muzaffarnagar,2015,Dowry Deaths,46,Kaggle
+Muzaffarnagar,2015,Fraud,816,Kaggle
+Muzaffarnagar,2016,Murder,1164,Kaggle
+Muzaffarnagar,2016,Rape,310,Kaggle
+Muzaffarnagar,2016,Kidnapping,604,Kaggle
+Muzaffarnagar,2016,Theft,259,Kaggle
+Muzaffarnagar,2016,Robbery,920,Kaggle
+Muzaffarnagar,2016,Assault,1028,Kaggle
+Muzaffarnagar,2016,Burglary,768,Kaggle
+Muzaffarnagar,2016,Cybercrime,939,Kaggle
+Muzaffarnagar,2016,Dowry Deaths,572,Kaggle
+Muzaffarnagar,2016,Fraud,580,Kaggle
+Muzaffarnagar,2017,Murder,195,Kaggle
+Muzaffarnagar,2017,Rape,324,Kaggle
+Muzaffarnagar,2017,Kidnapping,554,Kaggle
+Muzaffarnagar,2017,Theft,534,Kaggle
+Muzaffarnagar,2017,Robbery,1012,Kaggle
+Muzaffarnagar,2017,Assault,720,Kaggle
+Muzaffarnagar,2017,Burglary,307,Kaggle
+Muzaffarnagar,2017,Cybercrime,809,Kaggle
+Muzaffarnagar,2017,Dowry Deaths,301,Kaggle
+Muzaffarnagar,2017,Fraud,264,Kaggle
+Muzaffarnagar,2018,Murder,1022,Kaggle
+Muzaffarnagar,2018,Rape,984,Kaggle
+Muzaffarnagar,2018,Kidnapping,1061,Kaggle
+Muzaffarnagar,2018,Theft,1152,Kaggle
+Muzaffarnagar,2018,Robbery,126,Kaggle
+Muzaffarnagar,2018,Assault,585,Kaggle
+Muzaffarnagar,2018,Burglary,1017,Kaggle
+Muzaffarnagar,2018,Cybercrime,230,Kaggle
+Muzaffarnagar,2018,Dowry Deaths,121,Kaggle
+Muzaffarnagar,2018,Fraud,390,Kaggle
+Muzaffarnagar,2019,Murder,849,Kaggle
+Muzaffarnagar,2019,Rape,665,Kaggle
+Muzaffarnagar,2019,Kidnapping,726,Kaggle
+Muzaffarnagar,2019,Theft,382,Kaggle
+Muzaffarnagar,2019,Robbery,302,Kaggle
+Muzaffarnagar,2019,Assault,305,Kaggle
+Muzaffarnagar,2019,Burglary,796,Kaggle
+Muzaffarnagar,2019,Cybercrime,760,Kaggle
+Muzaffarnagar,2019,Dowry Deaths,1024,Kaggle
+Muzaffarnagar,2019,Fraud,998,Kaggle
+Muzaffarnagar,2020,Murder,142,Kaggle
+Muzaffarnagar,2020,Rape,343,Kaggle
+Muzaffarnagar,2020,Kidnapping,238,Kaggle
+Muzaffarnagar,2020,Theft,294,Kaggle
+Muzaffarnagar,2020,Robbery,1173,Kaggle
+Muzaffarnagar,2020,Assault,805,Kaggle
+Muzaffarnagar,2020,Burglary,633,Kaggle
+Muzaffarnagar,2020,Cybercrime,321,Kaggle
+Muzaffarnagar,2020,Dowry Deaths,936,Kaggle
+Muzaffarnagar,2020,Fraud,239,Kaggle
+Muzaffarnagar,2021,Murder,679,Kaggle
+Muzaffarnagar,2021,Rape,553,Kaggle
+Muzaffarnagar,2021,Kidnapping,809,Kaggle
+Muzaffarnagar,2021,Theft,720,Kaggle
+Muzaffarnagar,2021,Robbery,1181,Kaggle
+Muzaffarnagar,2021,Assault,931,Kaggle
+Muzaffarnagar,2021,Burglary,119,Kaggle
+Muzaffarnagar,2021,Cybercrime,703,Kaggle
+Muzaffarnagar,2021,Dowry Deaths,689,Kaggle
+Muzaffarnagar,2021,Fraud,206,Kaggle
+Muzaffarnagar,2022,Murder,606,Kaggle
+Muzaffarnagar,2022,Rape,1034,Kaggle
+Muzaffarnagar,2022,Kidnapping,199,Kaggle
+Muzaffarnagar,2022,Theft,101,Kaggle
+Muzaffarnagar,2022,Robbery,306,Kaggle
+Muzaffarnagar,2022,Assault,99,Kaggle
+Muzaffarnagar,2022,Burglary,600,Kaggle
+Muzaffarnagar,2022,Cybercrime,589,Kaggle
+Muzaffarnagar,2022,Dowry Deaths,582,Kaggle
+Muzaffarnagar,2022,Fraud,649,Kaggle
+Muzaffarnagar,2023,Murder,440,Kaggle
+Muzaffarnagar,2023,Rape,92,Kaggle
+Muzaffarnagar,2023,Kidnapping,905,Kaggle
+Muzaffarnagar,2023,Theft,856,Kaggle
+Muzaffarnagar,2023,Robbery,143,Kaggle
+Muzaffarnagar,2023,Assault,657,Kaggle
+Muzaffarnagar,2023,Burglary,646,Kaggle
+Muzaffarnagar,2023,Cybercrime,766,Kaggle
+Muzaffarnagar,2023,Dowry Deaths,377,Kaggle
+Muzaffarnagar,2023,Fraud,1084,Kaggle
+Ballia,2014,Murder,764,Kaggle
+Ballia,2014,Rape,1181,Kaggle
+Ballia,2014,Kidnapping,998,Kaggle
+Ballia,2014,Theft,960,Kaggle
+Ballia,2014,Robbery,465,Kaggle
+Ballia,2014,Assault,695,Kaggle
+Ballia,2014,Burglary,435,Kaggle
+Ballia,2014,Cybercrime,420,Kaggle
+Ballia,2014,Dowry Deaths,435,Kaggle
+Ballia,2014,Fraud,941,Kaggle
+Ballia,2015,Murder,691,Kaggle
+Ballia,2015,Rape,738,Kaggle
+Ballia,2015,Kidnapping,979,Kaggle
+Ballia,2015,Theft,545,Kaggle
+Ballia,2015,Robbery,798,Kaggle
+Ballia,2015,Assault,344,Kaggle
+Ballia,2015,Burglary,108,Kaggle
+Ballia,2015,Cybercrime,993,Kaggle
+Ballia,2015,Dowry Deaths,813,Kaggle
+Ballia,2015,Fraud,337,Kaggle
+Ballia,2016,Murder,110,Kaggle
+Ballia,2016,Rape,83,Kaggle
+Ballia,2016,Kidnapping,710,Kaggle
+Ballia,2016,Theft,982,Kaggle
+Ballia,2016,Robbery,926,Kaggle
+Ballia,2016,Assault,264,Kaggle
+Ballia,2016,Burglary,32,Kaggle
+Ballia,2016,Cybercrime,273,Kaggle
+Ballia,2016,Dowry Deaths,683,Kaggle
+Ballia,2016,Fraud,394,Kaggle
+Ballia,2017,Murder,863,Kaggle
+Ballia,2017,Rape,22,Kaggle
+Ballia,2017,Kidnapping,159,Kaggle
+Ballia,2017,Theft,821,Kaggle
+Ballia,2017,Robbery,865,Kaggle
+Ballia,2017,Assault,655,Kaggle
+Ballia,2017,Burglary,759,Kaggle
+Ballia,2017,Cybercrime,767,Kaggle
+Ballia,2017,Dowry Deaths,522,Kaggle
+Ballia,2017,Fraud,405,Kaggle
+Ballia,2018,Murder,1035,Kaggle
+Ballia,2018,Rape,222,Kaggle
+Ballia,2018,Kidnapping,1034,Kaggle
+Ballia,2018,Theft,477,Kaggle
+Ballia,2018,Robbery,480,Kaggle
+Ballia,2018,Assault,216,Kaggle
+Ballia,2018,Burglary,719,Kaggle
+Ballia,2018,Cybercrime,214,Kaggle
+Ballia,2018,Dowry Deaths,978,Kaggle
+Ballia,2018,Fraud,1072,Kaggle
+Ballia,2019,Murder,432,Kaggle
+Ballia,2019,Rape,41,Kaggle
+Ballia,2019,Kidnapping,230,Kaggle
+Ballia,2019,Theft,790,Kaggle
+Ballia,2019,Robbery,979,Kaggle
+Ballia,2019,Assault,712,Kaggle
+Ballia,2019,Burglary,386,Kaggle
+Ballia,2019,Cybercrime,715,Kaggle
+Ballia,2019,Dowry Deaths,561,Kaggle
+Ballia,2019,Fraud,384,Kaggle
+Ballia,2020,Murder,446,Kaggle
+Ballia,2020,Rape,764,Kaggle
+Ballia,2020,Kidnapping,136,Kaggle
+Ballia,2020,Theft,643,Kaggle
+Ballia,2020,Robbery,80,Kaggle
+Ballia,2020,Assault,65,Kaggle
+Ballia,2020,Burglary,853,Kaggle
+Ballia,2020,Cybercrime,698,Kaggle
+Ballia,2020,Dowry Deaths,781,Kaggle
+Ballia,2020,Fraud,509,Kaggle
+Ballia,2021,Murder,729,Kaggle
+Ballia,2021,Rape,380,Kaggle
+Ballia,2021,Kidnapping,354,Kaggle
+Ballia,2021,Theft,437,Kaggle
+Ballia,2021,Robbery,700,Kaggle
+Ballia,2021,Assault,778,Kaggle
+Ballia,2021,Burglary,547,Kaggle
+Ballia,2021,Cybercrime,208,Kaggle
+Ballia,2021,Dowry Deaths,236,Kaggle
+Ballia,2021,Fraud,865,Kaggle
+Ballia,2022,Murder,1013,Kaggle
+Ballia,2022,Rape,488,Kaggle
+Ballia,2022,Kidnapping,431,Kaggle
+Ballia,2022,Theft,616,Kaggle
+Ballia,2022,Robbery,126,Kaggle
+Ballia,2022,Assault,652,Kaggle
+Ballia,2022,Burglary,302,Kaggle
+Ballia,2022,Cybercrime,882,Kaggle
+Ballia,2022,Dowry Deaths,1180,Kaggle
+Ballia,2022,Fraud,1019,Kaggle
+Ballia,2023,Murder,1171,Kaggle
+Ballia,2023,Rape,1016,Kaggle
+Ballia,2023,Kidnapping,621,Kaggle
+Ballia,2023,Theft,913,Kaggle
+Ballia,2023,Robbery,1062,Kaggle
+Ballia,2023,Assault,1192,Kaggle
+Ballia,2023,Burglary,580,Kaggle
+Ballia,2023,Cybercrime,753,Kaggle
+Ballia,2023,Dowry Deaths,288,Kaggle
+Ballia,2023,Fraud,146,Kaggle
+Basti,2014,Murder,573,Kaggle
+Basti,2014,Rape,739,Kaggle
+Basti,2014,Kidnapping,792,Kaggle
+Basti,2014,Theft,218,Kaggle
+Basti,2014,Robbery,426,Kaggle
+Basti,2014,Assault,1195,Kaggle
+Basti,2014,Burglary,932,Kaggle
+Basti,2014,Cybercrime,125,Kaggle
+Basti,2014,Dowry Deaths,881,Kaggle
+Basti,2014,Fraud,1140,Kaggle
+Basti,2015,Murder,254,Kaggle
+Basti,2015,Rape,67,Kaggle
+Basti,2015,Kidnapping,305,Kaggle
+Basti,2015,Theft,744,Kaggle
+Basti,2015,Robbery,510,Kaggle
+Basti,2015,Assault,662,Kaggle
+Basti,2015,Burglary,800,Kaggle
+Basti,2015,Cybercrime,210,Kaggle
+Basti,2015,Dowry Deaths,461,Kaggle
+Basti,2015,Fraud,133,Kaggle
+Basti,2016,Murder,583,Kaggle
+Basti,2016,Rape,180,Kaggle
+Basti,2016,Kidnapping,230,Kaggle
+Basti,2016,Theft,24,Kaggle
+Basti,2016,Robbery,731,Kaggle
+Basti,2016,Assault,165,Kaggle
+Basti,2016,Burglary,217,Kaggle
+Basti,2016,Cybercrime,111,Kaggle
+Basti,2016,Dowry Deaths,628,Kaggle
+Basti,2016,Fraud,857,Kaggle
+Basti,2017,Murder,398,Kaggle
+Basti,2017,Rape,445,Kaggle
+Basti,2017,Kidnapping,734,Kaggle
+Basti,2017,Theft,125,Kaggle
+Basti,2017,Robbery,751,Kaggle
+Basti,2017,Assault,22,Kaggle
+Basti,2017,Burglary,1044,Kaggle
+Basti,2017,Cybercrime,607,Kaggle
+Basti,2017,Dowry Deaths,1096,Kaggle
+Basti,2017,Fraud,430,Kaggle
+Basti,2018,Murder,315,Kaggle
+Basti,2018,Rape,873,Kaggle
+Basti,2018,Kidnapping,215,Kaggle
+Basti,2018,Theft,563,Kaggle
+Basti,2018,Robbery,43,Kaggle
+Basti,2018,Assault,435,Kaggle
+Basti,2018,Burglary,792,Kaggle
+Basti,2018,Cybercrime,878,Kaggle
+Basti,2018,Dowry Deaths,297,Kaggle
+Basti,2018,Fraud,480,Kaggle
+Basti,2019,Murder,351,Kaggle
+Basti,2019,Rape,464,Kaggle
+Basti,2019,Kidnapping,530,Kaggle
+Basti,2019,Theft,734,Kaggle
+Basti,2019,Robbery,198,Kaggle
+Basti,2019,Assault,884,Kaggle
+Basti,2019,Burglary,82,Kaggle
+Basti,2019,Cybercrime,1174,Kaggle
+Basti,2019,Dowry Deaths,843,Kaggle
+Basti,2019,Fraud,1023,Kaggle
+Basti,2020,Murder,763,Kaggle
+Basti,2020,Rape,232,Kaggle
+Basti,2020,Kidnapping,358,Kaggle
+Basti,2020,Theft,26,Kaggle
+Basti,2020,Robbery,804,Kaggle
+Basti,2020,Assault,105,Kaggle
+Basti,2020,Burglary,1103,Kaggle
+Basti,2020,Cybercrime,947,Kaggle
+Basti,2020,Dowry Deaths,720,Kaggle
+Basti,2020,Fraud,441,Kaggle
+Basti,2021,Murder,370,Kaggle
+Basti,2021,Rape,145,Kaggle
+Basti,2021,Kidnapping,1024,Kaggle
+Basti,2021,Theft,712,Kaggle
+Basti,2021,Robbery,807,Kaggle
+Basti,2021,Assault,169,Kaggle
+Basti,2021,Burglary,876,Kaggle
+Basti,2021,Cybercrime,1136,Kaggle
+Basti,2021,Dowry Deaths,638,Kaggle
+Basti,2021,Fraud,1064,Kaggle
+Basti,2022,Murder,230,Kaggle
+Basti,2022,Rape,165,Kaggle
+Basti,2022,Kidnapping,60,Kaggle
+Basti,2022,Theft,521,Kaggle
+Basti,2022,Robbery,948,Kaggle
+Basti,2022,Assault,995,Kaggle
+Basti,2022,Burglary,977,Kaggle
+Basti,2022,Cybercrime,735,Kaggle
+Basti,2022,Dowry Deaths,1182,Kaggle
+Basti,2022,Fraud,1156,Kaggle
+Basti,2023,Murder,548,Kaggle
+Basti,2023,Rape,338,Kaggle
+Basti,2023,Kidnapping,883,Kaggle
+Basti,2023,Theft,266,Kaggle
+Basti,2023,Robbery,378,Kaggle
+Basti,2023,Assault,858,Kaggle
+Basti,2023,Burglary,1034,Kaggle
+Basti,2023,Cybercrime,917,Kaggle
+Basti,2023,Dowry Deaths,122,Kaggle
+Basti,2023,Fraud,152,Kaggle
+Etawah,2014,Murder,527,Kaggle
+Etawah,2014,Rape,426,Kaggle
+Etawah,2014,Kidnapping,415,Kaggle
+Etawah,2014,Theft,880,Kaggle
+Etawah,2014,Robbery,1018,Kaggle
+Etawah,2014,Assault,871,Kaggle
+Etawah,2014,Burglary,615,Kaggle
+Etawah,2014,Cybercrime,198,Kaggle
+Etawah,2014,Dowry Deaths,1116,Kaggle
+Etawah,2014,Fraud,412,Kaggle
+Etawah,2015,Murder,412,Kaggle
+Etawah,2015,Rape,610,Kaggle
+Etawah,2015,Kidnapping,747,Kaggle
+Etawah,2015,Theft,723,Kaggle
+Etawah,2015,Robbery,735,Kaggle
+Etawah,2015,Assault,1198,Kaggle
+Etawah,2015,Burglary,543,Kaggle
+Etawah,2015,Cybercrime,404,Kaggle
+Etawah,2015,Dowry Deaths,501,Kaggle
+Etawah,2015,Fraud,83,Kaggle
+Etawah,2016,Murder,868,Kaggle
+Etawah,2016,Rape,33,Kaggle
+Etawah,2016,Kidnapping,199,Kaggle
+Etawah,2016,Theft,461,Kaggle
+Etawah,2016,Robbery,1162,Kaggle
+Etawah,2016,Assault,960,Kaggle
+Etawah,2016,Burglary,346,Kaggle
+Etawah,2016,Cybercrime,660,Kaggle
+Etawah,2016,Dowry Deaths,458,Kaggle
+Etawah,2016,Fraud,1196,Kaggle
+Etawah,2017,Murder,254,Kaggle
+Etawah,2017,Rape,1108,Kaggle
+Etawah,2017,Kidnapping,1190,Kaggle
+Etawah,2017,Theft,492,Kaggle
+Etawah,2017,Robbery,349,Kaggle
+Etawah,2017,Assault,1063,Kaggle
+Etawah,2017,Burglary,780,Kaggle
+Etawah,2017,Cybercrime,1045,Kaggle
+Etawah,2017,Dowry Deaths,941,Kaggle
+Etawah,2017,Fraud,550,Kaggle
+Etawah,2018,Murder,702,Kaggle
+Etawah,2018,Rape,1026,Kaggle
+Etawah,2018,Kidnapping,673,Kaggle
+Etawah,2018,Theft,1068,Kaggle
+Etawah,2018,Robbery,221,Kaggle
+Etawah,2018,Assault,690,Kaggle
+Etawah,2018,Burglary,943,Kaggle
+Etawah,2018,Cybercrime,88,Kaggle
+Etawah,2018,Dowry Deaths,132,Kaggle
+Etawah,2018,Fraud,1109,Kaggle
+Etawah,2019,Murder,725,Kaggle
+Etawah,2019,Rape,1054,Kaggle
+Etawah,2019,Kidnapping,423,Kaggle
+Etawah,2019,Theft,193,Kaggle
+Etawah,2019,Robbery,227,Kaggle
+Etawah,2019,Assault,392,Kaggle
+Etawah,2019,Burglary,1023,Kaggle
+Etawah,2019,Cybercrime,203,Kaggle
+Etawah,2019,Dowry Deaths,600,Kaggle
+Etawah,2019,Fraud,769,Kaggle
+Etawah,2020,Murder,984,Kaggle
+Etawah,2020,Rape,1173,Kaggle
+Etawah,2020,Kidnapping,201,Kaggle
+Etawah,2020,Theft,1100,Kaggle
+Etawah,2020,Robbery,1134,Kaggle
+Etawah,2020,Assault,981,Kaggle
+Etawah,2020,Burglary,47,Kaggle
+Etawah,2020,Cybercrime,917,Kaggle
+Etawah,2020,Dowry Deaths,690,Kaggle
+Etawah,2020,Fraud,424,Kaggle
+Etawah,2021,Murder,366,Kaggle
+Etawah,2021,Rape,60,Kaggle
+Etawah,2021,Kidnapping,550,Kaggle
+Etawah,2021,Theft,653,Kaggle
+Etawah,2021,Robbery,228,Kaggle
+Etawah,2021,Assault,949,Kaggle
+Etawah,2021,Burglary,687,Kaggle
+Etawah,2021,Cybercrime,594,Kaggle
+Etawah,2021,Dowry Deaths,794,Kaggle
+Etawah,2021,Fraud,48,Kaggle
+Etawah,2022,Murder,704,Kaggle
+Etawah,2022,Rape,1115,Kaggle
+Etawah,2022,Kidnapping,208,Kaggle
+Etawah,2022,Theft,915,Kaggle
+Etawah,2022,Robbery,719,Kaggle
+Etawah,2022,Assault,291,Kaggle
+Etawah,2022,Burglary,1146,Kaggle
+Etawah,2022,Cybercrime,325,Kaggle
+Etawah,2022,Dowry Deaths,890,Kaggle
+Etawah,2022,Fraud,562,Kaggle
+Etawah,2023,Murder,195,Kaggle
+Etawah,2023,Rape,125,Kaggle
+Etawah,2023,Kidnapping,251,Kaggle
+Etawah,2023,Theft,424,Kaggle
+Etawah,2023,Robbery,1000,Kaggle
+Etawah,2023,Assault,630,Kaggle
+Etawah,2023,Burglary,1022,Kaggle
+Etawah,2023,Cybercrime,503,Kaggle
+Etawah,2023,Dowry Deaths,422,Kaggle
+Etawah,2023,Fraud,372,Kaggle
+Mirzapur,2014,Murder,1182,Kaggle
+Mirzapur,2014,Rape,958,Kaggle
+Mirzapur,2014,Kidnapping,169,Kaggle
+Mirzapur,2014,Theft,202,Kaggle
+Mirzapur,2014,Robbery,726,Kaggle
+Mirzapur,2014,Assault,480,Kaggle
+Mirzapur,2014,Burglary,871,Kaggle
+Mirzapur,2014,Cybercrime,72,Kaggle
+Mirzapur,2014,Dowry Deaths,890,Kaggle
+Mirzapur,2014,Fraud,771,Kaggle
+Mirzapur,2015,Murder,71,Kaggle
+Mirzapur,2015,Rape,443,Kaggle
+Mirzapur,2015,Kidnapping,138,Kaggle
+Mirzapur,2015,Theft,1187,Kaggle
+Mirzapur,2015,Robbery,530,Kaggle
+Mirzapur,2015,Assault,133,Kaggle
+Mirzapur,2015,Burglary,323,Kaggle
+Mirzapur,2015,Cybercrime,290,Kaggle
+Mirzapur,2015,Dowry Deaths,949,Kaggle
+Mirzapur,2015,Fraud,607,Kaggle
+Mirzapur,2016,Murder,938,Kaggle
+Mirzapur,2016,Rape,553,Kaggle
+Mirzapur,2016,Kidnapping,873,Kaggle
+Mirzapur,2016,Theft,141,Kaggle
+Mirzapur,2016,Robbery,312,Kaggle
+Mirzapur,2016,Assault,240,Kaggle
+Mirzapur,2016,Burglary,852,Kaggle
+Mirzapur,2016,Cybercrime,951,Kaggle
+Mirzapur,2016,Dowry Deaths,95,Kaggle
+Mirzapur,2016,Fraud,1026,Kaggle
+Mirzapur,2017,Murder,613,Kaggle
+Mirzapur,2017,Rape,750,Kaggle
+Mirzapur,2017,Kidnapping,116,Kaggle
+Mirzapur,2017,Theft,600,Kaggle
+Mirzapur,2017,Robbery,392,Kaggle
+Mirzapur,2017,Assault,827,Kaggle
+Mirzapur,2017,Burglary,424,Kaggle
+Mirzapur,2017,Cybercrime,1169,Kaggle
+Mirzapur,2017,Dowry Deaths,921,Kaggle
+Mirzapur,2017,Fraud,765,Kaggle
+Mirzapur,2018,Murder,506,Kaggle
+Mirzapur,2018,Rape,1027,Kaggle
+Mirzapur,2018,Kidnapping,799,Kaggle
+Mirzapur,2018,Theft,501,Kaggle
+Mirzapur,2018,Robbery,591,Kaggle
+Mirzapur,2018,Assault,932,Kaggle
+Mirzapur,2018,Burglary,99,Kaggle
+Mirzapur,2018,Cybercrime,752,Kaggle
+Mirzapur,2018,Dowry Deaths,213,Kaggle
+Mirzapur,2018,Fraud,150,Kaggle
+Mirzapur,2019,Murder,132,Kaggle
+Mirzapur,2019,Rape,404,Kaggle
+Mirzapur,2019,Kidnapping,707,Kaggle
+Mirzapur,2019,Theft,509,Kaggle
+Mirzapur,2019,Robbery,416,Kaggle
+Mirzapur,2019,Assault,204,Kaggle
+Mirzapur,2019,Burglary,177,Kaggle
+Mirzapur,2019,Cybercrime,580,Kaggle
+Mirzapur,2019,Dowry Deaths,52,Kaggle
+Mirzapur,2019,Fraud,24,Kaggle
+Mirzapur,2020,Murder,826,Kaggle
+Mirzapur,2020,Rape,709,Kaggle
+Mirzapur,2020,Kidnapping,67,Kaggle
+Mirzapur,2020,Theft,302,Kaggle
+Mirzapur,2020,Robbery,486,Kaggle
+Mirzapur,2020,Assault,488,Kaggle
+Mirzapur,2020,Burglary,236,Kaggle
+Mirzapur,2020,Cybercrime,292,Kaggle
+Mirzapur,2020,Dowry Deaths,1012,Kaggle
+Mirzapur,2020,Fraud,538,Kaggle
+Mirzapur,2021,Murder,1057,Kaggle
+Mirzapur,2021,Rape,875,Kaggle
+Mirzapur,2021,Kidnapping,453,Kaggle
+Mirzapur,2021,Theft,606,Kaggle
+Mirzapur,2021,Robbery,403,Kaggle
+Mirzapur,2021,Assault,574,Kaggle
+Mirzapur,2021,Burglary,1005,Kaggle
+Mirzapur,2021,Cybercrime,328,Kaggle
+Mirzapur,2021,Dowry Deaths,195,Kaggle
+Mirzapur,2021,Fraud,80,Kaggle
+Mirzapur,2022,Murder,270,Kaggle
+Mirzapur,2022,Rape,225,Kaggle
+Mirzapur,2022,Kidnapping,369,Kaggle
+Mirzapur,2022,Theft,717,Kaggle
+Mirzapur,2022,Robbery,465,Kaggle
+Mirzapur,2022,Assault,955,Kaggle
+Mirzapur,2022,Burglary,510,Kaggle
+Mirzapur,2022,Cybercrime,684,Kaggle
+Mirzapur,2022,Dowry Deaths,420,Kaggle
+Mirzapur,2022,Fraud,550,Kaggle
+Mirzapur,2023,Murder,447,Kaggle
+Mirzapur,2023,Rape,1180,Kaggle
+Mirzapur,2023,Kidnapping,970,Kaggle
+Mirzapur,2023,Theft,742,Kaggle
+Mirzapur,2023,Robbery,1015,Kaggle
+Mirzapur,2023,Assault,236,Kaggle
+Mirzapur,2023,Burglary,238,Kaggle
+Mirzapur,2023,Cybercrime,1130,Kaggle
+Mirzapur,2023,Dowry Deaths,439,Kaggle
+Mirzapur,2023,Fraud,1141,Kaggle
